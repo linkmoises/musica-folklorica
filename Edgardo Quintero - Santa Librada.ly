@@ -23,5 +23,14 @@
 	f e dis e b d ~ | d c a ~ a e' e | e a g fis e g ~ | g d b' g d c ~ |
 	c a a' fis d b | b g4 r8 e'8 e | e a g fis e g ~ | g d b' g d c ~ |
 	c a a' fis d b | r8 g' fis g fis g |
+	\repeat volta 2 {
+		a g d b' a g | fis a gis a gis a | c a d d c a |
+	}
+	\alternative {
+		{ b g fis g fis g | }
+		{ b b, d g fis a | }
+	}
+	\bar "||"
+	g g, b e d4 |
 	}
 }
