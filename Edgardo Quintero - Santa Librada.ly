@@ -31,6 +31,32 @@
 		{ b b, d g fis a | }
 	}
 	\bar "||"
-	g g, b e d4 |
+	g g, b e d4 | a8 a b c d e | fis a, c e d4 | g,8 r8 b e d r8 |
+	\repeat volta 2 {
+		e8 d r8 e d r8 | a8 r8 c e d r8 | e8 d r8 e d r8 |
+	}
+	\alternative {
+		{ g,8 r8 b e d r8 | }
+		{ g,8 r8 r8 r8 g bes | }
+	}
+	\bar "||"
+	\key g \minor 
+	d8 g a bes fis a ~ | a g d ~ d bes c | d g fis g ees d ~ | 
+	d c a ~ a fis' g | a g fis a ees ees ~ | ees d fis ~ fis d c | 
+	ees d g fis bes a ~ | a g bes ~ bes g, bes | d g a bes fis a ~ |
+	a g d ~ d d ees | f g aes g d f ~ | f ees c ~ c a' bes |
+	c bes a g fis g ~ | g d bes' a g fis ~ | fis d ees c a c ~ |
+	c bes d ~ d a' bes | c bes a g fis g ~ | g d bes' a g fis ~ | 
+	fis d ees c a fis | g g' fis g fis g |
+	\bar "||"
+	\key g \major
+	\repeat volta 2 {
+		a8 g d b' a g | fis a gis a gis a | c a d, d' c a | 
+	}
+	\alternative {
+		{ b g fis g fis g }
+		{ b b, d g fis a }
+	}
+	g8 g, b e d4 | a8 a b c d e | fis a, c e d4 | g,8 r8 b e d r8 |
 	}
 }
