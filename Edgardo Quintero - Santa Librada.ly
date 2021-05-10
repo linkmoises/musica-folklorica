@@ -17,13 +17,8 @@
 	\relative c' {
 	\key g \major
 	\time 6/8
-	%% \repeat tremolo 2 { <b' g'> 64 }
-	<b' g'>2. \fermata
-	%% \relative c {
-	%%	\compressFullBarRests
-	%%	\override MultiMeasureRest.expand-limit = #2
-	%%	R2.*3
-	%% }
+	<b' g'>2.:32 \fermata
+	r2. | r2. | r2.
 	\bar "||"
 	r4. r8  g8 b \bar "||" | 
 	\mark \markup { \small \musicglyph #"scripts.segno" }
