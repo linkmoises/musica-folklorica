@@ -11,6 +11,7 @@
 	top-margin = 15
 	left-margin = 15
 	right-margin = 15
+	bottom-margin = 20
 }
 
 \score {
@@ -18,7 +19,7 @@
 	\key g \major
 	\time 6/8
 	<b' g'>2.:32 \fermata
-	r2. | r2. | r2.
+	r4 | r4 | r4
 	\bar "||"
 	r4. r8  g8 b \bar "||" | 
 	\mark \markup { \small \musicglyph #"scripts.segno" }

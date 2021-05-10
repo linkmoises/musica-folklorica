@@ -11,6 +11,7 @@
 	top-margin = 15
 	left-margin = 15
 	right-margin = 15
+	bottom-margin = 20
 }
 
 \score {
