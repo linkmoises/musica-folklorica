@@ -17,7 +17,15 @@
 	\relative c' {
 	\key g \major
 	\time 6/8
-	r4. r8  g'8 b \bar "||" | 
+	%% \repeat tremolo 2 { <b' g'> 64 }
+	<b' g'>2. \fermata
+	%% \relative c {
+	%%	\compressFullBarRests
+	%%	\override MultiMeasureRest.expand-limit = #2
+	%%	R2.*3
+	%% }
+	\bar "||"
+	r4. r8  g8 b \bar "||" | 
 	\mark \markup { \small \musicglyph #"scripts.segno" }
 	d cis d e d g ~ | g d b ~ b d d |
 	d e d g, b d ~ | d c a ~ a fis a | c b c d c a' ~ | a fis d ~ d a' gis |
@@ -54,6 +62,7 @@
 	\bar "||"
 	\key g \major
 	\repeat volta 2 {
+		\bar ".|:"
 		a8 g d b' a g | fis a gis a gis a | c a d, d' c a | 
 	}
 	\alternative {
