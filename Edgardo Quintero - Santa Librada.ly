@@ -17,7 +17,9 @@
 	\relative c' {
 	\key g \major
 	\time 6/8
-	r4. r8  g'8 b \bar "||" | d cis d e d g ~ | g d b ~ b d d |
+	r4. r8  g'8 b \bar "||" | 
+	\mark \markup { \small \musicglyph #"scripts.segno" }
+	d cis d e d g ~ | g d b ~ b d d |
 	d e d g, b d ~ | d c a ~ a fis a | c b c d c a' ~ | a fis d ~ d a' gis |
 	a fis d e d c ~ | c b d ~ d g, b | d cis d e d g ~ | g d b ~ b f' f |
 	f e dis e b d ~ | d c a ~ a e' e | e a g fis e g ~ | g d b' g d c ~ |
@@ -34,6 +36,7 @@
 	g g, b e d4 | a8 a b c d e | fis a, c e d4 | g,8 r8 b e d r8 |
 	\repeat volta 2 {
 		e8 d r8 e d r8 | a8 r8 c e d r8 | e8 d r8 e d r8 |
+		\mark \markup { \small \musicglyph #"scripts.coda" }
 	}
 	\alternative {
 		{ g,8 r8 b e d r8 | }
@@ -58,5 +61,36 @@
 		{ b b, d g fis a }
 	}
 	g8 g, b e d4 | a8 a b c d e | fis a, c e d4 | g,8 r8 b e d r8 |
+	\repeat volta 2 {
+		e d r8 e d r8 | a r8 c e d r8 | e d r8 e d r8 |
+	}
+	\alternative {
+		{ g, r8 b e d r8 | }
+		{ g, r8 r8 r8 g b | \bar "||" }
+	}
+	\mark \markup { \small \musicglyph #"scripts.segno" }
+        \bar "||"
+        \cadenzaOn
+                \stopStaff
+                        \repeat unfold 1 {
+                                s1
+                                \bar ""
+                        }
+                \startStaff
+        \cadenzaOff
+        \break
+        \mark \markup { \small \musicglyph #"scripts.coda" }
+	g8 r8 b e d r8 | e d r8 e d r8 | a r8 c e d r8 | e d r8 e d r8 |
+	g, r8 b e d r8 | e d r8 e d r8 | a r8 c e d r8 | d d r8 e fis r8 |
+	g r8 r8 r4. |
+        \bar "|."
+        \cadenzaOn
+                \stopStaff
+                        \repeat unfold 1 {
+                                s1
+                                \bar ""
+                        }
+                \startStaff
+        \cadenzaOff
 	}
 }
