@@ -10,9 +10,11 @@ Empecé este proyecto con una piezas que me donaron cuando era estudiante de vio
 
 ## ¿Por qué Lilypond?
 
-La respuesta a esta pregunta es sencilla. Soy usuario de GNU/Linux y suelo preferir los programas que son software libre o que son compatibles con la filosofía Open Source. Es cierto, que hay un montón de alternativas ahí fuera como Sibelius, Finales, Musescore, etc. Pero ninguna de ellas es posible instalar en las máquinas que uso, por el hecho que solo están disponibles para MacOS o Windows.
+La respuesta a esta pregunta es sencilla. Soy usuario de GNU/Linux y suelo preferir los programas que son software libre o que son compatibles con la filosofía Open Source. Es cierto, que hay un montón de alternativas ahí fuera como Sibelius, Finales, etc. Pero ninguna de ellas es posible instalar en las máquinas que uso, por el hecho que solo están disponibles para MacOS o Windows. La otra respuesta a esta pregunta es el costo de las licencias de estos programas.
 
-Lilypond puede parecer atemorizante al principio y más si me ven usándolo (editando con vim desde la terminal). No hay una interfaz gráfica como tal, pues solo es necesario el archivo ly y el compilador que hace la magia. Aunque existe la opción de usar Freescobaldi que le añade una capa gráfica a Lilypond y permite hacer ciertas cosas adicionales que de otro modo requirirían leer en la documentación como escribir x o y accidente musical.
+Me parece también que transcribo más rápido una partitura, viéndola y tecleandola a medida que la leo en lugar de ir haciendo point and click. Después de transcribir un par de partituras, las escribo y al terminar cuando las compilo solo hago las correcciones necesarias.
+
+Lilypond puede parecer atemorizante al principio y más si me ven usándolo (editando con vim desde la terminal). No hay una interfaz gráfica como tal, pues solo es necesario el archivo ly y el compilador que hace la magia. Aunque existe la opción de usar Frescobaldi que le añade una capa gráfica a Lilypond y permite hacer ciertas cosas adicionales que de otro modo requirirían leer en la documentación como escribir x o y accidente musical.
 
 ## Flujo de trabajo
 
@@ -26,6 +28,6 @@ La mayoría de estas piezas son de dominio público, o eso creo al menos. El tem
 
 ## Contribuciones
 
-Si deseas realizar alguna colaboración, pero no tienes idea de cómo utilizar la notación de lilypond puedes enviarme tu colaboración en la sección de comentarios de github o través del correo moises [arroba] serrano.red ya sea en fotografía o escaneada y la añado al repositorio para quede disponible.
+Si deseas realizar alguna colaboración, pero no tienes idea de cómo utilizar la notación de lilypond puedes enviarme tu colaboración en la sección de comentarios de github o través del correo moises [arroba] serrano.red ya sea en fotografía o escaneada y la añado al repositorio para quede disponible y sobre la marcha la convierto a formato Lilypond.
 
 Siéntete libre de colaborar con el proyecto para rescatar la memoria musical panameña.
