@@ -12,6 +12,10 @@ Empecé este proyecto con una piezas que me donaron cuando era estudiante de vio
 
 El primer paso es escanear el documento original para tener una referencia antes que se la coman las polillas o en caso de perder el documento físico. A continuación con una plantilla creo el documento donde se escribirá la partitura en formato lilypond. En el primer paso transcribo la partitura, luego añado los acordes de guitarra en caso de existir y por último la letra de la canción en caso que este disponible. Una vez completada la pieza, procedo a borrar el documento escaneado original.
 
+## Licencia
+
+La mayoría de estas piezas son de dominio público, o eso creo al menos. El tema es que encontrar una pieza musical de estas a través de los buscadores es extremadamente difícil o en la mayor parte del tiempo no se obtienen resultados.
+
 ## Contribuciones
 
 Si deseas realizar alguna colaboración, pero no tienes idea de cómo utilizar la notación de lilypond puedes enviarme tu colaboración en la sección de comentarios de github o través del correo moises [arroba] serrano.red
