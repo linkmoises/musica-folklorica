@@ -10,7 +10,9 @@ Empecé este proyecto con una piezas que me donaron cuando era estudiante de vio
 
 ## ¿Por qué Lilypond?
 
-La respuesta a esta pregunta es sencilla. Soy usuario de GNU/Linux y suelo preferir los programas que son software libre o que son compatibles con la filosofía Open Source. Es cierto, que hay un montón de alternativas ahí fuera como Sibelius, Musescore, etc. Pero ninguna de ellas es posible instalar en más máquinas que uso o bien pagar una licencia habiendo una alternativa que considero bastante poderosa.
+La respuesta a esta pregunta es sencilla. Soy usuario de GNU/Linux y suelo preferir los programas que son software libre o que son compatibles con la filosofía Open Source. Es cierto, que hay un montón de alternativas ahí fuera como Sibelius, Finales, Musescore, etc. Pero ninguna de ellas es posible instalar en las máquinas que uso, por el hecho que solo están disponibles para MacOS o Windows.
+
+Lilypond puede parecer atemorizante al principio y más si me ven usándolo (editando con vim desde la terminal). No hay una interfaz gráfica como tal, pues solo es necesario el archivo ly y el compilador que hace la magia. Aunque existe la opción de usar Freescobaldi que le añade una capa gráfica a Lilypond y permite hacer ciertas cosas adicionales que de otro modo requirirían leer en la documentación como escribir x o y accidente musical.
 
 ## Flujo de trabajo
 
