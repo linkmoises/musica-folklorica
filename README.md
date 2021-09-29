@@ -18,6 +18,6 @@ La mayoría de estas piezas son de dominio público, o eso creo al menos. El tem
 
 ## Contribuciones
 
-Si deseas realizar alguna colaboración, pero no tienes idea de cómo utilizar la notación de lilypond puedes enviarme tu colaboración en la sección de comentarios de github o través del correo moises [arroba] serrano.red
+Si deseas realizar alguna colaboración, pero no tienes idea de cómo utilizar la notación de lilypond puedes enviarme tu colaboración en la sección de comentarios de github o través del correo moises [arroba] serrano.red ya sea en fotografía o escaneada y la añado al repositorio para quede disponible.
 
 Siéntete libre de colaborar con el proyecto para rescatar la memoria musical panameña.
