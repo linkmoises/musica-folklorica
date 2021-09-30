@@ -8,7 +8,7 @@ Algunas de estás piezas incluyen solamente la parte melódica de las piezas. Po
 
 Empecé este proyecto con una piezas que me donaron cuando era estudiante de violín hace 20 años atrás, incluso había algunas a mano que con el tiempo la legibilidad ha disminuido por el deterioro del papel. He hecho mi mejor esfuerzo al tratar de transcribir las partituras para que no se pierdan estas obras.
 
-## ¿Por qué Lilypond? 📖
+## ¿Por qué Lilypond? 🎵
 
 La respuesta a esta pregunta es sencilla. Soy usuario de GNU/Linux y suelo preferir los programas que son software libre o que son compatibles con la filosofía Open Source. Es cierto, que hay un montón de alternativas ahí fuera como Sibelius, Finales, etc. Pero ninguna de ellas es posible instalar en las máquinas que uso, por el hecho que solo están disponibles para MacOS o Windows. La otra respuesta a esta pregunta es el costo de las licencias de estos programas.
 
