@@ -18,13 +18,24 @@ Lilypond puede parecer atemorizante al principio y más si me ven usándolo (edi
 
 ## Flujo de trabajo
 
-El primer paso es escanear el documento original para tener una referencia antes que se la coman las polillas o en caso de perder el documento físico, una vez escaneado le asignó la etiqueta [orig] dentro del nombre de archivo. A continuación con una plantilla creo el documento donde se escribirá la partitura en formato lilypond, a esta le asigno la etiqueta [wip] para estar conciente que se trata de un trabajo en proceso.
+El primer paso es escanear el documento original para tener una referencia antes que se la coman las polillas o en caso de perder el documento físico, una vez escaneado le asignó la etiqueta *[orig]* dentro del nombre de archivo. A continuación con una plantilla creo el documento donde se escribirá la partitura en formato lilypond, a esta le asigno la etiqueta *[wip]* para estar conciente que se trata de un trabajo en proceso.
 
-En el primer paso transcribo la partitura, luego añado los acordes de guitarra en caso de existir y por último la letra de la canción en caso que este disponible. Una vez completada la pieza, procedo a borrar el documento escaneado original y cambio el nombre de archivo quitando la etiqueta [wip]. Queda así disponible el archivo de Lilypond y el PDF generado al final de la compilación.
+En el primer paso transcribo la partitura, luego añado los acordes de guitarra en caso de existir y por último la letra de la canción en caso que este disponible. Una vez completada la pieza, procedo a borrar el documento escaneado original y cambio el nombre de archivo quitando la etiqueta *[wip]*. Queda así disponible el archivo de Lilypond y el PDF generado al final de la compilación.
 
 ## Licencia
 
-La mayoría de estas piezas son de dominio público, o eso creo al menos. El tema es que encontrar una pieza musical de estas a través de los buscadores es extremadamente difícil o en la mayor parte del tiempo no se obtienen resultados.
+Estas composiciones son de dominio público. Encontrar una pieza musical de estas a través de los buscadores es extremadamente difícil y la mayor parte del tiempo no se obtienen resultados favorables.
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+Este repositorio está bajo una
+[Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: https://creativecommons.org/licenses/by/4.0/deed.es
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ## Contribuciones
 
