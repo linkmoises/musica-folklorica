@@ -2,8 +2,8 @@
 \header {
 	title = "Contra Danza"
 	subtitle = "Contradanza"
-	composer = "Colaco Cortez"
-	tagline = "Colección de música típica panameña"
+	composer = "Braulio Escolástico 'Colaco' Cortez (1904 - 1986)"
+	tagline = "M. Serrano Samudio | Repositorio de música folklórica panameña | CC-BY | git.io/Jglgg"
 }
 
 \paper {
@@ -13,6 +13,8 @@
 	right-margin = 15
 	bottom-margin = 20
 }
+
+\markup \vspace #1 %
 
 \score {
 	\relative c' {
