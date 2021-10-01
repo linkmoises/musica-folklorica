@@ -45,6 +45,6 @@ En esta sección quiero agradecer a las personas que de una manera u otra han ap
 
 ## Contribuciones ✒️
 
-Si deseas realizar alguna colaboración, pero no tienes idea de cómo utilizar la notación de lilypond puedes enviarme tu colaboración en la sección de comentarios de github o través del correo moises [arroba] serrano.red ya sea en fotografía o escaneada y la añado al repositorio para quede disponible y sobre la marcha la convierto a formato Lilypond.
+Si deseas realizar alguna colaboración, pero no tienes idea de cómo utilizar la notación de lilypond puedes enviarme tu colaboración en la sección de comentarios de github o través del correo moises [arroba] serrano.red ya sea en fotografía o escaneada y la añado al repositorio para quede disponible y en cuanto tenga tiempo (en mi caso escasea...) la convierto a formato Lilypond con su respectivo PDF.
 
-Siéntete libre de colaborar con el proyecto para rescatar la memoria musical panameña.
+Siéntete libre de colaborar con este proyecto para rescatar la memoria musical panameña.
