@@ -17,6 +17,11 @@
 
 \markup \vspace #2 
 
+
+diagrams = \chordmode {
+  c s d:m s e s f s g s a:m s b:dim
+}
+
 \score {
 	\relative c' {
 	\key d \major
@@ -37,6 +42,6 @@
 	g4 fis e | d8 d d c d e | c c c( b) c d | b4 b8 c d e |
 	d4 e g | a4 g,8( b) d g | f4 r4 f | e r4 e | 
 	ees g( b) | d a b | g2 r4
-	\bar "||"
+	\bar "|."
 	}
 }
