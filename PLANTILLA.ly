@@ -15,7 +15,7 @@
 	bottom-margin = 20
 }
 
-\markup \vspace #2 %% usar #2 a menos que se especifique el tempo de la pieza, en cuyo caso se elimina esta línea
+\markup \vspace #2 %% usar #2. Si se tiene el tempo de la pieza se elimina esta línea
 
 \score {
 	\relative c' {
