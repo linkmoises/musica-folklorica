@@ -24,7 +24,7 @@ En el primer paso transcribo la partitura, luego añado los acordes de guitarra 
 
 ## Licencia 📄
 
-Estas composiciones son de dominio público. Encontrar una pieza musical de estas a través de los buscadores es extremadamente difícil y la mayor parte del tiempo no se obtienen resultados favorables.
+Estas composiciones son de dominio público. Encontrar una pieza musical de estas a través de los buscadores es extremadamente difícil y la mayor parte del tiempo no se obtienen resultados favorables. Por este motivo, he decidido compartir este repositorio bajo la Licencia Creative Commons CC BY 4.0.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
