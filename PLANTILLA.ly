@@ -9,13 +9,13 @@
 
 \paper {
 	#(set-paper-size "letter")
-	top-margin = 15
+	top-margin = 20
 	left-margin = 15
 	right-margin = 15
 	bottom-margin = 20
 }
 
-\markup \vspace #2 %% usar #2 a menos que se especifique el tempo de la pieza, en cuyo caso se puede usar #1
+\markup \vspace #2 %% usar #2 a menos que se especifique el tempo de la pieza, en cuyo caso se elimina esta línea
 
 \score {
 	\relative c' {

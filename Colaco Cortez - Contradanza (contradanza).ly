@@ -8,13 +8,11 @@
 
 \paper {
 	#(set-paper-size "letter")
-	top-margin = 15
+	top-margin = 20
 	left-margin = 15
 	right-margin = 15
 	bottom-margin = 20
 }
-
-\markup \vspace #1 %
 
 \score {
 	\relative c' {
