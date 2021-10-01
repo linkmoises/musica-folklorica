@@ -4,7 +4,7 @@
 	subtitle = "Pasillo"
 	poet = "Letra: Mario H. Cajar"
 	composer = "Música: Vicente Gómez Gudiño"
-	tagline = "Colección de música típica panameña"
+	tagline = "M. Serrano Samudio | Repositorio de música folklórica panameña | CC-BY | git.io/Jglgg"
 }
 
 \paper {
@@ -14,6 +14,8 @@
 	right-margin = 15
 	bottom-margin = 20
 }
+
+\markup \vspace #2 
 
 \score {
 	\relative c' {

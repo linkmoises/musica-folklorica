@@ -2,6 +2,7 @@
 \header {
 	title = " "
 	subtitle = " " %% colocar el género al cual pertenece la pieza
+	poet = " " %% colocar el nombre del autor de la letra completo y año de nacimento y fallecimiento
 	composer = " " %% colocar nombre completo del compositor y año de nacimiento y fallecimiento.
 	tagline = "M. Serrano Samudio | Repositorio de música folklórica panameña | CC-BY | git.io/Jglgg"
 }
