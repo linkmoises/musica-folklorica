@@ -3,7 +3,7 @@
 	title = "Santa Librada"
 	subtitle = "Punto"
 	composer = "Edgardo Quintero"
-	tagline = "Colección de música típica panameña"
+	tagline = "M. Serrano Samudio | Repositorio de música folklórica panameña | CC-BY | git.io/Jglgg"
 }
 
 \paper {
@@ -14,12 +14,13 @@
 	bottom-margin = 20
 }
 
-\score {
-	\relative c' {
+\markup \vspace #2 %
+
+\melody = \relative c' {
 	\key g \major
 	\time 6/8
 	<b' g'>2.:32 \fermata
-	r4 | r4 | r4
+	s2. | s2. | s2.
 	\bar "||"
 	r4. r8  g8 b \bar "||" | 
 	\mark \markup { \small \musicglyph #"scripts.segno" }
@@ -37,14 +38,15 @@
 		{ b b, d g fis a | }
 	}
 	\bar "||"
-	g g, b e d4 | a8 a b c d e | fis a, c e d4 | g,8 r8 b e d r8 |
+	g g, b e d4 | a8 a b c d e | fis a, c e d4 | 
+	g,8^\markup { \italic pizz. } r8 b e d r8 |
 	\repeat volta 2 {
 		e8 d r8 e d r8 | a8 r8 c e d r8 | e8 d r8 e d r8 |
 		\mark \markup { \small \musicglyph #"scripts.coda" }
 	}
 	\alternative {
 		{ g,8 r8 b e d r8 | }
-		{ g,8 r8 r8 r8 g bes | }
+		{ g,8 r8 r8 r8 g^\markup { \italic arco } bes | }
 	}
 	\bar "||"
 	\key g \minor 
@@ -65,7 +67,8 @@
 		{ b g fis g fis g }
 		{ b b, d g fis a }
 	}
-	g8 g, b e d4 | a8 a b c d e | fis a, c e d4 | g,8 r8 b e d r8 |
+	g8 g, b e d4 | a8 a b c d e | fis a, c e d4 | 
+	g,8^\markup { \italic pizz. } r8 b e d r8 |
 	\repeat volta 2 {
 		e d r8 e d r8 | a r8 c e d r8 | e d r8 e d r8 |
 	}
@@ -85,9 +88,10 @@
         \cadenzaOff
         \break
         \mark \markup { \small \musicglyph #"scripts.coda" }
-	g8 r8 b e d r8 | e d r8 e d r8 | a r8 c e d r8 | e d r8 e d r8 |
-	g, r8 b e d r8 | e d r8 e d r8 | a r8 c e d r8 | d d r8 e fis r8 |
-	g r8 r8 r4. |
+	g8^\markup { \italic pizz. } r8 b e d r8 | e d r8 e d r8 | 
+	a r8 c e d r8 | e d r8 e d r8 | g, r8 b e d r8 | e d r8 e d r8 | 
+	a r8 c e d r8 | 
+	d^\markup { \italic arco } d r8 e fis r8 | g r8 r8 r4. |
         \bar "|."
         \cadenzaOn
                 \stopStaff
@@ -97,5 +101,68 @@
                         }
                 \startStaff
         \cadenzaOff
+}
+
+harmonies = \chordmode {
+	\time 6/8
+	s2. s2. s2. s2. s2.
+	g2. | g2. | 
+	g2. | d2.:7 | d2.:7 | d2.:7 | 
+	d2.:7 | g2. | g2. | g2. |
+	g2.:7 | c2. | c2. | g2. | 
+	d2.:7 | g2. | c2. | g2. | 
+	d2.:7 | g2. | 
+	
+	g2. | d2.:7 | d2.:7 |
+	
+	g2. |
+	g2. |
+	
+	g2. | d2.:7 | d2.:7 | g2. |
+	
+	g2. | d2.:7 | d2.:7 |
+	
+	g2. |
+	g2. |
+	
+	g2.:m | g2.:m | g2.:m |
+	d2.:7 | c2.:m | d2.:7 |
+	d2.:7 | g2.:m | g2.:m |
+	g2.:m | g2.:m7 | c2.:m |
+	c2.:m | g2.:m | d2.:7 |
+	d2.:7 | c2.:m | c2.:m |
+	d2.:7 | g2. |
+	
+	g2. | d2.:7 | d2.:7 |
+	
+	g2. |
+	g2. |
+	
+	g2. | d2.:7 | d2.:7 | g2. |
+	
+	g2. | d2.:7 | d2.:7 |
+	
+	g2. |
+	g2. |
+	
+	s8 s8 %% este hack es para que la comprobación de tiempo no marque errores 
+	
+	g2. | g2. | g2. | 
+	d2.:7 | d2.:7 | g2. | g2. | 
+	d2.:7 | 
+	d2.:7 | g2.
+}
+
+\score {
+	<<
+	\language "espanol"
+	\new ChordNames {
+		\set chordChanges = ##t
+		\harmonies
 	}
+	\new Staff {
+		\melody
+	}
+	>>
+\layout {}
 }
