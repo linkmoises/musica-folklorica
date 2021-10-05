@@ -82,6 +82,7 @@ chordsline = {
 
 \score {
   <<
+    \language "espanol"
     \new ChordNames {
       \chordsline
     }
