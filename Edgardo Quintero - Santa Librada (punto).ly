@@ -16,7 +16,7 @@
 
 \markup \vspace #2 %
 
-\melody = \relative c' {
+melody = \relative c' {
 	\key g \major
 	\time 6/8
 	<b' g'>2.:32 \fermata
@@ -89,8 +89,8 @@
         \break
         \mark \markup { \small \musicglyph #"scripts.coda" }
 	g8^\markup { \italic pizz. } r8 b e d r8 | e d r8 e d r8 | 
-	a r8 c e d r8 | e d r8 e d r8 | g, r8 b e d r8 | e d r8 e d r8 | 
-	a r8 c e d r8 | 
+	a r8 c e d r8 | e d r8 e d r8 | g, r8 b e d r8 | \break
+	e d r8 e d r8 | a r8 c e d r8 | 
 	d^\markup { \italic arco } d r8 e fis r8 | g r8 r8 r4. |
         \bar "|."
         \cadenzaOn
@@ -148,8 +148,8 @@ harmonies = \chordmode {
 	s8 s8 %% este hack es para que la comprobación de tiempo no marque errores 
 	
 	g2. | g2. | g2. | 
-	d2.:7 | d2.:7 | g2. | g2. | 
-	d2.:7 | 
+	d2.:7 | d2.:7 | g2. | 
+	g2. | d2.:7 | 
 	d2.:7 | g2.
 }
 
