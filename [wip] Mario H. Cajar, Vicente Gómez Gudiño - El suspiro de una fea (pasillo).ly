@@ -18,12 +18,7 @@
 \markup \vspace #2 
 
 
-diagrams = \chordmode {
-  c s d:m s e s f s g s a:m s b:dim
-}
-
-\score {
-	\relative c' {
+melody = \relative c' {
 	\key d \major
 	\time 3/4
 	\set Timing.beamExceptions = #'()
@@ -43,5 +38,28 @@ diagrams = \chordmode {
 	d4 e g | a4 g,8( b) d g | f4 r4 f | e r4 e | 
 	ees g( b) | d a b | g2 r4
 	\bar "|."
+}
+
+
+harmonies = \chordmode {
+	\time 3/4
+	s2. | d2. | b2.:7 | e2.:m | 
+	e2.:m | a2.:7 | a2.:7 | d2. | 
+	d2. | d2. | b2.:7 | e2.:m | 
+	e2.:m | d2. | a2.:7 | d2. |
+	
+}
+
+\score {
+	<<
+	\language "espanol"
+	\new ChordNames {
+		\set chordChanges = ##t
+		\harmonies
 	}
+	\new Staff {
+		\melody
+	}
+	>>
+\layout {}
 }
