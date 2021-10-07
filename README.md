@@ -24,6 +24,9 @@ En el primer paso transcribo la partitura, luego añado los acordes de guitarra 
 
 ## Partituras completas
 
+* Contradanza
+    * Contra danza - Colaco Cortéz
+  
 * Cumbias
     * La realidad - José De La Rosa Cedeño (danzón cumbia)
     
