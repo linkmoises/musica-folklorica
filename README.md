@@ -18,11 +18,11 @@ Lilypond puede parecer atemorizante al principio y más si me ven usándolo (edi
 
 ## Flujo de trabajo 🛠️
 
-El primer paso es escanear el documento original para tener una referencia antes que se la coman las polillas o en caso de perder el documento físico, una vez escaneado le asignó la etiqueta *[orig]* dentro del nombre de archivo. A continuación con una plantilla creo el documento donde se escribirá la partitura en formato lilypond, a esta le asigno la etiqueta *[wip]* para estar conciente que se trata de un trabajo en proceso.
+El primer paso es escanear el documento original para tener una referencia antes que se la coman las polillas o en caso de perder el documento físico, una vez escaneado le asignó la etiqueta *[orig]* al principio del nombre de archivo. A continuación con una plantilla creo el documento donde se escribirá la partitura en formato lilypond, a esta le asigno la etiqueta *[wip]* al principio del nombre de archivo para estar conciente que se trata de un trabajo en proceso.
 
 En el primer paso transcribo la partitura, luego añado los acordes de guitarra en caso de existir y por último la letra de la canción en caso que este disponible. Una vez completada la pieza, procedo a borrar el documento escaneado original y cambio el nombre de archivo quitando la etiqueta *[wip]*. Queda así disponible el archivo de Lilypond y el PDF generado al final de la compilación.
 
-## Partituras completas
+## Partituras completas 🎻
 
 * Contradanza
     * Contra danza - Colaco Cortéz
