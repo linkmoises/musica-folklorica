@@ -22,6 +22,17 @@ El primer paso es escanear el documento original para tener una referencia antes
 
 En el primer paso transcribo la partitura, luego añado los acordes de guitarra en caso de existir y por último la letra de la canción en caso que este disponible. Una vez completada la pieza, procedo a borrar el documento escaneado original y cambio el nombre de archivo quitando la etiqueta *[wip]*. Queda así disponible el archivo de Lilypond y el PDF generado al final de la compilación.
 
+## Partituras completas
+
+* Cumbias
+    * La realidad - José De La Rosa Cedeño (danzón cumbia)
+    
+* Pasillos
+    * El suspiro de una fea - Vicente Gómez Gudiño
+    
+* Puntos
+    * Santa Librada - Edgardo Quintero
+    
 ## Licencia 📄
 
 Estas composiciones son de dominio público. Encontrar una pieza musical de estas a través de los buscadores es extremadamente difícil y la mayor parte del tiempo no se obtienen resultados favorables. Por este motivo, he decidido compartir este repositorio bajo la Licencia Creative Commons CC BY 4.0.
