@@ -4,9 +4,11 @@
 
 Este es un repositorio de música folklórica panameña, en esta colección he digitalizado en formato de lilypond varios puntos, cumbias, pasillos y otros géneros del repertorio musical folklórico panameño.
 
-Algunas de estás piezas incluyen solamente la parte melódica de las piezas. Por ejemplo no se incluyen los solos de violín que tienen los puntos al inicio. Otras incluyen los acordes de guitarra acompañantes. Y unas pocas incluyen la letra.
+Algunas de estás piezas incluyen solamente la parte melódica de las piezas. Por ejemplo no se incluye el paseo (solo de violín) que tienen los puntos al inicio. Otras incluyen los acordes de guitarra acompañantes y unas pocas incluyen la letra.
 
-Empecé este proyecto con una piezas que me donaron cuando era estudiante de violín hace 20 años atrás, incluso había algunas a mano que con el tiempo la legibilidad ha disminuido por el deterioro del papel. He hecho mi mejor esfuerzo al tratar de transcribir las partituras para que no se pierdan estas obras.
+Empecé este proyecto con una piezas que me donaron cuando era estudiante de violín hace 20 años atrás, incluso hay fotocopias de algunas escritas a mano que con el tiempo la legibilidad ha disminuido por el deterioro del papel. He hecho mi mejor esfuerzo al tratar de transcribir las partituras para que no se pierdan estas obras.
+
+Del mismo modo, me mantengo investigando activamente para mejorar las partituras una vez transcritas. Ya sea si encuentro alguna mejor versión o el paseo de un punto, lo añadiré sobre la original. También incluí en las partituras el año de nacimiento y fallecimiento de los compositores/autores.
 
 ## ¿Por qué Lilypond? 🎵
 
@@ -31,7 +33,7 @@ En el primer paso transcribo la partitura, luego añado los acordes de guitarra 
     * La realidad - José De La Rosa Cedeño (danzón cumbia)
     
 * Pasillos
-    * El suspiro de una fea - Vicente Gómez Gudiño
+    * El suspiro de una fea - Vicente Gómez Gudiño / Mario H. Cajar
     
 * Puntos
     * Santa Librada - Edgardo Quintero
