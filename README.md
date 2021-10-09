@@ -24,13 +24,15 @@ El primer paso es escanear el documento original para tener una referencia antes
 
 En el primer paso transcribo la partitura, luego añado los acordes de guitarra en caso de existir y por último la letra de la canción en caso que este disponible. Una vez completada la pieza, procedo a borrar el documento escaneado original y cambio el nombre de archivo quitando la etiqueta *[wip]*. Queda así disponible el archivo de Lilypond y el PDF generado al final de la compilación.
 
+De algunas partituras hay varias versiones. Esto corresponde al hecho que puedo tener una versión melódica con acordes; y también, una versión para violín y piano por mencionar un ejemplo. A veces puede responder al hecho que tengo la misma partitura escrita de dos maneras diferentes y en escalera diferentes.
+
 ## Música panameña 🎻
 
 En el año 2017, el diputado Javier "Patacón" Ortega presentó una iniciativa legislativa para llamar la música popular panameña y de raíz folclórica como pindín. A muchos folcloristas no les agrada el término pues otrora tenía una connotacion peyorativa. Existen otras propuestas para nombre oficial como curacha y guararé; sin embargo, la polémica propuesta no avanzó en sus discusiones en la Asamblea Nacional, así que de manera oficial, aún no existe un nombre.
 
 La música de Panamá, nace de las fusión de diversidad de las etnias hispanas en la época de la conquista y de los negros esclavos que trajeron con ellos. A diferencia de otros países, no es tan notable la influencia de la música de nuestros pueblos nativos. Esto en parte tiene que ver con el exterminio casi total que sufrieron nuestros nativos y su posterior repliegue hacia las profundidades de la selva y la montaña. Aún hoy nuestros grupos nativos son vistos de manera independiente y no con la integración que debería haber en nuestras raíces culturales.
 
-A pesar de la carencia de un nombre para la música panameña, los instrumentos propios de nuestro país si los hay. Tambores de 3 cuñas (pujador y repicador), cajas sin aro, mejorana, socavones, rabeles, violines y guitarras solo por mencionar algunos y dicho sea de paso con funciones específicas.
+A pesar de la carencia de un nombre para la música panameña, los instrumentos propios de nuestro país si los hay. Tambores de 3 cuñas (pujador y repicador), cajas sin aro, mejorana, socavones, rabeles, violines, guitarras y acordeón solo por mencionar algunos y dicho sea de paso con funciones específicas. Nuestra música más autóctona nace con estos instrumentos e incluso suena mejor cuando se le toca con estos. Las introducciones de instrumentos posteriores (bajos, congas, guitarra eléctrica) altera la esencia misma de la música y producirá un resultado parecido pero no el mismo como fue concebida por su autor.
 
 Una de las máximas folkloristas de nuestro país; Dora Pérez de Zárate, hace la división de la *música folklórica*, cuyo autor se ha perdido en el tiempo, con la *música típica*, que tiene ya un autor conocido. En todo caso, las melodías y temas que hay en este repositorio pertenecen a este último grupo. Otra notable acotación de Dora Pérez de Zárate es en cuanto a la *música popular*, la cual se inspira en la música típica y que aprovecha elementos de fusión de ritmos importados de otros lares.
 
