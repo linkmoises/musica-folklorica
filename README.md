@@ -38,9 +38,9 @@ Una de las máximas folkloristas de nuestro país; Dora Pérez de Zárate, hace 
 
 Independientemente del nombre que se le escoja a nuestra música, existe toda una serie de subgéneros que tienen características regionales. Se tiende a destacar los que nacieron en la península de Azuero como expresiones de nuestra panameñidad, pero no podemos dejar de lado los congos, bullerengues e incluso la música de nuestros grupos nativos. A continuación introduciré brevemente los subgéneros de los cuales tengo al menos una pieza representativa y algunos otros géneros que aunque no nacieron en Panamá, tuvieron grandes exponentes en suelo patrio.
 
-**Bolero**:
+**Bolero**: Género nacido en Cuba en el siglo XIX y popularizado en los años 30/40 del siglo XX. El precursor de este género en Panamá es Ricardo Fábrega y este género está estrechamente vinculado a la letra. El bolero en Panamá puede ser encontrado escrito en compases de 2/4 y 4/4, con un tema A y B en modo menor, en algunos casos modulante, como también el tema B puede ser encontrado en modo mayor.
 
-**Contradanza**:
+**Contradanza, polkadanza, polkas**: Son originarios de Europa y nacen en el siglo XVIII, pero se popularizan en el siglo XXI. De ritmo rápido y bailables. En Europa eran para la élite social, en América y en especial Panamá, se hicieron parte del acervo orejano.
 
 **Cumbia**:
 
@@ -48,7 +48,7 @@ Independientemente del nombre que se le escoja a nuestra música, existe toda un
 
 **Punto**:
 
-**Tamborera**: 
+**Tamborera**: Este es un género que combina el ritmo del son cubano y el tamborito panameño. Fue creado por Ricardo Fábrega en la primera mitad del siglo XX quien trataba de traer la música popular de aquel entonces a los salones de alta sociedad como el Club Unión.
 
 **Tamborito**:
 
