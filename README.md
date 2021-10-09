@@ -24,20 +24,26 @@ El primer paso es escanear el documento original para tener una referencia antes
 
 En el primer paso transcribo la partitura, luego añado los acordes de guitarra en caso de existir y por último la letra de la canción en caso que este disponible. Una vez completada la pieza, procedo a borrar el documento escaneado original y cambio el nombre de archivo quitando la etiqueta *[wip]*. Queda así disponible el archivo de Lilypond y el PDF generado al final de la compilación.
 
-## Partituras completas 🎻
+## Música panameña 🎻
 
-* Contradanza
-    * Contra danza - Colaco Cortéz
-  
-* Cumbias
-    * La realidad - José De La Rosa Cedeño (danzón cumbia)
-    
-* Pasillos
-    * El suspiro de una fea - Vicente Gómez Gudiño / Mario H. Cajar
-    
-* Puntos
-    * Santa Librada - Edgardo Quintero
-    
+En el año 2017, el diputado Javier "Patacón" Ortega presentó una iniciativa legislativa para llamar la música popular panameña y de raíz folclórica como pindín. A muchos folcloristas no les agrada el término pues otrora tenía una connotacion peyorativa. Existen otras propuestas para nombre oficial como curacha y guararé; sin embargo, la polémica propuesta no avanzó en sus discusiones en la Asamblea Nacional, así que de manera oficial, aún no existe un nombre.
+
+Independientemente del nombre que se le escoja a nuestra música, existe toda una serie de subgéneros que tienen características regionales. Se tiende a destacar los que nacieron en la península de Azuero como expresiones de nuestra panameñidad, pero no podemos dejar de lado los congos, bullerengues e incluso la música de nuestros grupos nativos. A continuación introduciré brevemente los subgéneros de los cuales tengo al menos una pieza representativa.
+
+Bolero:
+
+Contradanza:
+
+Cumbia:
+
+Pasillo:
+
+Punto:
+
+Tamborera: 
+
+Tamborito:
+
 ## Licencia 📄
 
 Estas composiciones son de dominio público. Encontrar una pieza musical de estas a través de los buscadores es extremadamente difícil y la mayor parte del tiempo no se obtienen resultados favorables. Por este motivo, he decidido compartir este repositorio bajo la Licencia Creative Commons CC BY 4.0.
