@@ -1,4 +1,4 @@
-# Repositorio de partituras de música folklórica panameña.
+# Repositorio de partituras de música folklórica y típica panameña.
 
 ## El proyecto 🚀
 
@@ -28,21 +28,27 @@ En el primer paso transcribo la partitura, luego añado los acordes de guitarra 
 
 En el año 2017, el diputado Javier "Patacón" Ortega presentó una iniciativa legislativa para llamar la música popular panameña y de raíz folclórica como pindín. A muchos folcloristas no les agrada el término pues otrora tenía una connotacion peyorativa. Existen otras propuestas para nombre oficial como curacha y guararé; sin embargo, la polémica propuesta no avanzó en sus discusiones en la Asamblea Nacional, así que de manera oficial, aún no existe un nombre.
 
-Independientemente del nombre que se le escoja a nuestra música, existe toda una serie de subgéneros que tienen características regionales. Se tiende a destacar los que nacieron en la península de Azuero como expresiones de nuestra panameñidad, pero no podemos dejar de lado los congos, bullerengues e incluso la música de nuestros grupos nativos. A continuación introduciré brevemente los subgéneros de los cuales tengo al menos una pieza representativa.
+La música de Panamá, nace de las fusión de diversidad de las etnias hispanas en la época de la conquista y de los negros esclavos que trajeron con ellos. A diferencia de otros países, no es tan notable la influencia de la música de nuestros pueblos nativos. Esto en parte tiene que ver con el exterminio casi total que sufrieron nuestros nativos y su posterior repliegue hacia las profundidades de la selva y la montaña. Aún hoy nuestros grupos nativos son vistos de manera independiente y no con la integración que debería haber en nuestras raíces culturales.
 
-Bolero:
+A pesar de la carencia de un nombre para la música panameña, los instrumentos propios de nuestro país si los hay. Tambores de 3 cuñas (pujador y repicador), cajas sin aro, mejorana, socavones, rabeles, violines y guitarras solo por mencionar algunos y dicho sea de paso con funciones específicas.
 
-Contradanza:
+Una de las máximas folkloristas de nuestro país; Dora Pérez de Zárate, hace la división de la *música folklórica*, cuyo autor se ha perdido en el tiempo, con la *música típica*, que tiene ya un autor conocido. En todo caso, las melodías y temas que hay en este repositorio pertenecen a este último grupo. Otra notable acotación de Dora Pérez de Zárate es en cuanto a la *música popular*, la cual se inspira en la música típica y que aprovecha elementos de fusión de ritmos importados de otros lares.
 
-Cumbia:
+Independientemente del nombre que se le escoja a nuestra música, existe toda una serie de subgéneros que tienen características regionales. Se tiende a destacar los que nacieron en la península de Azuero como expresiones de nuestra panameñidad, pero no podemos dejar de lado los congos, bullerengues e incluso la música de nuestros grupos nativos. A continuación introduciré brevemente los subgéneros de los cuales tengo al menos una pieza representativa y algunos otros géneros que aunque no nacieron en Panamá, tuvieron grandes exponentes en suelo patrio.
 
-Pasillo:
+**Bolero**:
 
-Punto:
+**Contradanza**:
 
-Tamborera: 
+**Cumbia**:
 
-Tamborito:
+**Pasillo**:
+
+**Punto**:
+
+**Tamborera**: 
+
+**Tamborito**:
 
 ## Licencia 📄
 
