@@ -42,7 +42,9 @@ Independientemente del nombre que se le escoja a nuestra música, existe toda un
 
 **Contradanza, polkadanza, polkas**: Son originarios de Europa y nacen en el siglo XVIII, pero se popularizan en el siglo XXI. De ritmo rápido y bailables. En Europa eran para la élite social, en América y en especial Panamá, se hicieron parte del acervo orejano.
 
-**Cumbia**:
+**Cumbia**: Es uno de los géneros musicales más difundidos en el istmo y con claras raíces africanas (por los tambores de cuñas), en su expresión más autóctona se toca con rabel (violín criollo de 3 cuerdas ya casi extinto). De manera más tradicional se ejecuta también con violín o acordeón. Consta de cerca de 30 variantes regionales en nuestro istmo que varían según disposición de compases o formas de baile.
+
+**Denesa**: Es una danza derivada de la mejorana, pero esta respecto a su contraparte se baila en salón y no al aire libre. La pongo como un subgénero musical ya que no existe una sola pieza que se llame denesa. Existen otras denesas que han sido dedicadas por ejemplo a Petita Escobar y Elisa de Céspedes.
 
 **Pasillo**:
 
