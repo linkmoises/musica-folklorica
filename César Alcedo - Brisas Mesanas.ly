@@ -1,6 +1,6 @@
 \version "2.23.2"
 \header {
-	title = "Brisas Mesanas"
+	title = "Brisas Mesanas (Isabelita)"
 	subtitle = "Pasillo"
 	composer = "César Alcedo Alvarado (1890 - 1931)"
 	tagline = "M. Serrano Samudio | Repositorio de música folklórica panameña | CC-BY | git.io/Jglgg"
