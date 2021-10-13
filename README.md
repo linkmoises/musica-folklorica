@@ -46,7 +46,7 @@ Independientemente del nombre que se le escoja a nuestra música, existe toda un
 
 **Denesa**: Es una danza derivada de la mejorana, pero esta respecto a su contraparte se baila en salón y no al aire libre. La pongo como un subgénero musical ya que no existe una sola pieza que se llame denesa. Existen otras denesas que han sido dedicadas por ejemplo a Petita Escobar y Elisa de Céspedes.
 
-**Pasillo**: Este género musical nació en la época independentista en los Andes neogranadinos. Se originó como expresión de alegría en el momento de la independencia en las primeras décadas del siglo XIX como una adaptación del vals austriaco, cuya variación determinó un cambio rítmico; se extendió a finales del siglo XIX hacia Centroamérica, haciendo su primera escala en Panamá, traído por militares y altos funcionarios del Gobierno colombiano, convirtiéndose en uno de los géneros musicales y bailes de preferencia de la aristocracia, tanto urbana como rural del istmo.
+**Pasillo**: Este género musical nació en la época independentista en los Andes neogranadinos. Se originó como expresión de alegría en el momento de la independencia en las primeras décadas del siglo XIX como una adaptación del vals austriaco, cuya variación determinó un cambio rítmico; se extendió a finales del siglo XIX hacia Centroamérica. Es traído por militares y altos funcionarios del Gobierno colombiano a Panamá, convirtiéndose en uno de los géneros musicales y bailes de preferencia de la aristocracia, tanto urbana como rural del istmo.
 
 **Punto**:
 
