@@ -16,8 +16,8 @@
 
 \markup \vspace #2 %% usar #2. Si se tiene el tempo de la pieza se elimina esta línea
 
-\score {
-	\relative c' {
+
+melody = \relative c' {
 	\time 2/4
 	\key f \major
 	f8 a16 c f e d c | 
@@ -46,8 +46,9 @@
 	g8 bes16 c e8 c16 a | f8 a16 c f8 c16 a | g8 bes16 c e8 c16 a |
 	f4 r8 f16 f |
         \mark \markup { \small \musicglyph #"scripts.coda" }
+        \bar "||"
 	f8 a16 c f e d c |
-	\repeat volta 7 {
+	\repeat volta 8 {
 		e16 c8 g16 bes d bes g | 
 	}
 	\alternative {
@@ -82,6 +83,35 @@
 	}
 	e8 c4. | c8 c d e | f8 r8 r4 |
 	\bar "|."
-	
+}
+
+
+harmonies = \chordmode {
+	\time 2/4
+	s2
+	c2:7 | f2 | f2 |
+	c4 bes4 | c4 bes4 | f4 c4:7 |
+	f2 | f2 | c2:7 |
+	f2 | f2 | c2:7 |
+	f2 | c2:7 | f2 |
+	f2 | c2:7 | f2 | f2 |
+	s2 | s2 |
+	f2 | c2:7 | f2 |
+	f2 | c2:7 | c2:7 |
+	f2
+}
+
+
+\score {
+	<<
+	\language "espanol"
+	\new ChordNames {
+		\set chordChanges = ##t
+		\harmonies
 	}
+	\new Staff {
+		\melody
+	}
+	>>
+\layout {}
 }
