@@ -48,7 +48,7 @@ Independientemente del nombre que se le escoja a nuestra música, existe toda un
 
 **Pasillo**: Este género musical nació en la época independentista en los Andes neogranadinos. Se originó como expresión de alegría en el momento de la independencia en las primeras décadas del siglo XIX como una adaptación del vals austriaco, cuya variación determinó un cambio rítmico; se extendió a finales del siglo XIX hacia Centroamérica. Es traído por militares y altos funcionarios del Gobierno colombiano a Panamá, convirtiéndose en uno de los géneros musicales y bailes de preferencia de la aristocracia, tanto urbana como rural del istmo.
 
-**Punto**:
+**Punto**: Es un género musical netamente panameño y es también el baile que lo acompaña. 
 
 **Tamborera**: Este es un género que combina el ritmo del son cubano y el tamborito panameño. Fue creado por Ricardo Fábrega en la primera mitad del siglo XX quien trataba de traer la música popular de aquel entonces a los salones de alta sociedad como el Club Unión.
 
