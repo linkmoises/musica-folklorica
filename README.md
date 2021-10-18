@@ -20,9 +20,9 @@ Lilypond puede parecer atemorizante al principio y más si me ven usándolo (edi
 
 ## Flujo de trabajo 🛠️
 
-El primer paso es escanear el documento original para tener una referencia antes que se la coman las polillas o en caso de perder el documento físico, una vez escaneado le asignó la etiqueta *[orig]* al principio del nombre de archivo. A continuación con una plantilla creo el documento donde se escribirá la partitura en formato lilypond, a esta le asigno la etiqueta *[wip]* al principio del nombre de archivo para estar conciente que se trata de un trabajo en proceso.
+El primer paso es escanear el documento original para tener una referencia antes que se la coman las polillas o en caso de perder el documento físico, una vez escaneado le asignó la etiqueta *[orig]* al principio del nombre de archivo y lo muevo al directorio de trabajo. A continuación, dentro del directorio de trabajo, con una plantilla creo el documento donde se escribirá la partitura en formato lilypond, a esta le asigno la etiqueta *[wip]* al principio del nombre de archivo para estar conciente que se trata de un trabajo en proceso.
 
-En el primer paso transcribo la partitura, luego añado los acordes de guitarra en caso de existir y por último la letra de la canción en caso que este disponible. Una vez completada la pieza, procedo a borrar el documento escaneado original y cambio el nombre de archivo quitando la etiqueta *[wip]*. Queda así disponible el archivo de Lilypond y el PDF generado al final de la compilación.
+En el primer paso transcribo la partitura, luego añado los acordes de guitarra en caso de existir y por último la letra de la canción en caso que este disponible. Una vez completada la pieza, procedo a borrar el documento escaneado original y cambio el nombre de archivo quitando la etiqueta *[wip]* y lo muevo al directorio raíz del repositorio. Queda así disponible el archivo de Lilypond y el PDF generado al final de la compilación.
 
 De algunas partituras hay varias versiones. Esto corresponde al hecho que puedo tener una versión melódica con acordes; y también, una versión para violín y piano por mencionar un ejemplo. A veces puede responder al hecho que tengo la misma partitura escrita de dos maneras diferentes y en escalera diferentes.
 
@@ -48,11 +48,9 @@ Independientemente del nombre que se le escoja a nuestra música, existe toda un
 
 **Pasillo**: Este género musical nació en la época independentista en los Andes neogranadinos. Se originó como expresión de alegría en el momento de la independencia en las primeras décadas del siglo XIX como una adaptación del vals austriaco, cuya variación determinó un cambio rítmico; se extendió a finales del siglo XIX hacia Centroamérica. Es traído por militares y altos funcionarios del Gobierno colombiano a Panamá, convirtiéndose en uno de los géneros musicales y bailes de preferencia de la aristocracia, tanto urbana como rural del istmo.
 
-**Punto**: Es un género musical netamente panameño y es también el baile que lo acompaña. Escrito característicamente en compás de 6/8, abundan los tresillos en su estructura y empieza por un solo instrumental.
+**Punto**: Es un género musical netamente panameño y es también el baile que lo acompaña, donde se presenta una sola pareja con atuendo de gala. Escrito característicamente en compás de 6/8, empieza por un solo instrumental que se llama paseo.
 
 **Tamborera**: Este es un género que combina el ritmo del son cubano y el tamborito panameño. Fue creado por Ricardo Fábrega en la primera mitad del siglo XX quien trataba de traer la música popular de aquel entonces a los salones de alta sociedad como el Club Unión.
-
-**Tamborito**:
 
 ## Licencia 📄
 
