@@ -27,14 +27,14 @@ melody = \relative c' {
 	}
 	\alternative {
 		{ f16 f a c f e d c | }
-		{ f,8 a16 c f e d c | } %% f e d c? %%
+		{ f,8 a16 c f e d c | } %% la parte f e d c es una suposición %%
 	}
 	\repeat volta 3 {
 		e16 g f e d f e d | c4 bes16 d c bes | a c bes a g bes a g |
 	}
 	\alternative {
 		{ f8. c'16 f a g f | }
-		{ f,8 r8 r8 f16 f | } %% f16 f? %%
+		{ f,8 r8 r8 f16 f | } %% la parte f16 f es una suposición %%
 	}
 	\repeat volta 4 {
 		e8 g16 bes d8 bes16 g |
@@ -52,7 +52,7 @@ melody = \relative c' {
 		e16 c8 g16 bes d bes g | 
 	}
 	\alternative {
-		{ f8 a16 c f e d c | } %% f e d c %%
+		{ f8 a16 c f e d c | } %% la parte f e d c es una suposición %%
 		{ f,8 a16 c f a g f | }
 	}
 	\mark \markup { 
@@ -79,7 +79,7 @@ melody = \relative c' {
 	}
 	\alternative {
 		{ f8 a16 c f e d c | }
-		{ f,8 a16 c f e d c | } %% f e d c %%
+		{ f,8 a16 c f e d c | } %% la parte f e d c es una suposición %%
 	}
 	e8 c4. | c8 c d e | f8 r8 r4 |
 	\bar "|."
