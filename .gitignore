@@ -1,10 +1,25 @@
-*.ps
-*.midi
-*.mid
+## Directorios
+base/
+extend/
+export/
+audio/
+otros/
+wip/
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
 *.log
-*~
-*.swp
-test.ly
-test.pdf
-Temp
-Partes/*.pdf
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+## extensiones filtradas
+*.midi
+*.pdf
+*.xcf
+*.odt

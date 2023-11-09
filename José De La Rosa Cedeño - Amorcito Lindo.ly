@@ -3,14 +3,14 @@
 	title = "Amorcito Lindo"
 	subtitle = "Danzón Cumbia"
 	composer = "José De La Rosa Cedeño (1907 - 1990)"
-	tagline = "M. Serrano Samudio | Repositorio de música folklórica panameña | CC-BY | git.io/Jglgg"
+	tagline = "Repositorio de música folklórica panameña | CC-BY | github.com/linkmoises/musica-folklorica"
 }
 
 \paper {
 	#(set-paper-size "letter")
 	top-margin = 20
-	left-margin = 15
-	right-margin = 15
+	left-margin = 20
+	right-margin = 20
 	bottom-margin = 20
 }
 
@@ -20,6 +20,7 @@
 	\relative c' {
 	\key c \major
 	\time 4/4
+	\tempo 4 = 120
 	r4 a'8 c4 e8 b4 |
 	\repeat volta 2 {
 		b'4 a8 g f e d c | a'4 g8 f e d c b | e4. d8 c e b d | 
@@ -73,4 +74,7 @@
 	e4 e r4 e4 | <a, c e a>4 r4 r2 |
 	\bar "|."
 	}
+	
+\layout { }
+\midi { }
 }
