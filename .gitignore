@@ -5,6 +5,7 @@ export/
 audio/
 otros/
 wip/
+pdf/
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof

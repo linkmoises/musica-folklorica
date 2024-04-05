@@ -4,15 +4,16 @@
 	subtitle = "Pasillo"
 	poet = "Letra: Mario H. Cajar (1897 - 1977)"
 	composer = "Música: Vicente Gómez Gudiño (1903 - 1964)"
-	tagline = "M. Serrano Samudio | Repositorio de música folklórica panameña | CC-BY | git.io/Jglgg"
+	tagline = ##f
 }
 
 \paper {
 	#(set-paper-size "letter")
-	top-margin = 15
-	left-margin = 15
-	right-margin = 15
-	bottom-margin = 20
+	top-margin = 25
+	left-margin = 25
+	right-margin = 25
+	bottom-margin = 25
+	print-page-number = false
 }
 
 \markup \vspace #2 

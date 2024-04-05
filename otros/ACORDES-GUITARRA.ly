@@ -1,15 +1,16 @@
 \version "2.23.2"
 \header {
-	title = "Tabla de acordes para guitarra"
-	tagline = "M. Serrano Samudio | Repositorio de música folklórica panameña | CC-BY | git.io/Jglgg"
+    title = "Acordes para guitarra"
+    tagline = ##f
 }
 
 \paper {
-	#(set-paper-size "letter")
-	top-margin = 20
-	left-margin = 15
-	right-margin = 15
-	bottom-margin = 20
+    #(set-paper-size "letter")
+    top-margin = 25
+    left-margin = 25
+    right-margin = 25
+    bottom-margin = 25
+    indent = 0
 }
 
 \markup \vspace #2 %% usar #2. Si se tiene el tempo de la pieza se elimina esta línea

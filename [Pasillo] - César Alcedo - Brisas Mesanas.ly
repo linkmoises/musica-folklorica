@@ -3,7 +3,7 @@
 	title = "Brisas Mesanas (Isabelita)"
 	subtitle = "Pasillo"
 	composer = "César Alcedo Alvarado (1890 - 1931)"
-	tagline = "M. Serrano Samudio | Repositorio de música folklórica panameña | CC-BY | git.io/Jglgg"
+	tagline = ##f
 }
 
 \paper {
@@ -12,12 +12,14 @@
 	left-margin = 15
 	right-margin = 15
 	bottom-margin = 20
+	print-page-number = false
 }
 
 \markup \vspace #2 %% usar #2. Si se tiene el tempo de la pieza se elimina esta línea
 
 melody = \relative c' {
 	\key c \major
+	\tempo "Andante moderato"
 	\time 3/4
 	\set Timing.beamExceptions = #'()
 	r8 e8( dis e) a c |

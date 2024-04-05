@@ -3,23 +3,27 @@
 	title = "Denesa Tonosí"
 	subtitle = "Denesa"
 	composer = "Melquisedec Vásquez"
-	tagline = "M. Serrano Samudio | Repositorio de música folklórica panameña | CC-BY | git.io/Jglgg"
+	tagline = ##f
 }
 
 \paper {
 	#(set-paper-size "letter")
 	top-margin = 20
-	left-margin = 15
-	right-margin = 15
-	bottom-margin = 20
+	left-margin = 20
+	right-margin = 20
+	bottom-margin = 25
+	print-page-number = false
 }
 
 \markup \vspace #2 %% usar #2. Si se tiene el tempo de la pieza se elimina esta línea
 
-
-melody = \relative c' {
+global= {
 	\time 2/4
+	\tempo 4 = 90 %%"Andantino"
 	\key f \major
+}
+
+violinUno = \new Voice \relative c' {
 	f8 a16 c f e d c | 
 	\mark \markup { \small \musicglyph #"scripts.segno" }
 	\repeat volta 4 {
@@ -79,12 +83,11 @@ melody = \relative c' {
 	}
 	\alternative {
 		{ f8 a16 c f e d c | }
-		{ f,8 a16 c f e d c | } %% la parte f e d c es una suposición %%
+		{ \break f,8 a16 c f e d c | } %% la parte f e d c es una suposición %%
 	}
 	e8 c4. | c8 c d e | f8 r8 r4 |
 	\bar "|."
 }
-
 
 harmonies = \chordmode {
 	\time 2/4
@@ -103,15 +106,21 @@ harmonies = \chordmode {
 
 
 \score {
-	<<
+<<
 	\language "espanol"
 	\new ChordNames {
 		\set chordChanges = ##t
+		\set noChordSymbol = ##f
+		\override ChordName.font-size = #0.9
+		\override ChordName.direction = #UP
 		\harmonies
 	}
-	\new Staff {
-		\melody
-	}
-	>>
+	\new Staff
+		<< \global \violinUno >>
+		\addlyrics { %% lírica
+		a - la 
+		}
+>>
 \layout {}
+\midi {}
 }

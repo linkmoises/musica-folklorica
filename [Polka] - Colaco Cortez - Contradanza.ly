@@ -3,22 +3,27 @@
 	title = "Contra Danza"
 	subtitle = "Contradanza"
 	composer = "Braulio Escolástico 'Colaco' Cortez (1904 - 1986)"
-	tagline = "M. Serrano Samudio | Repositorio de música folklórica panameña | CC-BY | git.io/Jglgg"
+	tagline = ##f
 }
 
 \paper {
 	#(set-paper-size "letter")
 	top-margin = 20
-	left-margin = 15
-	right-margin = 15
-	bottom-margin = 20
+	left-margin = 20
+	right-margin = 20
+	bottom-margin = 25
+	print-page-number = false
 }
 
-\score {
-	\relative c' {
-	\key f \major
+\markup \vspace #2 %% usar #2. Si se tiene el tempo de la pieza se elimina esta línea
+
+global= {
 	\time 2/2
 	\tempo 4 = 90
+	\key f \major
+}
+
+violinUno = \new Voice \relative c' {
 	\partial 4 c8 f |
 	\repeat volta 2 {
 		\mark \markup { \small \musicglyph #"scripts.segno" }
@@ -92,5 +97,29 @@
 			}
 		\startStaff
 	\cadenzaOff
+}
+
+
+harmonies = \chordmode {
+%% acordes de guitarra / mejorana
+}
+
+
+\score {
+<<
+	\language "espanol"
+	\new ChordNames {
+		\set chordChanges = ##t
+		\set noChordSymbol = ##f
+		\override ChordName.font-size = #0.9
+		\override ChordName.direction = #UP
+		\harmonies
 	}
+	\new Staff
+		<< \global \violinUno >>
+		\addlyrics { %% lírica
+		}
+>>
+\layout {}
+%%\midi {}
 }

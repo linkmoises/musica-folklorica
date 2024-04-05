@@ -9,17 +9,22 @@
 \paper {
 	#(set-paper-size "letter")
 	top-margin = 25
-	left-margin = 25
-	right-margin = 25
+	left-margin = 15
+	right-margin = 15
 	bottom-margin = 25
 	print-page-number = false
 }
 
 \markup \vspace #2 %
 
-melody = \relative c' {
-	\key g \major
+global= {
 	\time 6/8
+	\tempo Moderato 
+	\key g \major
+}
+
+
+melody = \relative c' {
 	<b' g'>2.:32 \fermata
 	s2. | s2. | s2.
 	\bar "||"
@@ -32,7 +37,7 @@ melody = \relative c' {
 	c a a' fis d b | b g4 r8 e'8 e | e a g fis e g ~ | g d b' g d c ~ |
 	c a a' fis d b | r8 g' fis g fis g |
 	\repeat volta 2 {
-		a g d b' a g | fis a gis a gis a | c a d d c a |
+		a g d b' a g | fis a gis a gis a | c a d, d' c a |
 	}
 	\alternative {
 		{ b g fis g fis g | }
@@ -166,4 +171,5 @@ harmonies = \chordmode {
 	}
 	>>
 \layout {}
+%%\midi {}
 }
