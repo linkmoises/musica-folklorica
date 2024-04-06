@@ -9,18 +9,22 @@
 \paper {
 	#(set-paper-size "letter")
 	top-margin = 20
-	left-margin = 15
-	right-margin = 15
-	bottom-margin = 20
+	left-margin = 20
+	right-margin = 20
+	bottom-margin = 25
 	print-page-number = false
+	indent = 0
 }
 
-\markup \vspace #2 %% usar #2. Si se tiene el tempo de la pieza se elimina esta línea
+\markup \vspace #2
 
-melody = \relative c' {
-	\key c \major
-	\tempo "Andante moderato"
+global= {
 	\time 3/4
+	\tempo "Andante moderato"
+	\key c \major
+}
+
+violinUno = \new Voice \relative c' {
 	\set Timing.beamExceptions = #'()
 	r8 e8( dis e) a c |
 	\repeat volta 2 {
@@ -61,7 +65,6 @@ melody = \relative c' {
 	\bar "|."
 }
 
-
 harmonies = \chordmode {
 	\time 3/4
 	s2. |
@@ -86,13 +89,21 @@ harmonies = \chordmode {
 
 
 \score {
-	<<
+<<
 	\language "espanol"
 	\new ChordNames {
 		\set chordChanges = ##t
+		\set noChordSymbol = ##f
+		\override ChordName.font-size = #0.9
+		\override ChordName.direction = #UP
 		\harmonies
 	}
-	\new Voice = "one" { \melody }
-	>>
+	\new Staff
+		<< \global \violinUno >>
+		\addlyrics { %% lírica
+		}
+		\override Lyrics.LyricText.font-size = #-0.5
+>>
 \layout {}
+%%\midi {}
 }

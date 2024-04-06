@@ -3,7 +3,7 @@
 	title = "Amorcito Lindo"
 	subtitle = "Danzón Cumbia"
 	composer = "José De La Rosa Cedeño (1907 - 1990)"
-	tagline = "Repositorio de música folklórica panameña | CC-BY | github.com/linkmoises/musica-folklorica"
+	tagline = ##f
 }
 
 \paper {
@@ -11,16 +11,20 @@
 	top-margin = 20
 	left-margin = 20
 	right-margin = 20
-	bottom-margin = 20
+	bottom-margin = 25
+	print-page-number = false
+	indent = 0
 }
 
 \markup \vspace #2
 
-\score {
-	\relative c' {
+global= {
 	\key c \major
 	\time 4/4
-	\tempo 4 = 120
+	\tempo "Allegretto"
+}
+
+violinUno = \new Voice \relative c' {
 	r4 a'8 c4 e8 b4 |
 	\repeat volta 2 {
 		b'4 a8 g f e d c | a'4 g8 f e d c b | e4. d8 c e b d | 
@@ -73,8 +77,30 @@
 	f4 e r4 b8 d | f4 a,8 a c e g d | f4 e r4 b8 d | f4 a, r8 e8 gis b |
 	e4 e r4 e4 | <a, c e a>4 r4 r2 |
 	\bar "|."
+}
+
+
+harmonies = \chordmode {
+%% acordes de guitarra / mejorana
+}
+
+
+\score {
+<<
+	\language "espanol"
+	\new ChordNames {
+		\set chordChanges = ##t
+		\set noChordSymbol = ##f
+		\override ChordName.font-size = #0.9
+		\override ChordName.direction = #UP
+		\harmonies
 	}
-	
-\layout { }
-\midi { }
+	\new Staff
+		<< \global \violinUno >>
+		\addlyrics { %% lírica
+		}
+		\override Lyrics.LyricText.font-size = #-0.5
+>>
+\layout {}
+%%\midi {}
 }

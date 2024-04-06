@@ -9,11 +9,12 @@
 
 \paper {
 	#(set-paper-size "letter")
-	top-margin = 25
-	left-margin = 15
-	right-margin = 15
+	top-margin = 20
+	left-margin = 20
+	right-margin = 20
 	bottom-margin = 25
 	print-page-number = false
+	indent = 0
 }
 
 \markup \vspace #2 %
@@ -79,13 +80,44 @@ violinUno = \new Voice \relative c'' {
 	\bar "|."
 }
 
+harmonies = \chordmode {
+	\time 2/2
+	s1
+	g1:m | a1:dim | d1:7 | g1:m |
+	g1:7 | c1:m | ees1 | d1 |
+	d1:7 | 
+	g1:m | g1:m | 
+	g1:7 | c1:m | f1 | bes1 | 
+	ees1 | d1 | d1:7 | g1:m | 
+	f2 ees2 | d1 | d1:7 | 
+	g1:m | g1:m |
+	g1:m | a1:dim | d1:7 | g1:m |
+	g1:7 | c1:m | ees1 | d1 |
+	a4.:dim d2:7 d8:7 | g2:m s4 g4 | g1 | 
+	g1 | d1 | g2 c2 | d1 | 
+	g1 | d1 | c1 |
+	d1 | d1 |
+	g2 c2 | d1 | g2 c2 | 
+	d1 | d1 |
+	d4 d4 d4 d4 | g4. g8:6 g2:6 | g2:6 s2 | 
+}
+
+
 \score {
-	\new StaffGroup <<
-		\new Staff \with { instrumentName = "Violín" }
-			<< \global \violinUno >>
-			\addlyrics { %% lírica
-			}
-	>>
-\layout { }
-%%\midi { }
+<<
+	\language "espanol"
+	\new ChordNames {
+		\set chordChanges = ##t
+		\set noChordSymbol = ##f
+		\override ChordName.font-size = #0.9
+		\override ChordName.direction = #UP
+		\harmonies
+	}
+	\new Staff
+		<< \global \violinUno >>
+		\addlyrics { %% lírica
+		}
+>>
+\layout {}
+%%\midi {}
 }

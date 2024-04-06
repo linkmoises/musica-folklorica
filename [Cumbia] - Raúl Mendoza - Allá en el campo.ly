@@ -2,24 +2,25 @@
 \header {
 	title = "Allá en el campo"
 	subtitle = "Cumbia"
-	composer = "Raúl Mendoza"
+	composer = "Raúl Mendoza Marín (6-78-847)"
 	tagline = ##f
 }
 
 \paper {
 	#(set-paper-size "letter")
-	top-margin = 25
-	left-margin = 15
-	right-margin = 15
+	top-margin = 20
+	left-margin = 20
+	right-margin = 20
 	bottom-margin = 25
 	print-page-number = false
+	indent = 0
 }
 
 \markup \vspace #2 %
 
 global= {
 	\time 4/4
-	\tempo Moderato 
+	\tempo "Moderato" 
 	\key c \major
 }
 
@@ -52,7 +53,7 @@ violinUno = \new Voice \relative c'' {
 
 \score {
 	\new StaffGroup <<
-		\new Staff \with { instrumentName = "Violín" }
+		\new Staff
 			<< \global \violinUno >>
 			\addlyrics { %% lírica
 			}

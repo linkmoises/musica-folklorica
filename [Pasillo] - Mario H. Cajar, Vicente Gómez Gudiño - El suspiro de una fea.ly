@@ -9,19 +9,23 @@
 
 \paper {
 	#(set-paper-size "letter")
-	top-margin = 25
-	left-margin = 25
-	right-margin = 25
+	top-margin = 20
+	left-margin = 20
+	right-margin = 20
 	bottom-margin = 25
 	print-page-number = false
+	indent = 0
 }
 
-\markup \vspace #2 
+\markup \vspace #2
 
-
-melody = \relative c' {
-	\key d \major
+global= {
 	\time 3/4
+	\tempo 4 = 90
+	\key d \major
+}
+
+violinUno = \new Voice \relative c' {
 	\set Timing.beamExceptions = #'()
 	r8 fis'8 cis d fis b | a fis d b a fis | d fis a d fis e | g2 r4 |
 	a,8 a e'4 d8 b | cis a cis e d b | cis a b4 g8 b | a4 fis r4 | 
@@ -41,7 +45,6 @@ melody = \relative c' {
 	\bar "|."
 }
 
-
 harmonies = \chordmode {
 	\time 3/4
 	s2. | d2. | b2.:7 | e2.:m | 
@@ -59,40 +62,39 @@ harmonies = \chordmode {
 }
 
 
-text = \lyricmode {
-	Di -- cen que no me quie -- res pe -- ro nun -- ca 
-	yo te de -- jo de que -- rer
-	mi sin por a -- do -- ra -- do mi -- ra que me ma -- to 
-	con su -- bli -- ma -- do. 
-	Di -- cen que no me quie -- res pe -- ro nun -- ca 
-	yo te de -- jo  de que -- rer,
-	no seas in -- gra -- to, tier -- no mu -- la -- to, 
-	dé -- ja -- te ver.
-	No sé por -- que se -- rá que tu mi bien te por -- tas a -- sí
-	con tu chi -- chi se -- rás un bri -- bón si no me__a -- mas a mi
-	Se sa -- be to -- do__a -- quí__en Pa -- na -- má me
-	res -- pon -- dió y lue -- go sol -- tó el muy bo -- cón u -- na 
-	car -- ca -- ja -- da cual la del suez Cua -- cón.
-	Y de__u -- na vez se fue y no vol -- vió más por a aquí.
-	E -- se mal -- va -- do que se ha bur -- la -- do de mi pa -- sión 
-	ya me ven -- ga -- ré de__e -- se__in -- fiel si ya ve -- rás,
-	ve -- rás, ve -- rás, ve -- rás lo que__ha -- ré.
-}
-
 \score {
-	<<
+<<
 	\language "espanol"
 	\new ChordNames {
 		\set chordChanges = ##t
+		\set noChordSymbol = ##f
+		\override ChordName.font-size = #0.9
+		\override ChordName.direction = #UP
 		\harmonies
 	}
-	\new Voice = "one" { \melody }
-	\new Lyrics \lyricsto "one" \text
-	>>
-\layout {
-	\context {
-		\Lyrics
-		\override LyricText #'font-size = #-1
-	}
-}
+	\new Staff
+		<< \global \violinUno >>
+		\addlyrics { 
+			Di -- cen que no me quie -- res pe -- ro nun -- ca 
+			yo te de -- jo de que -- rer
+			mi sin por a -- do -- ra -- do mi -- ra que me ma -- to 
+			con su -- bli -- ma -- do. 
+			Di -- cen que no me quie -- res pe -- ro nun -- ca 
+			yo te de -- jo  de que -- rer,
+			no seas in -- gra -- to, tier -- no mu -- la -- to, 
+			dé -- ja -- te ver.
+			No sé por -- que se -- rá que tu mi bien te por -- tas a -- sí
+			con tu chi -- chi se -- rás un bri -- bón si no me__a -- mas a mi
+			Se sa -- be to -- do__a -- quí__en Pa -- na -- má me
+			res -- pon -- dió y lue -- go sol -- tó el muy bo -- cón u -- na 
+			car -- ca -- ja -- da cual la del suez Cua -- cón.
+			Y de__u -- na vez se fue y no vol -- vió más por a aquí.
+			E -- se mal -- va -- do que se ha bur -- la -- do de mi pa -- sión 
+			ya me ven -- ga -- ré de__e -- se__in -- fiel si ya ve -- rás,
+			ve -- rás, ve -- rás, ve -- rás lo que__ha -- ré.
+		}
+		\override Lyrics.LyricText.font-size = #-0.5
+>>
+\layout {}
+%%\midi {}
 }

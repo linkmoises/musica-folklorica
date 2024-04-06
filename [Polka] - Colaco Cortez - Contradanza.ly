@@ -13,6 +13,7 @@
 	right-margin = 20
 	bottom-margin = 25
 	print-page-number = false
+	indent = 0
 }
 
 \markup \vspace #2 %% usar #2. Si se tiene el tempo de la pieza se elimina esta línea

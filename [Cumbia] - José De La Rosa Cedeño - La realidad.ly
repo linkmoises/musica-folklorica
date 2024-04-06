@@ -3,23 +3,28 @@
 	title = "La Realidad"
 	subtitle = "Danzón Cumbia"
 	composer = "José De La Rosa Cedeño (1907 - 1990)"
-	tagline = "M. Serrano Samudio | Repositorio de música folklórica panameña | CC-BY | git.io/Jglgg"
+	tagline = ##f
 }
 
 \paper {
 	#(set-paper-size "letter")
 	top-margin = 20
-	left-margin = 15
-	right-margin = 15
-	bottom-margin = 20
+	left-margin = 20
+	right-margin = 20
+	bottom-margin = 25
+	print-page-number = false
+	indent = 0
 }
 
-\markup \vspace #2 %
+\markup \vspace #2
 
-\score {
-	\relative c' {
+global= {
 	\key f \major
 	\time 2/2
+	\tempo "Allegretto"
+}
+
+violinUno = \new Voice \relative c' {
 	r4 a'8 d ~ d f g4 |
 	\repeat volta 2 {
 		\mark \markup { \small \musicglyph #"scripts.segno" }
@@ -78,5 +83,30 @@
 	b4 g' e cis | a'4 r8 a,8 a d fis d | 
 	b4 g e8 e cis4 | a'8 a r8 a8 a4 d8 d | d1 
 	\bar "|."
+}
+
+
+harmonies = \chordmode {
+%% acordes de guitarra / mejorana
+}
+
+
+\score {
+<<
+	\language "espanol"
+	\new ChordNames {
+		\set chordChanges = ##t
+		\set noChordSymbol = ##f
+		\override ChordName.font-size = #0.9
+		\override ChordName.direction = #UP
+		\harmonies
 	}
+	\new Staff
+		<< \global \violinUno >>
+		\addlyrics { %% lírica
+		}
+		\override Lyrics.LyricText.font-size = #-0.5
+>>
+\layout {}
+%%\midi {}
 }
