@@ -35,11 +35,11 @@ violinUno = \new Voice \relative c' {
 		{ e4 a,8 c4 e8 b4 | }
 		{ e4 r8 e8 e e e4 | }
 	}
-	r4 a,8 a e a c b | a4 a8 c4 e8 a4 | g2 f2 | e4 d c b8 d( |
-	d) a r4 r8 a8 c e | a,2 r8 g8 b d | g,2 r8 e'8 f d | e4. b8 c d e f |
+	r4 a,8 a e a c b | a4 a8 c4 e8 a4 | g2 f2 | e4 d c b8 d ~ |
+	d a r4 r8 a8 c e | a,2 r8 g8 b d | g,2 r8 e'8 f d | e4. b8 c d e f |
 	e2 r8 e8 f d |
 	\repeat volta 2 {
-		e4 c'8 b( b) a e4 | d4 b r8 e8 f d | e4 b'8 gis4 e8 b4 |
+		e4 c'8 b ~ b a e4 | d4 b r8 e8 f d | e4 b'8 gis4 e8 b4 |
 		f'4 a, r8 e'8 f d | e4 c'8 b4 a8 e4 | g f r8 b,8 c d |
 		f4 e8 d4 c8 b4 |
 	}
@@ -56,19 +56,19 @@ violinUno = \new Voice \relative c' {
 		{ f4 a, c8 e g c | }
 	}
 	\repeat volta 2 {
-		f,2 d8 f a c | e,2 c8 e g b | d,4 f d b8 a( 
+		f,2 d8 f a c | e,2 c8 e g b | d,4 f d b8 a ~ 
 	}
 	\alternative {
-		{ a2) c8 e g c | }
+		{ a2 c8 e g c | }
 		{ a,2 c4 e | }
 	}
-	a4. f8 d4 f8 a( | a4.) e8( e4) c8 e( | e8) d4 f d8 b4 |
-	a2 c4 e | a4. f8 d4 f8 a( | a4.) e8( e4) c8 e( | e8) d4 f d8 b4 | 
+	a4. f8 d4 f8 a ~ | a4. e8 ~ e4 c8 e ~ | e8 d4 f d8 b4 |
+	a2 c4 e | a4. f8 d4 f8 a ~ | a4. e8 ~ e4 c8 e ~ | e8 d4 f d8 b4 | 
 	a4 r4 r4 a8 a | a4 a8 a c e b d | 
 	\repeat volta 4 {
 		f4 e r4 b8 d | f4 a,8 a c e g d | f4 e r4 b8 d |
 		f4 a,8 a c e b d | f4 e r4 b8 d | f4 a,8 a c e b d |
-		f,4 e r4 b'8 d |
+		f4 e r4 b8 d |
 	}
 	\alternative {
 		{ f4 a,8 a c e g d | }
@@ -86,12 +86,13 @@ harmonies = \chordmode {
 
 
 \score {
+%%\unfoldRepeats
 <<
 	\language "espanol"
 	\new ChordNames {
 		\set chordChanges = ##t
 		\set noChordSymbol = ##f
-		\override ChordName.font-size = #0.9
+		\override ChordName.font-size = #-0.9
 		\override ChordName.direction = #UP
 		\harmonies
 	}

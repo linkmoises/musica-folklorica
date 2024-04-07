@@ -1,6 +1,6 @@
 \version "2.23.2"
 \header {
-	title = "Santa Librada"
+	title = "Punto Santa Librada"
 	subtitle = "Punto"
 	composer = "Edgardo Quintero (1938 - 2023)"
 	tagline = ##f
@@ -8,27 +8,45 @@
 
 \paper {
 	#(set-paper-size "letter")
-	top-margin = 25
-	left-margin = 15
-	right-margin = 15
+	top-margin = 20
+	left-margin = 20
+	right-margin = 20
 	bottom-margin = 25
 	print-page-number = false
+	indent = 0
 }
 
-\markup \vspace #2 %
+\markup \vspace #2
 
 global= {
 	\time 6/8
-	\tempo Moderato 
 	\key g \major
 }
 
-
-melody = \relative c' {
-	<b' g'>2.:32 \fermata
-	s2. | s2. | s2.
+violinSolo = \new Voice \relative c'' {
+	\tempo "Andante maestoso"
+	\partial 4 e8( a |
+	e'4.~ e8 d8 cis8 | c4.~ c8) e,8( a | e'4.~ e8 b8 bes | a4.~ a8) e8( a |
+	e'4.~ e8) a,( gis | g8 e b c e b') | bes( a f fis a e' | ees d a c) e,( g |
+	fis g gis a e b | c d dis e) c16( e g b | a8 e f fis) d16( fis a c | b8 gis a fis) a16( b c d |
+	e8 d c b) a16( c d e | g8 fis e d) c16( d dis e) | b'8( a) e g( fis) c | e( d) c b( gis a) |
 	\bar "||"
-	r4. r8  g8 b \bar "||" | 
+	d2.~ | d2.~ | d4. r8 e8 e | e8( d) c b( a) d~ | 
+	d2.~ | d2.~ | d4. r8 e8 e | e d c b a g | 
+	e c b c a' g | fis f fis a g e | c d a g fis a 
+	<g, d' b' g'>2.\ff ~ \startTrillSpan
+	<g d' b' g'>2. ~
+	<g d' b' g'>4 \stopTrillSpan r8 r4.
+	\bar "||"
+}
+
+violinUno = \new Voice \relative c' {
+	%%<< %% este fragmento de código no muestra las notas de percusión
+	%%	\drummode { ss4. r8 r4 | ss4. r8 r4 | ss4. r8 r4 | } 
+	%%>>
+	s2. | s2. | s2. |
+	\tempo "Allegro"
+	r4. r8  g'8 b \bar "||" | 
 	\mark \markup { \small \musicglyph #"scripts.segno" }
 	d cis d e d g ~ | g d b ~ b d d |
 	d e d g, b d ~ | d c a ~ a fis a | c b c d c a' ~ | a fis d ~ d a' gis |
@@ -83,35 +101,35 @@ melody = \relative c' {
 		{ g, r8 r8 r8 g b | \bar "||" }
 	}
 	\mark \markup { \small \musicglyph #"scripts.segno" }
-        \bar "||"
-        \cadenzaOn
-                \stopStaff
-                        \repeat unfold 1 {
-                                s1
-                                \bar ""
-                        }
-                \startStaff
-        \cadenzaOff
-        \break
-        \mark \markup { \small \musicglyph #"scripts.coda" }
+		\bar "||"
+		\cadenzaOn
+			\stopStaff
+				\repeat unfold 1 {
+					s1
+					\bar ""
+				}
+			\startStaff
+		\cadenzaOff
+		\break
+	\mark \markup { \small \musicglyph #"scripts.coda" }
 	g8^\markup { \italic pizz. } r8 b e d r8 | e d r8 e d r8 | 
 	a r8 c e d r8 | e d r8 e d r8 | g, r8 b e d r8 | \break
 	e d r8 e d r8 | a r8 c e d r8 | 
 	d^\markup { \italic arco } d r8 e fis r8 | g r8 r8 r4. |
-        \bar "|."
-        \cadenzaOn
-                \stopStaff
-                        \repeat unfold 1 {
-                                s1
-                                \bar ""
-                        }
-                \startStaff
-        \cadenzaOff
+	\bar "|."
+	\cadenzaOn
+		\stopStaff
+			\repeat unfold 1 {
+				s1
+				\bar ""
+			}
+		\startStaff
+	\cadenzaOff
 }
 
 harmonies = \chordmode {
 	\time 6/8
-	s2. s2. s2. s2. s2.
+	s2. s2. s2. s2.
 	g2. | g2. | 
 	g2. | d2.:7 | d2.:7 | d2.:7 | 
 	d2.:7 | g2. | g2. | g2. |
@@ -159,17 +177,34 @@ harmonies = \chordmode {
 	d2.:7 | g2.
 }
 
+
 \score {
-	<<
+	\new StaffGroup <<
+		\new Staff \with { instrumentName = "Solo" }
+		<< \global \violinSolo >>
+	>>
+\layout { 
+	indent = 15
+}
+%%\midi {}
+}
+
+\score {
+<<
 	\language "espanol"
 	\new ChordNames {
 		\set chordChanges = ##t
+		\set noChordSymbol = ##f
+		\override ChordName.font-size = #-0.9
+		\override ChordName.direction = #UP
 		\harmonies
 	}
-	\new Staff {
-		\melody
-	}
-	>>
+	\new Staff
+		<< \global \violinUno >>
+		\addlyrics { %% lírica
+		}
+		\override Lyrics.LyricText.font-size = #-0.5
+>>
 \layout {}
 %%\midi {}
 }
