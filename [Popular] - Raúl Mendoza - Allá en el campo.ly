@@ -2,7 +2,7 @@
 \header {
 	title = "Allá en el campo"
 	subtitle = "Cumbia"
-	composer = "Raúl Mendoza Marín (6-78-847)"
+	composer = "Raúl Mendoza Marín (1972 - presente)"
 	tagline = ##f
 }
 

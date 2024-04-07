@@ -4,27 +4,33 @@
 
 Este es un repositorio de música folklórica panameña, en esta colección he digitalizado en formato de lilypond varios puntos, cumbias, pasillos y otros géneros del repertorio musical folklórico panameño.
 
-Algunas de estás piezas incluyen solamente la parte melódica de las piezas. Por ejemplo no se incluye el paseo (solo de violín) que tienen los puntos al inicio. Otras incluyen los acordes de guitarra acompañantes y unas pocas incluyen la letra.
+Algunas de estás piezas incluyen solamente la parte melódica de las piezas, otras incluyen los acordes de guitarra acompañantes y unas pocas incluyen la letra.
 
-Empecé este proyecto con una piezas que me donaron cuando era estudiante de violín hace 20 años atrás, incluso hay fotocopias de algunas escritas a mano que con el tiempo la legibilidad ha disminuido por el deterioro del papel. He hecho mi mejor esfuerzo al tratar de transcribir las partituras para que no se pierdan estas obras.
+Empecé este proyecto con una piezas que me donaron cuando era estudiante de violín hace 20 años atrás, incluso hay fotocopias de fotocopias de fotocopias de algunas piezas escritas a mano que con el tiempo la legibilidad ha disminuido por el deterioro del papel. He hecho mi mejor esfuerzo al tratar de transcribir las partituras para que no se pierdan estas obras.
 
-Del mismo modo, me mantengo investigando activamente para mejorar las partituras una vez transcritas. Ya sea si encuentro alguna mejor versión o el paseo de un punto, lo añadiré sobre la original. También incluí en las partituras el año de nacimiento y fallecimiento de los compositores/autores.
+Del mismo modo, me mantengo investigando activamente para mejorar las partituras una vez transcritas. Si encuentro alguna versión con variaciones significativas, la añadiré además de la original. También incluí en las partituras el año de nacimiento y fallecimiento de los compositores/autores.
+
+De algunas partituras hay varias versiones. Esto corresponde al hecho que puedo tener una versión melódica con acordes; y también, una versión para violín y piano por mencionar un ejemplo. A veces puede responder al hecho que tengo la misma partitura escrita de dos maneras diferentes y en escalera diferentes.
 
 ## ¿Por qué Lilypond? 🎵
 
-La respuesta a esta pregunta es sencilla. Soy usuario de GNU/Linux y suelo preferir los programas que son software libre o que son compatibles con la filosofía Open Source. Es cierto, que hay un montón de alternativas ahí fuera como Sibelius, Finales, etc. Pero ninguna de ellas es posible instalar en las máquinas que uso, por el hecho que solo están disponibles para MacOS o Windows. La otra respuesta a esta pregunta es el costo de las licencias de estos programas.
+La respuesta a esta pregunta es sencilla. Soy usuario de GNU/Linux y suelo preferir los programas que son software libre o que son compatibles con la filosofía Open Source. Es cierto, que hay un montón de alternativas ahí fuera como Sibelius, Finale, etc. Pero ninguna de ellas es posible instalar en las máquinas que uso, por el hecho que solo están disponibles para MacOS o Windows. La otra respuesta a esta pregunta es el costo de las licencias de estos programas.
 
-Me parece también que transcribo más rápido una partitura, viéndola y tecleandola a medida que la leo en lugar de ir haciendo point and click. Después de transcribir un par de partituras, las escribo y al terminar cuando las compilo solo hago las correcciones necesarias.
+Me parece también que transcribo más rápido una partitura, viéndola y tecleandola a medida que la leo en lugar de ir haciendo _point and click_. Después de transcribir las partituras, las compilo, verifico y hago las correcciones necesarias.
 
 Lilypond puede parecer atemorizante al principio y más si me ven usándolo (editando con vim desde la terminal). No hay una interfaz gráfica como tal, pues solo es necesario el archivo ly y el compilador que hace la magia. Aunque existe la opción de usar Frescobaldi que le añade una capa gráfica a Lilypond y permite hacer ciertas cosas adicionales que de otro modo requirirían leer en la documentación como escribir x o y accidente musical.
 
-## Flujo de trabajo 🛠️
+## Partituras en PDF 📑
 
-El primer paso es escanear el documento original para tener una referencia antes que se la coman las polillas o en caso de perder el documento físico, una vez escaneado le asignó la etiqueta *[orig]* al principio del nombre de archivo y lo muevo al directorio de trabajo. A continuación, dentro del directorio de trabajo, con una plantilla creo el documento donde se escribirá la partitura en formato lilypond, a esta le asigno la etiqueta *[wip]* al principio del nombre de archivo para estar conciente que se trata de un trabajo en proceso.
+Inicialmente estaba añadiendo los originales escaneados y los PDF generados por lilypond; sin embargo, el tamaño del repositorio aumento considerablemente, por lo que luego tome la decisión de solo colocar las fuentes. Solo es necesario tener lilypond instalado para compilarlas.
 
-En el primer paso transcribo la partitura, luego añado los acordes de guitarra en caso de existir y por último la letra de la canción en caso que este disponible. Una vez completada la pieza, procedo a borrar el documento escaneado original y cambio el nombre de archivo quitando la etiqueta *[wip]* y lo muevo al directorio raíz del repositorio. Queda así disponible el archivo de Lilypond y el PDF generado al final de la compilación.
+Para instalar `lilypond` en Arch Linux:
 
-De algunas partituras hay varias versiones. Esto corresponde al hecho que puedo tener una versión melódica con acordes; y también, una versión para violín y piano por mencionar un ejemplo. A veces puede responder al hecho que tengo la misma partitura escrita de dos maneras diferentes y en escalera diferentes.
+> pacman -S lilypond
+
+Para compilar una partitura
+
+> lilypond nombre-partitura.ly
 
 ## Música panameña 🎻
 
@@ -32,9 +38,9 @@ En el año 2017, el diputado Javier "Patacón" Ortega presentó una iniciativa l
 
 La música de Panamá, nace de las fusión de diversidad de las etnias hispanas en la época de la conquista y de los negros esclavos que trajeron con ellos. A diferencia de otros países, no es tan notable la influencia de la música de nuestros pueblos nativos. Esto en parte tiene que ver con el exterminio casi total que sufrieron nuestros nativos y su posterior repliegue hacia las profundidades de la selva y la montaña. Aún hoy nuestros grupos nativos son vistos de manera independiente y no con la integración que debería haber en nuestras raíces culturales.
 
-A pesar de la carencia de un nombre para la música panameña, los instrumentos propios de nuestro país si los hay. Tambores de 3 cuñas (pujador y repicador), cajas sin aro, mejorana, socavones, rabeles, violines, guitarras y acordeón solo por mencionar algunos y dicho sea de paso con funciones específicas. Nuestra música más autóctona nace con estos instrumentos e incluso suena mejor cuando se le toca con estos. Las introducciones de instrumentos posteriores (bajos, congas, guitarra eléctrica) altera la esencia misma de la música y producirá un resultado parecido pero no el mismo como fue concebida por su autor.
+A pesar de la carencia de un nombre para la música panameña, si hay instrumentos propios de nuestro país. Tambores de 3 cuñas (pujador y repicador), cajas sin aro, mejorana, socavones, rabeles solo por mencionar algunos y dicho sea de paso con funciones específicas. Nuestra música más autóctona nace con estos instrumentos e incluso suena mejor cuando se le toca con estos. Las introducciones de instrumentos posteriores (bajos, congas, guitarra eléctrica) altera la esencia misma de la música y producirá un resultado parecido pero no el mismo como fue concebida por su autor.
 
-Una de las máximas folkloristas de nuestro país; Dora Pérez de Zárate, hace la división de la *música folklórica*, cuyo autor se ha perdido en el tiempo, con la *música típica*, que tiene ya un autor conocido. En todo caso, las melodías y temas que hay en este repositorio pertenecen a este último grupo. Otra notable acotación de Dora Pérez de Zárate es en cuanto a la *música popular*, la cual se inspira en la música típica y que aprovecha elementos de fusión de ritmos importados de otros lares.
+Una de las máximas folkloristas de nuestro país; Dora Pérez de Zárate, hace la división de la *música folklórica*, cuyo autor se ha perdido en el tiempo, con la *música típica*, que tiene ya un autor conocido. En todo caso, las melodías y temas que hay en este repositorio pertenecen a este último grupo. Otra notable acotación de Dora Pérez de Zárate es en cuanto a la *música popular*, la cual se inspira en la música típica y que aprovecha elementos de fusión de ritmos importados.
 
 Independientemente del nombre que se le escoja a nuestra música, existe toda una serie de subgéneros que tienen características regionales. Se tiende a destacar los que nacieron en la península de Azuero como expresiones de nuestra panameñidad, pero no podemos dejar de lado los congos, bullerengues e incluso la música de nuestros grupos nativos. A continuación introduciré brevemente los subgéneros de los cuales tengo al menos una pieza representativa y algunos otros géneros que aunque no nacieron en Panamá, tuvieron grandes exponentes en suelo patrio.
 
@@ -75,6 +81,6 @@ En esta sección quiero agradecer a las personas que de una manera u otra han ap
 
 ## Contribuciones ✒️
 
-Si deseas realizar alguna colaboración, pero no tienes idea de cómo utilizar la notación de lilypond puedes enviarme tu colaboración en la sección de comentarios de github o través del correo moises [arroba] serrano.red ya sea en fotografía o escaneada y la añado al repositorio para quede disponible y en cuanto tenga tiempo (en mi caso escasea...) la convierto a formato Lilypond con su respectivo PDF.
+Si deseas realizar alguna colaboración, pero no tienes idea de cómo utilizar la notación de lilypond puedes enviarme tu colaboración en la sección de comentarios de github o través del correo linkmoises [arroba] gmail.com ya sea en fotografía o escaneada y la añado al repositorio para quede disponible tan pronto como sea posible.
 
 Siéntete libre de colaborar con este proyecto para rescatar la memoria musical panameña.
