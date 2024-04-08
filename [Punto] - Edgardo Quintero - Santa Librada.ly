@@ -40,7 +40,7 @@ violinSolo = \new Voice \relative c'' {
 	\bar "||"
 }
 
-violinUno = \new Voice \relative c' {
+melodia = \new Voice \relative c' {
 	%%<< %% este fragmento de código no muestra las notas de percusión
 	%%	\drummode { ss4. r8 r4 | ss4. r8 r4 | ss4. r8 r4 | } 
 	%%>>
@@ -49,7 +49,7 @@ violinUno = \new Voice \relative c' {
 	r4. r8  g'8 b \bar "||" | 
 	\mark \markup { \small \musicglyph #"scripts.segno" }
 	d cis d e d g ~ | g d b ~ b d d |
-	d e d g, b d ~ | d c a ~ a fis a | c b c d c a' ~ | a fis d ~ d a' gis |
+	d e d g b, d ~ | d c a ~ a fis a | c b c d c a' ~ | a fis d ~ d a' gis |
 	a fis d e d c ~ | c b d ~ d g, b | d cis d e d g ~ | g d b ~ b f' f |
 	f e dis e b d ~ | d c a ~ a e' e | e a g fis e g ~ | g d b' g d c ~ |
 	c a a' fis d b | b g4 r8 e'8 e | e a g fis e g ~ | g d b' g d c ~ |
@@ -127,7 +127,7 @@ violinUno = \new Voice \relative c' {
 	\cadenzaOff
 }
 
-harmonies = \chordmode {
+acordes = \chordmode {
 	\time 6/8
 	s2. s2. s2. s2.
 	g2. | g2. | 
@@ -183,13 +183,12 @@ harmonies = \chordmode {
 		\new Staff \with { instrumentName = "Solo" }
 		<< \global \violinSolo >>
 	>>
-\layout { 
-	indent = 15
-}
-%%\midi {}
+	\layout { 
+		indent = 15
+	}
 }
 
-\score {
+\score { %% genera el PDF
 <<
 	\language "espanol"
 	\new ChordNames {
@@ -197,14 +196,15 @@ harmonies = \chordmode {
 		\set noChordSymbol = ##f
 		\override ChordName.font-size = #-0.9
 		\override ChordName.direction = #UP
-		\harmonies
+		\acordes
 	}
 	\new Staff
-		<< \global \violinUno >>
-		\addlyrics { %% lírica
-		}
-		\override Lyrics.LyricText.font-size = #-0.5
+		<< \global \melodia >>
 >>
 \layout {}
-%%\midi {}
+}
+
+\score { %% genera la muestra MIDI melódica
+	\unfoldRepeats { \violinSolo \melodia }
+	\midi { \tempo 4 = 100 }
 }

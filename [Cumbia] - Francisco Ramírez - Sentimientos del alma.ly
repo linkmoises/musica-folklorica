@@ -25,7 +25,7 @@ global= {
 	\key g \minor
 }
 
-violinUno = \new Voice \relative c'' {
+melodia = \new Voice \relative c'' {
 	r2 r8 d,8 g a |
 	\repeat volta 2 {
 		bes4. g8 d' bes g' d | d c a4. d8 a' g | 
@@ -80,7 +80,7 @@ violinUno = \new Voice \relative c'' {
 	\bar "|."
 }
 
-harmonies = \chordmode {
+acordes = \chordmode {
 	\time 2/2
 	s1
 	g1:m | a1:dim | d1:7 | g1:m |
@@ -102,22 +102,29 @@ harmonies = \chordmode {
 	d4 d4 d4 d4 | g4. g8:6 g2:6 | g2:6 s2 | 
 }
 
+lirica = \lyricmode {
+%% letra
+}
 
-\score {
+\score { %% genera el PDF
 <<
 	\language "espanol"
 	\new ChordNames {
 		\set chordChanges = ##t
 		\set noChordSymbol = ##f
-		\override ChordName.font-size = #0.9
+		\override ChordName.font-size = #-0.9
 		\override ChordName.direction = #UP
-		\harmonies
+		\acordes
 	}
 	\new Staff
-		<< \global \violinUno >>
-		\addlyrics { %% lírica
-		}
+		<< \global \melodia >>
+	\addlyrics \lirica
+	\override Lyrics.LyricText.font-size = #-0.5
 >>
 \layout {}
-%%\midi {}
+}
+
+\score { %% genera la muestra MIDI melódica
+	\unfoldRepeats { \melodia }
+	\midi { \tempo 4 = 160 }
 }

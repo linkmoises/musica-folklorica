@@ -16,15 +16,15 @@
 	indent = 0
 }
 
-\markup \vspace #2 %% usar #2. Si se tiene el tempo de la pieza se elimina esta línea
+\markup \vspace #2
 
-global= {
+global = {
 	\time 2/4
 	\tempo 4 = 90
 	\key g \major
 }
 
-violinUno = \new Voice \relative c' {
+melodia = \new Voice \relative c' {
 	\relative c' {
 	\partial 8 d'16 d |
 	\repeat volta 2 {
@@ -37,7 +37,7 @@ violinUno = \new Voice \relative c' {
 		{ g4 r8 b,16 c | }
 	}
 	\repeat volta 2 {
-		d8 d e g | fis a r8 a,16 b | c8 e d fis | e8 g( g4) |
+		d8 d e g | fis a r8 a,16 b | c8 e d fis | e8 g ~ g4 |
 		g,8 g16 b e8 e16 b | d8 a d r8 | a8 b16 c d8 e16 fis |
 	}
 	\alternative {
@@ -73,26 +73,33 @@ violinUno = \new Voice \relative c' {
 	}
 }
 
-harmonies = \chordmode {
+acordes = \chordmode {
 %% acordes de guitarra / mejorana
 }
 
+lirica = \lyricmode {
+%% letra
+}
 
-\score {
+\score { %% genera el PDF
 <<
 	\language "espanol"
 	\new ChordNames {
 		\set chordChanges = ##t
 		\set noChordSymbol = ##f
-		\override ChordName.font-size = #0.9
+		\override ChordName.font-size = #-0.9
 		\override ChordName.direction = #UP
-		\harmonies
+		\acordes
 	}
 	\new Staff
-		<< \global \violinUno >>
-		\addlyrics { %% lírica
-		}
+		<< \global \melodia >>
+	\addlyrics \lirica
+	\override Lyrics.LyricText.font-size = #-0.5
 >>
 \layout {}
-%%\midi {}
+}
+
+\score { %% genera la muestra MIDI melódica
+	\unfoldRepeats { \melodia }
+	\midi { \tempo 4 = 90 }
 }

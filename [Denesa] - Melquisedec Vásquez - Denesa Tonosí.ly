@@ -16,15 +16,15 @@
 	indent = 0
 }
 
-\markup \vspace #2 %% usar #2. Si se tiene el tempo de la pieza se elimina esta línea
+\markup \vspace #2
 
 global= {
 	\time 2/4
-	\tempo 4 = 90 %%"Andantino"
+	\tempo "Andantino"
 	\key f \major
 }
 
-violinUno = \new Voice \relative c' {
+melodia = \new Voice \relative c' {
 	f8 a16 c f e d c | 
 	\mark \markup { \small \musicglyph #"scripts.segno" }
 	\repeat volta 4 {
@@ -90,7 +90,7 @@ violinUno = \new Voice \relative c' {
 	\bar "|."
 }
 
-harmonies = \chordmode {
+acordes = \chordmode {
 	\time 2/4
 	s2
 	c2:7 | f2 | f2 |
@@ -105,22 +105,29 @@ harmonies = \chordmode {
 	f2
 }
 
+lirica = \lyricmode {
+%% letra
+}
 
-\score {
+\score { %% genera el PDF
 <<
 	\language "espanol"
 	\new ChordNames {
 		\set chordChanges = ##t
 		\set noChordSymbol = ##f
-		\override ChordName.font-size = #0.9
+		\override ChordName.font-size = #-0.9
 		\override ChordName.direction = #UP
-		\harmonies
+		\acordes
 	}
 	\new Staff
-		<< \global \violinUno >>
-		\addlyrics { %% lírica
-		}
+		<< \global \melodia >>
+	\addlyrics \lirica
+	\override Lyrics.LyricText.font-size = #-0.5
 >>
 \layout {}
-%%\midi {}
+}
+
+\score { %% genera la muestra MIDI melódica
+	\unfoldRepeats { \melodia }
+	\midi { \tempo 4 = 80 } %% colocar tempo numérico para que se exporte a velocidad adecuada
 }

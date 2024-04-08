@@ -24,7 +24,7 @@ global= {
 	\tempo "Allegretto"
 }
 
-violinUno = \new Voice \relative c' {
+melodia = \new Voice \relative c' {
 	r4 a'8 d ~ d f g4 |
 	\repeat volta 2 {
 		\mark \markup { \small \musicglyph #"scripts.segno" }
@@ -86,27 +86,33 @@ violinUno = \new Voice \relative c' {
 }
 
 
-harmonies = \chordmode {
+acordes = \chordmode {
 %% acordes de guitarra / mejorana
 }
 
+lirica = \lyricmode {
+%% letra
+}
 
-\score {
+\score { %% genera el PDF
 <<
 	\language "espanol"
 	\new ChordNames {
 		\set chordChanges = ##t
 		\set noChordSymbol = ##f
-		\override ChordName.font-size = #0.9
+		\override ChordName.font-size = #-0.9
 		\override ChordName.direction = #UP
-		\harmonies
+		\acordes
 	}
 	\new Staff
-		<< \global \violinUno >>
-		\addlyrics { %% lírica
-		}
-		\override Lyrics.LyricText.font-size = #-0.5
+		<< \global \melodia >>
+	\addlyrics \lirica
+	\override Lyrics.LyricText.font-size = #-0.5
 >>
 \layout {}
-%%\midi {}
+}
+
+\score { %% genera la muestra MIDI melódica
+	\unfoldRepeats { \melodia }
+	\midi { \tempo 4 = 130 } 
 }

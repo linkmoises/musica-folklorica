@@ -24,13 +24,13 @@ global= {
 	\key c \major
 }
 
-violinUno = \new Voice \relative c' {
+melodia = \new Voice \relative c' {
 	\set Timing.beamExceptions = #'()
 	r8 e8( dis e) a c |
 	\repeat volta 2 {
-	e2.( | e4) b4. d8 | c2. | r8 g8( fis g) c e |
-	g4. fis8( g fis) | g4 d dis | e2.( | e4) b d |
-	c4 c8( d e4) | r4 b4 d | c4 c8( d e4)( | e4) e a |
+	e2. ~ | e4 b4. d8 | c2. | r8 g8( fis g) c e |
+	g4. fis8( g fis) | g4 d dis | e2. ~ | e4 b d |
+	c4 c8( d e4) | r4 b4 d | c4 c8( d e4 ~ | e4) e a |
 	gis8 b4 gis8 b4 | fis8 b4 fis8 b4 | e,4. e8 e4 |
 	}
 	\alternative {
@@ -47,14 +47,14 @@ violinUno = \new Voice \relative c' {
 	}
 	a2. | r8 e8( dis e) a d | e2.( | e4) b4. d8 | 
 	c2. | r8 g8( fis g) c e | g4. fis8( g) fis | g4 d dis | 
-	e2.( | e4) b d | c4 c8( d e4) | r4 b4 d |
-	c4 c8( d e4)( | e4) e a | gis8 b4 gis8 b4 | fis8 b4 fis8 b4 | 
+	e2. ~ | e4 b d | c4 c8( d e4) | r4 b4 d |
+	c4 c8( d e4 ~ | e4) e a | gis8 b4 gis8 b4 | fis8 b4 fis8 b4 | 
 	e,4. e8 e4 |
 	\repeat volta 2 {
 	\key a \major
-	r8 fis8 e4 d | cis4 e,8 a cis4( | cis8) b a4 gis | fis4 fis8 b8 d4 |
-	r8 cis8 b4 a | gis4 d8 e gis4( | gis8) fis8 e4 d | cis8 cis4 fis8 e4 |
-	r8 fis'8 e4 d | cis4 e,8 a cis4( | cis8) b a4 gis | fis4 fis8 b d4 |
+	r8 fis8 e4 d | cis4 e,8 a cis4 ~ | cis8 b a4 gis | fis4 fis8 b8 d4 |
+	r8 cis8 b4 a | gis4 d8 e gis4 ~ | gis8 fis8 e4 d | cis8 cis4 fis8 e4 |
+	r8 fis'8 e4 d | cis4 e,8 a cis4 ~ | cis8 b a4 gis | fis4 fis8 b d4 |
 	r8 d8 e4. fis8 | e4 fis4. e8 | d4 cis4. b8 |
 	}
 	\alternative {
@@ -65,7 +65,7 @@ violinUno = \new Voice \relative c' {
 	\bar "|."
 }
 
-harmonies = \chordmode {
+acordes = \chordmode {
 	\time 3/4
 	s2. |
 	a2.:m | e2. | a2.:m | a2.:m |
@@ -88,22 +88,29 @@ harmonies = \chordmode {
 }
 
 
-\score {
+lirica = \lyricmode {
+%% letra
+}
+
+\score { %% genera el PDF
 <<
 	\language "espanol"
 	\new ChordNames {
 		\set chordChanges = ##t
 		\set noChordSymbol = ##f
-		\override ChordName.font-size = #0.9
+		\override ChordName.font-size = #-0.9
 		\override ChordName.direction = #UP
-		\harmonies
+		\acordes
 	}
 	\new Staff
-		<< \global \violinUno >>
-		\addlyrics { %% lírica
-		}
-		\override Lyrics.LyricText.font-size = #-0.5
+		<< \global \melodia >>
+	\addlyrics \lirica
+	\override Lyrics.LyricText.font-size = #-0.5
 >>
 \layout {}
-%%\midi {}
+}
+
+\score { %% genera la muestra MIDI melódica
+	\unfoldRepeats { \melodia }
+	\midi { \tempo 4 = 105 } %% colocar tempo numérico para que se exporte a velocidad adecuada
 }
