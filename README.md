@@ -46,7 +46,7 @@ Para algunos folkloristas las introducciones de instrumentos posteriores (timbal
 
 Una de las máximas folkloristas de nuestro país; Dora Pérez de Zárate, hace la división de la *música folklórica*, cuyo autor se ha perdido en el tiempo, con la *música típica*, que tiene ya un autor conocido. En todo caso, las melodías y temas que hay en este repositorio pertenecen a este último grupo. Otra notable acotación de Dora Pérez de Zárate es en cuanto a la *música popular*, la cual se inspira en la música típica y que aprovecha elementos de fusión de ritmos importados.
 
-Independientemente del nombre que se le escoja a nuestra música, existe toda una serie de subgéneros que tienen características regionales, algunos evolucionaron más, otros se han mantenido aislados. Se tiende a destacar los que florecieron en la península de Azuero como expresiones de nuestra panameñidad, pero no podemos dejar de lado la música de otras regiones de nuestro país e incluso la música de nuestros grupos nativos.
+Independientemente del nombre que se le escoja a nuestra música o la forma como se clasifique, existen toda una serie de subgéneros que tienen características regionales donde algunos evolucionaron más y otros se han mantenido aislados casi sin influencias externas a lo largo de los años. Se tiende a destacar los subgéneros que florecieron en la península de Azuero como expresiones de nuestra panameñidad, pero no podemos dejar de lado la música de otras regiones de nuestro país e incluso la música de nuestros grupos nativos.
 
 ## Licencia 📄
 
