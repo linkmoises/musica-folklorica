@@ -2,7 +2,6 @@
 \header {
 	title = "Los Sentimientos del Alma"
 	subtitle = "Danzón Cumbia"
-	%%poet = "Leonidas Cajar"
 	composer = "Francisco 'Chico Purio' Ramírez (1903 - 1987)"
 	tagline = ##f
 }
@@ -21,7 +20,7 @@
 
 global= {
 	\time 2/2
-	\tempo Allegro
+	\tempo "Allegro"
 	\key g \minor
 }
 
