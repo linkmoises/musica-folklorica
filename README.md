@@ -21,9 +21,9 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Cedeño, J.           |La realidad                         |fotocopia / escrita digitalmente  |        ✓        |
 |Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano        |        ✓        |
 |Cedeño, J.           |Por olvidarte                       |fotografía de baja resolución     |        ✓        |
-|Cedeño, J.           |Soledad                             |fotografía de baja resolución     |                 |
+|Cedeño, J.           |Soledad                             |fotografía de baja resolución     |        ✓*       |
 |Cedeño, J.           |Triste vida de soltero              |fotografía de baja resolución     |        ✓        |
-|Córdova, A.          |Pueblo nuevo                        |fotocopia / escrita a mano        |                 |
+|Córdova, A.          |Pueblo nuevo                        |fotocopia / escrita a mano        |        ✓*       |
 |Córdoba, R.          |Ráscate                             |fotocopia / escrita digitalmente  |                 |
 |Gómez, V.            |Mamá Eva                            |fotocopia / escrita a mano        |                 |
 |Ramírez, F.          |Edicta no me quiere                 |fotocopia / escrita a mano        |                 |
