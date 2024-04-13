@@ -60,14 +60,15 @@ melodia = \new Voice \relative c' {
 		{ d4 r8 f16 a | }
 	}
 	\repeat volta 2 {
-		cis8 e, g bes | cis a r4 | c8 f, g e |
+		c8 e, g bes | cis, a cis4 | %% cis4 es una suposición
+		a'8 f g e |
 	}
 	\alternative {
 		{ f8. d8. f16 a | }
 		{ d,4 r8 f16 a | }
 	}
 	\repeat volta 2 { 
-		d8. g,16 g8 e' | f8. cis16 a8 bes | f8 cis e a |
+		d8. g,16 g8 e' | g,8. f16 a8 bes | f8 cis e a |
 	}
 	\alternative {
 		{ f16 d f a | }
