@@ -20,7 +20,7 @@
 
 global = {
 	\time 2/4
-	\tempo 4 = 90
+	\tempo "Andantino"
 	\key d \major
 }
 
@@ -49,6 +49,8 @@ melodia = \new Voice \relative c' {
 		{ d4 r16 a16 b g | }
 	}
 	\bar "||"
+	%%% de aquí en adelante se transcribe tal cual esta en la partitura original
+	%%% probablemente este incompleta la transcripción física
 	a4 r8 a16 a |
 	\repeat volta 2 {
 		a16 cis e g b8 r16 d,16 | a4 cis8 d | e g b,8. a'16 | cis,8 a ~ a16 cis e g |
