@@ -12,6 +12,8 @@ Del mismo modo, me mantengo investigando activamente para mejorar las partituras
 
 De algunas partituras hay varias versiones, a veces esto puede responder al hecho que tengo la misma partitura escrita de dos maneras diferentes o en escalas diferentes.
 
+### Partituras de cumbias
+
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente  |        ✓        |
@@ -28,8 +30,31 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Ramírez, F.          |Sentimientos del alma               |fotocopia / escrita a mano        |        ✓        |
 |Ramírez, F.          |Sentimientos del alma               |fotografía de baja resolución     |        ✓        |
 |Vergara, A.          |La Espina                           |fotocopia / escrita a mano        |        ✓        |
-|Vergara, A.          |La Espina                           |sacada de tesis                   |        ✓        |
+|Vergara, A.          |La Espina                           |escaneado / baja resolución       |        ✓        |
 |Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente  |        ✓        |
+
+### Partituras de pasillos
+
+|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|Alcedo, C.           |Isabel (Brisas mesanas)             |escaneado / baja resolución       |        ✓        |
+|Córdova, A.          |Recuerdos de Josefa                 |fotografía de baja resolución     |        ✓        |
+|Gómez, V.            |Club Danubio                        |fotocopia / escrita a mano        |                 |
+|Gómez, V.            |Suspiro de una fea                  |fotocopia / escrita digitalmente  |        ✓        |
+
+### Partituras de polkas, polkadanzas y contradanzas
+
+|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|Cortez, B.           |Contradanza                         |fotocopia / escrita digitalmente  |        ✓        |
+|Cortez, B.           |Polka                               |fotocopia / escrita a mano        |        ✓        |
+
+### Partituras de puntos
+
+|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente  |                 |
+|Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
 
 ## ¿Por qué Lilypond? 🎵
 
