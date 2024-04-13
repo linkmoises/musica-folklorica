@@ -33,6 +33,12 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Vergara, A.          |La Espina                           |escaneado / baja resolución       |        ✓        |
 |Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente  |        ✓        |
 
+### Partituras de denesas
+
+|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|Vásquez, M.          |Denesa Tonosí                       |fotocopia / escrita a mano        |        ✓        |
+
 ### Partituras de pasillos
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
