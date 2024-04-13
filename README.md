@@ -12,19 +12,24 @@ Del mismo modo, me mantengo investigando activamente para mejorar las partituras
 
 De algunas partituras hay varias versiones, a veces esto puede responder al hecho que tengo la misma partitura escrita de dos maneras diferentes o en escalas diferentes.
 
-|        Autor        |               Título               |        Partitura original        | Transcripción  |
-|:--------------------|:-----------------------------------|:--------------------------------:|:--------------:|
-|Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente  |       ✓        |
-|Cedeño, J.           |La realidad                         |fotocopia / escrita a mano        |       ✓        |
-|Cedeño, J.           |La realidad                         |fotocopia / escrita digitalmente  |       ✓        |
-|Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano        |       ✓        |
-|Cedeño, J.           |Por olvidarte                       |fotografía                        |       ✓        |
-|Cedeño, J.           |Triste vida de soltero              |fotografía                        |       ✓        |
-|Ramírez, F.          |Sentimientos del alma               |fotocopia / escrita a mano        |       ✓        |
-|Ramírez, F.          |Sentimientos del alma               |fotografía                        |       ✓        |
-|Vergara, A.          |La Espina                           |fotocopia / escrita a mano        |       ✓        |
-|Vergara, A.          |La Espina                           |sacada de tesis                   |       ✓        |
-|Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente  |       ✓        |
+|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente  |        ✓        |
+|Cedeño, J.           |La realidad                         |fotocopia / escrita a mano        |        ✓        |
+|Cedeño, J.           |La realidad                         |fotocopia / escrita digitalmente  |        ✓        |
+|Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano        |        ✓        |
+|Cedeño, J.           |Por olvidarte                       |fotografía de baja resolución     |        ✓        |
+|Cedeño, J.           |Soledad                             |fotografía de baja resolución     |                 |
+|Cedeño, J.           |Triste vida de soltero              |fotografía de baja resolución     |        ✓        |
+|Córdova, A.          |Pueblo nuevo                        |fotocopia / escrita a mano        |                 |
+|Córdoba, R.          |Ráscate                             |fotocopia / escrita digitalmente  |                 |
+|Gómez, V.            |Mamá Eva                            |fotocopia / escrita a mano        |                 |
+|Ramírez, F.          |Edicta no me quiere                 |fotocopia / escrita a mano        |                 |
+|Ramírez, F.          |Sentimientos del alma               |fotocopia / escrita a mano        |        ✓        |
+|Ramírez, F.          |Sentimientos del alma               |fotografía de baja resolución     |        ✓        |
+|Vergara, A.          |La Espina                           |fotocopia / escrita a mano        |        ✓        |
+|Vergara, A.          |La Espina                           |sacada de tesis                   |        ✓        |
+|Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente  |        ✓        |
 
 ## ¿Por qué Lilypond? 🎵
 
