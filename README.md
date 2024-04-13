@@ -12,6 +12,20 @@ Del mismo modo, me mantengo investigando activamente para mejorar las partituras
 
 De algunas partituras hay varias versiones, a veces esto puede responder al hecho que tengo la misma partitura escrita de dos maneras diferentes o en escalas diferentes.
 
+|        Autor        |               Título               |        Partitura original        | Transcripción  |
+|:--------------------|:-----------------------------------|:--------------------------------:|:--------------:|
+|Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente  |       ✓        |
+|Cedeño, J.           |La realidad                         |fotocopia / escrita a mano        |       ✓        |
+|Cedeño, J.           |La realidad                         |fotocopia / escrita digitalmente  |       ✓        |
+|Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano        |       ✓        |
+|Cedeño, J.           |Por olvidarte                       |fotografía                        |       ✓        |
+|Cedeño, J.           |Triste vida de soltero              |fotografía                        |       ✓        |
+|Ramírez, F.          |Sentimientos del alma               |fotocopia / escrita a mano        |       ✓        |
+|Ramírez, F.          |Sentimientos del alma               |fotografía                        |       ✓        |
+|Vergara, A.          |La Espina                           |fotocopia / escrita a mano        |       ✓        |
+|Vergara, A.          |La Espina                           |sacada de tesis                   |       ✓        |
+|Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente  |       ✓        |
+
 ## ¿Por qué Lilypond? 🎵
 
 La respuesta a esta pregunta es sencilla. Soy usuario de GNU/Linux y suelo preferir los programas que son software libre o que son compatibles con la filosofía _open source_. Es cierto, que hay un montón de alternativas ahí fuera como Sibelius, Finale, etc. Pero ninguna de ellas es posible instalar en las máquinas que uso, por el hecho que solo están disponibles para Mac OS o Windows. La otra respuesta a esta pregunta es el costo de las licencias de estos programas.
