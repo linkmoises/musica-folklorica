@@ -26,7 +26,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Córdova, A.          |Pueblo nuevo                        |fotocopia / escrita a mano        |        ✓*       |
 |Córdoba, R.          |Ráscate                             |fotocopia / escrita digitalmente  |        ✓        |
 |Gómez, V.            |Mamá Eva                            |fotocopia / escrita a mano        |                 |
-|Ramírez, F.          |Edicta no me quiere                 |fotocopia / escrita a mano        |                 |
+|Ramírez, F.          |Edicta no me quiere                 |fotocopia / escrita a mano        |        ✓*       |
 |Ramírez, F.          |Sentimientos del alma               |fotocopia / escrita a mano        |        ✓        |
 |Ramírez, F.          |Sentimientos del alma               |fotografía de baja resolución     |        ✓        |
 |Vergara, A.          |La Espina                           |fotocopia / escrita a mano        |        ✓        |
