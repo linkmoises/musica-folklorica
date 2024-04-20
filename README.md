@@ -59,7 +59,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente  |                 |
+|Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente  |        ✓*       |
 |Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
 
 ## ¿Por qué Lilypond? 🎵
