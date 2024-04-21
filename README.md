@@ -102,7 +102,7 @@ Independientemente del nombre que se le escoja a nuestra música o la forma como
 
 Estas composiciones son de dominio público. Encontrar una pieza musical de estas a través de los buscadores es extremadamente difícil y la mayor parte del tiempo no se obtienen resultados favorables. Por este motivo, he decidido compartir este repositorio bajo la Licencia Creative Commons CC BY 4.0.
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 Este repositorio está bajo una
 [Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
