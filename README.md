@@ -17,6 +17,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente  |        ✓        |
+|Cedeño, J.           |Embustera                           |imagen digital poco legible       |        ✓*       |
 |Cedeño, J.           |La realidad                         |fotocopia / escrita a mano        |        ✓        |
 |Cedeño, J.           |La realidad                         |fotocopia / escrita digitalmente  |        ✓        |
 |Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano        |        ✓        |
