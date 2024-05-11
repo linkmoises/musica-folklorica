@@ -47,7 +47,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |Alcedo, C.           |Isabel (Brisas mesanas)             |escaneado / baja resolución       |        ✓        |
 |Córdova, A.          |Recuerdos de Josefa                 |fotografía de baja resolución     |        ✓        |
-|Gómez, V.            |Club Danubio                        |fotocopia / escrita a mano        |                 |
+|Gómez, V.            |Club Danubio                        |fotocopia / escrita a mano        |        ✓        |
 |Gómez, V.            |Suspiro de una fea                  |fotocopia / escrita digitalmente  |        ✓        |
 
 ### Partituras de polkas, polkadanzas y contradanzas

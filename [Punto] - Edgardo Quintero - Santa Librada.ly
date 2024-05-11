@@ -95,27 +95,17 @@ melodia = \new Voice \relative c' {
 	\alternative {
 		{ b\staccato g\staccato fis\staccato g\staccato fis\staccato g\staccato }
 		{ b b,( \p d g fis a) }
-	
-	g8} g, b e d4 | a8 a( b c d e) | fis a, c e d4 | 
+	}
+	g8 g, b e d4 | a8 a( b c d e) | fis a, c e d4 | 
 	g,8 \mf ^\markup { \italic pizz. } r8 b e d r8 |
 	\repeat volta 2 {
 		e d r8 e d r8 | a r8 c e d r8 | e d r8 e d r8 |
 	}
 	\alternative {
 		{ g, r8 b e d r8 | }
-		{ g, r8 r8 r8 g b | \bar "||" }
+		{ g, r8 r8 r8 g \mark \markup { \small \italic "D.S. al coda" } b \bar "||" }
 	}
-	\mark \markup { \small \musicglyph #"scripts.segno" }
-		\bar "||"
-		\cadenzaOn
-			\stopStaff
-				\repeat unfold 1 {
-					s1
-					\bar ""
-				}
-			\startStaff
-		\cadenzaOff
-		\break
+	\break
 	\mark \markup { \small \musicglyph #"scripts.coda" }
 	g8 \mf ^\markup { \italic pizz. } r8 b e d r8 | e d r8 e d r8 | 
 	a r8 c e d r8 | e d r8 e d r8 | g, r8 b e d r8 | \break
@@ -166,10 +156,8 @@ acordes = \chordmode {
 	
 	g2. |
 	g2. |
-	
-	s8 s8 %% este hack es para que la comprobación de tiempo no marque errores 
-	
-	g2. | g2. | g2. | 
+		
+	g2. | g2. | 
 	d2.:7 | d2.:7 | g2. | 
 	g2. | d2.:7 | 
 	d2.:7 | g2.
