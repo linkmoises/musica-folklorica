@@ -33,21 +33,21 @@ melodia = \new Voice \relative c' {
 	}
 	\alternative {
 		{ g4. r8 d'8 e | }
-		{ g,4. r8 g8 g | }
+		{ g,4. r8 g8 \p g | }
 	}
 	\repeat volta 2 {
-		c4 d e | b8 g4 d'8 e4 | c8 a4 fis4 d8 | g4. r8 c8 d |
+		c4 d e | b8 g4 d'8 e4 | c8 a4 fis4 d8 | g4. r8 c8 \p d |
 		e d c e d c | e d b r8 g'8 fis | a8 fis d c8 a4 |
 	}
 	\alternative {
 		{ g4. r8 g8 g | }
-		{ g4. r8 f'8 f | }
+		{ g4. r8 f'8 \ff f | }
 	}
 	\repeat volta 2 {
-		f e e e c e | d4 r8 r8 f f | f e e e c e |
+		f e e e c e | d4 \f r8 r8 f \p f | f e e e c e |
 	}
 	\alternative {
-		{ d4 r8 r8 f8 f | }
+		{ d4 \ff r8 r8 f8 f | }
 		{ d4 r8 r8 g,8 g | }
 	}
 	\repeat volta 4 {
@@ -65,7 +65,7 @@ melodia = \new Voice \relative c' {
 	\break
 	\mark \markup { \small \musicglyph #"scripts.coda" }
 	g8 g, b d a c | e a, a fis' d d | g g, b d a c | e a, a fis' d d 
-	g4 r8 r8 r4 | 
+	g4 r8 r4. | d8 \ff d4 e8 fis4 | g4 r8 r4. | 
 	\bar "|."
 }
 
