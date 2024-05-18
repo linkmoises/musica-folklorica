@@ -46,6 +46,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |Alcedo, C.           |Isabel (Brisas mesanas)             |escaneado / baja resolución       |        ✓        |
+|Batista, C.          |Piedra                              |escaneado / baja resolución       |        ✓        |
 |Córdova, A.          |Recuerdos de Josefa                 |fotografía de baja resolución     |        ✓        |
 |Gómez, V.            |Club Danubio                        |fotocopia / escrita a mano        |        ✓        |
 |Gómez, V.            |Suspiro de una fea                  |fotocopia / escrita digitalmente  |        ✓        |
