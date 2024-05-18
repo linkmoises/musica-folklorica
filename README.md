@@ -68,6 +68,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|De La Lastra, G.     |Panamá Soberana                     |fotocopia / escrita digitalmente  |        ✓        |
 |Fábrega, R.          |Guararé                             |fotocopia / escrita digitalmente  |        ✓        |
 
 ## ¿Por qué Lilypond? 🎵
