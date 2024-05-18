@@ -61,6 +61,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|Batista, C.          |Socavón del Canajagua               |fotocopia / escrita a mano        |        ✓*       |
 |Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente  |        ✓*       |
 |Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
 
