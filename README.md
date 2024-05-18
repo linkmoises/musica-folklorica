@@ -64,6 +64,12 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente  |        ✓*       |
 |Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
 
+### Partituras de tamboreras
+
+|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|Fábrega, R.          |Guararé                             |fotocopia / escrita digitalmente  |        ✓        |
+
 ## ¿Por qué Lilypond? 🎵
 
 La respuesta a esta pregunta es sencilla. Soy usuario de GNU/Linux y suelo preferir los programas que son software libre o que son compatibles con la filosofía _open source_. Es cierto, que hay un montón de alternativas ahí fuera como Sibelius, Finale, etc. Pero ninguna de ellas es posible instalar en las máquinas que uso, por el hecho que solo están disponibles para Mac OS o Windows. La otra respuesta a esta pregunta es el costo de las licencias de estos programas.
