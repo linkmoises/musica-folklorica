@@ -44,7 +44,15 @@ melodia = \new Voice \relative c' {
 }
 
 acordes = \chordmode {
-%% acordes de guitarra / mejorana
+	r2 | c4 f4 | g2:7 | c4 f4 |
+	g2:7 | c4 f4 | g2:7 | c4 f4 |
+	g2:7 | f2 | g2:7 | f2 |
+	g2 | f2 | g2:7 | f2 |
+	g2:7 | 
+	c4 f4 | g2:7 | c4 f4 |
+	g2:7 |
+	g2:7 |
+
 }
 
 lirica = \lyricmode {
