@@ -102,3 +102,38 @@ lirica = \lyricmode {
 	\unfoldRepeats { \melodia }
 	\midi { \tempo 4 = 60 } %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
 }
+
+\markup {
+	\fill-line {
+		\hspace #1
+		\column {
+			\line \smallCaps \bold { Al guacamaya }
+			\hspace #1
+			\line {¡Guacamaya! Centinela mío.}
+			\line {De oro legendario,}
+			\line {de oro legendario}
+			\line {hermoso baúl.}
+			\line {Monje que ora callado y sombrío}
+			\line {allá en la lejana}
+			\line {allá en la lejana}
+			\line {belleza de azul.}
+			\hspace #1
+			\line {Eres fondo de tarde tranquila.}
+			\line {Mantón de manila}
+			\line {color de oro y té.}
+			\line {Eres cumbre del sol cual ninguna}
+			\line {faro de la luna}
+			\line {amor que canté.}
+		}
+		\hspace #2
+		\column {
+			\line {A tu sombra se duerme risueña}
+			\line {hermosa y pequeña}
+			\line {la virgen que amé.}
+			\line {¡Guacamaya! ¡Lindo Guacamaya!}
+			\line {Monje que ora y calla}
+			\line {¡Mi Penonomé!}
+		}
+		\hspace #1
+	}
+}
