@@ -16,7 +16,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Andrión, M.          |Al guacamaya                        |fotocopia / escrita digitalmente  |                 |
+|Andrión, M.          |Al guacamaya                        |fotocopia / escrita digitalmente  |        ✓        |
 |Eleta, C.            |Historia de una amor                |fotocopia / escrita digitalmente  |                 |
 |Eleta, C.            |Perdónala señor                     |fotocopia / escrita digitalmente  |                 |
 |Fábrega, R.          |Aquella melodía                     |fotocopia / escrita digitalmente  |                 |
