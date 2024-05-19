@@ -16,7 +16,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Batista, C.          |Nalú                                |imagen digital poco legible       |        ✓        |
+|Batista, C.          |Nalú                                |fotografía de baja resolución     |        ✓        |
 |Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente  |        ✓        |
 |Cedeño, J.           |Embustera                           |imagen digital poco legible       |        ✓*       |
 |Cedeño, J.           |La realidad                         |fotocopia / escrita a mano        |        ✓        |
@@ -64,6 +64,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |Batista, C.          |Socavón del Canajagua               |fotocopia / escrita a mano        |        ✓*       |
+|Batista, C.          |Zapatitos de pana                   |fotografía de baja resolución     |        ✓        |
 |Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente  |        ✓*       |
 |Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
 
