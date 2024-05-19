@@ -12,6 +12,27 @@ Del mismo modo, me mantengo investigando activamente para mejorar las partituras
 
 De algunas partituras hay varias versiones, a veces esto puede responder al hecho que tengo la misma partitura escrita de dos maneras diferentes o en escalas diferentes.
 
+### Partituras de boleros
+
+|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|Andrión, M.          |Al guacamaya                        |fotocopia / escrita digitalmente  |                 |
+|Eleta, C.            |Historia de una amor                |fotocopia / escrita digitalmente  |                 |
+|Eleta, C.            |Perdónala señor                     |fotocopia / escrita digitalmente  |                 |
+|Fábrega, R.          |Aquella melodía                     |fotocopia / escrita digitalmente  |                 |
+|Fábrega, R.          |Bajo el palmar                      |fotocopia / escrita digitalmente  |                 |
+|Fábrega, R.          |Cuando lejos de ti                  |fotocopia / escrita digitalmente  |                 |
+|Fábrega, R.          |Madrecita                           |fotocopia / escrita digitalmente  |                 |
+|Fábrega, R.          |Noche tropical                      |fotocopia / escrita digitalmente  |                 |
+|Fábrega, R.          |Panamá                              |fotocopia / escrita digitalmente  |                 |
+|Fábrega, R.          |Panamá Viejo                        |fotocopia / escrita digitalmente  |                 |
+|Fábrega, R.          |Santa Ana                           |fotocopia / escrita digitalmente  |                 |
+|Fábrega, R.          |Taboga                              |fotocopia / escrita digitalmente  |                 |
+|Hassán, A.           |Mi último bolero                    |fotocopia / escrita digitalmente  |                 |
+|Hassán, A.           |Soñar                               |fotocopia / escrita digitalmente  |                 |
+|Muñoz, A.            |Irremediablemente solo              |fotocopia / escrita digitalmente  |                 |
+|Muñoz, A.            |Maldición gitana                    |fotocopia / escrita digitalmente  |                 |
+
 ### Partituras de cumbias
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
@@ -49,7 +70,9 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |Alcedo, C.           |Isabel (Brisas mesanas)             |escaneado / baja resolución       |        ✓        |
 |Batista, C.          |Piedra                              |escaneado / baja resolución       |        ✓        |
+|Charpentier, E.      |Lindita                             |fotocopia / escrita digitalmente  |                 |
 |Córdova, A.          |Recuerdos de Josefa                 |fotografía de baja resolución     |        ✓        |
+|Estrada, R.          |Horas amargas                       |fotografía de baja resolución     |                 |
 |Gómez, V.            |Club Danubio                        |fotocopia / escrita a mano        |        ✓        |
 |Gómez, V.            |Suspiro de una fea                  |fotocopia / escrita digitalmente  |        ✓        |
 
@@ -67,15 +90,20 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Batista, C.          |Socavón del Canajagua               |fotocopia / escrita a mano        |        ✓*       |
 |Batista, C.          |Zapatitos de pana                   |fotografía de baja resolución     |        ✓        |
 |Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente  |        ✓*       |
+|Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución |                 |
 |Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
 
 ### Partituras de tamboreras
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|Cavalli, V.          |El hombre aparecido                 |fotocopia / escrita digitalmente  |                 |
 |Cavalli, V.          |La cocaleca                         |fotocopia / escrita digitalmente  |        ✓        |
 |De La Lastra, G.     |Panamá Soberana                     |fotocopia / escrita digitalmente  |        ✓        |
+|De La Lastra, G.     |Tengo, tengo                        |fotocopia / escrita digitalmente  |                 |
+|Fabrega, R.          |Alevántate muchacho                 |imagen digital de baja resolución |                 |
 |Fábrega, R.          |Guararé                             |fotocopia / escrita digitalmente  |        ✓        |
+|Hassán, A.           |La guayabita                        |fotocopia / escrita digitalmente  |                 |
 
 ## ¿Por qué Lilypond? 🎵
 
