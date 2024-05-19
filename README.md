@@ -105,6 +105,44 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Fábrega, R.          |Guararé                             |fotocopia / escrita digitalmente  |        ✓        |
 |Hassán, A.           |La guayabita                        |fotocopia / escrita digitalmente  |                 |
 
+### Partituras de tamboritos y tunas
+
+|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|Desconocido          |Ajé María Salomé                    |escaneado / baja resolución       |                 |
+|Quintero, E.         |Ajé que me voy                      |fotocopia / escrita digitalmente  |                 |
+|Desconocido          |Camino de Mensabé                   |escaneado / baja resolución       |                 |
+|Desconocido          |Celos tengo yo                      |escaneado / baja resolución       |                 |
+|Desconocido          |Chupando caramelo                   |escaneado / baja resolución       |                 |
+|Desconocido          |Deja que te mate Dios               |escaneado / baja resolución       |                 |
+|Desconocido          |El martes al amanecer               |escaneado / baja resolución       |                 |
+|Lagnón, C.           |El tambor de la alegría             |fotocopia / escrita digitalmente  |                 |
+|Desconocido          |Eso no lo sabía yo                  |escaneado / baja resolución       |                 |
+|Desconocido          |Herejía                             |escaneado / baja resolución       |                 |
+|Desconocido          |Mi moreno se va                     |escaneado / baja resolución       |                 |
+|Desconocido          |Por carida'                         |escaneado / baja resolución       |                 |
+|Desconocido          |Que no la deje ma'                  |escaneado / baja resolución       |                 |
+|Desconocido          |¡Cholito que te parece!             |escaneado / baja resolución       |                 |
+|Desconocido          |Quiero amanecer                     |escaneado / baja resolución       |                 |
+|Desconocido          |Se nos va la vida                   |escaneado / baja resolución       |                 |
+|Desconocido          |Solita me voy                       |escaneado / baja resolución       |                 |
+|Desconocido          |Vaquero                             |escaneado / baja resolución       |                 |
+|Desconocido          |Yo no lloro más                     |escaneado / baja resolución       |                 |
+|Desconocido          |Yo no lo puedo olvidar              |escaneado / baja resolución       |                 |
+|Desconocido          |¡Yo por eso no me doy!              |escaneado / baja resolución       |                 |
+
+### Partituras de torrentes de mejoranera
+
+|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|Desconocido          |Gallino                             |escaneado / baja resolución       |                 |
+|Desconocido          |Gallino Lamento                     |escaneado / baja resolución       |                 |
+|Desconocido          |Gallino Zárate                      |escaneado / baja resolución       |                 |
+|Desconocido          |Mesano                              |escaneado / baja resolución       |                 |
+|Desconocido          |Mesano transportado                 |escaneado / baja resolución       |                 |
+|Desconocido          |Valdivieso                          |escaneado / baja resolución       |                 |
+|Desconocido          |Zapatero                            |escaneado / baja resolución       |                 |
+
 ## ¿Por qué Lilypond? 🎵
 
 La respuesta a esta pregunta es sencilla. Soy usuario de GNU/Linux y suelo preferir los programas que son software libre o que son compatibles con la filosofía _open source_. Es cierto, que hay un montón de alternativas ahí fuera como Sibelius, Finale, etc. Pero ninguna de ellas es posible instalar en las máquinas que uso, por el hecho que solo están disponibles para Mac OS o Windows. La otra respuesta a esta pregunta es el costo de las licencias de estos programas.
