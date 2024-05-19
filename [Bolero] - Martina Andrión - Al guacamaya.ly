@@ -20,7 +20,7 @@
 
 global = {
 	\time 2/4
-	\tempo "Adagio"
+	\tempo "Andante"
 	\key g \minor
 }
 
@@ -100,7 +100,7 @@ lirica = \lyricmode {
 
 \score { %% genera la muestra MIDI melódica
 	\unfoldRepeats { \melodia }
-	\midi { \tempo 4 = 60 } %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
+	\midi { \tempo 4 = 80 } %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
 }
 
 \markup {

@@ -1,8 +1,8 @@
 \version "2.23.2"
 \header {
-	title = %%
-	subtitle = %%
-	composer = %%
+	title = "Historia de un amor"
+	subtitle = "Bolero"
+	composer = "Carlos Eleta Almarán (1918 - 2013)"
 	tagline = ##f
 }
 
@@ -18,14 +18,14 @@
 
 \markup \vspace #2
 
-global= {
-	\time %%
-	\tempo %%
-	\key %%
+global = {
+	\time 2/2
+	\tempo "Andante"
+	\key a \minor 
 }
 
 melodia = \new Voice \relative c' {
-%% melodía
+	r4 e8 e e' e e d |
 }
 
 acordes = \chordmode {
