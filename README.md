@@ -12,7 +12,7 @@ Del mismo modo, me mantengo investigando activamente para mejorar las partituras
 
 De algunas partituras hay varias versiones, a veces esto puede responder al hecho que tengo la misma partitura escrita de dos maneras diferentes o en escalas diferentes.
 
-### Partituras de boleros
+### Partituras de boleros ![](https://geps.dev/progress/6)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
@@ -33,7 +33,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Muñoz, A.            |Irremediablemente solo              |fotocopia / escrita digitalmente  |                 |
 |Muñoz, A.            |Maldición gitana                    |fotocopia / escrita digitalmente  |                 |
 
-### Partituras de cumbias
+### Partituras de cumbias ![](https://geps.dev/progress/100)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
@@ -58,13 +58,13 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Vergara, A.          |La Espina                           |escaneado / baja resolución       |        ✓        |
 |Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente  |        ✓        |
 
-### Partituras de denesas
+### Partituras de denesas ![](https://geps.dev/progress/100)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |Vásquez, M.          |Denesa Tonosí                       |fotocopia / escrita a mano        |        ✓        |
 
-### Partituras de pasillos
+### Partituras de pasillos ![](https://geps.dev/progress/71)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
@@ -76,14 +76,14 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Gómez, V.            |Club Danubio                        |fotocopia / escrita a mano        |        ✓        |
 |Gómez, V.            |Suspiro de una fea                  |fotocopia / escrita digitalmente  |        ✓        |
 
-### Partituras de polkas, polkadanzas y contradanzas
+### Partituras de polkas, polkadanzas y contradanzas ![](https://geps.dev/progress/100)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |Cortez, B.           |Contradanza                         |fotocopia / escrita digitalmente  |        ✓        |
 |Cortez, B.           |Polka                               |fotocopia / escrita a mano        |        ✓        |
 
-### Partituras de puntos
+### Partituras de puntos ![](https://geps.dev/progress/80)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
@@ -93,7 +93,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución |                 |
 |Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
 
-### Partituras de tamboreras
+### Partituras de tamboreras ![](https://geps.dev/progress/43)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
@@ -105,7 +105,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Fábrega, R.          |Guararé                             |fotocopia / escrita digitalmente  |        ✓        |
 |Hassán, A.           |La guayabita                        |fotocopia / escrita digitalmente  |                 |
 
-### Partituras de tamboritos y tunas
+### Partituras de tamboritos y tunas ![](https://geps.dev/progress/0)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
@@ -131,7 +131,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Desconocido          |Yo no lo puedo olvidar              |escaneado / baja resolución       |                 |
 |Desconocido          |¡Yo por eso no me doy!              |escaneado / baja resolución       |                 |
 
-### Partituras de torrentes de mejoranera
+### Partituras de torrentes de mejoranera ![](https://geps.dev/progress/0)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
