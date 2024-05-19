@@ -30,6 +30,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Córdoba, S.          |El mogollón                         |transcripción de audio            |        ✓        |
 |Gómez, V.            |Mamá Eva                            |fotocopia / escrita a mano        |        ✓*       |
 |Ramírez, F.          |Edicta no me quiere                 |fotocopia / escrita a mano        |        ✓*       |
+|Ramírez, F.          |Nunca me desprecies                 |imagen digital de baja resolución |        ✓        |
 |Ramírez, F.          |Sentimientos del alma               |fotocopia / escrita a mano        |        ✓        |
 |Ramírez, F.          |Sentimientos del alma               |fotografía de baja resolución     |        ✓        |
 |Vergara, A.          |La Espina                           |fotocopia / escrita a mano        |        ✓        |
