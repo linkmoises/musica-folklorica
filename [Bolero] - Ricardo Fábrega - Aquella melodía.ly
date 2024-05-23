@@ -38,7 +38,7 @@ melodia = \new Voice \relative c' {
 		r4 a4 b c | d4. c8 b2 ~ | b4. a8 b c b a | c4.( a8 g2) ~ |
 		g2 r2 | f4 g8 a b4. a8 | g4. f8 g a gis f | e1 ~ |
 		e1 | a4 b8 a ~ a b a4 | b4. a8 b a e c | g'2 f ~ |
-		f r2 | e4 f8 e ~ e f e4 | \mark \markup { \small \musicglyph #"scripts.coda" } f4. e8 dis e c' b | \mark \markup { \small \italic "D.S. a coda" } a1 |
+		f r2 | e4 f8 e ~ e f e4 | \mark \markup { \small \musicglyph #"scripts.coda" } f4. e8 dis e c' b | \after 2 ^\markup { \small \italic "D.S. a coda" } a1 |
 	}
 	\break
 	\mark \markup { \small \musicglyph #"scripts.coda" }
