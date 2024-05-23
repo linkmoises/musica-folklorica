@@ -41,7 +41,7 @@ melodia = \new Voice \relative c' {
 	\mark \markup { \small \musicglyph #"scripts.coda" }
 	\bar "||"
 	d d ~ \tuplet 3/2 { d8 d d } dis4 \tuplet 3/2 { dis8 dis dis } | e1 ~ | 
-	e4 \mark \markup { \small \italic "D.S. al coda" } r4 r2 |
+	\after 4 ^\markup { \small \italic "D.S. al coda" } e4 r4 r2 |
 	\bar "||" \break
 	\mark \markup { \small \musicglyph #"scripts.coda" }
 	d2 d ~ | d4 d8 c b a g f | e1 ~ | e4 r4 r2 |
