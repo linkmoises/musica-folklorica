@@ -12,14 +12,14 @@ Del mismo modo, me mantengo investigando activamente para mejorar las partituras
 
 De algunas partituras hay varias versiones, a veces esto puede responder al hecho que tengo la misma partitura escrita de dos maneras diferentes o en escalas diferentes.
 
-### Partituras de boleros (16) ![](https://geps.dev/progress/19)
+### Partituras de boleros (16) ![](https://geps.dev/progress/25)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |Andrión, M.          |Al guacamaya                        |fotocopia / escrita digitalmente  |        ✓        |
 |Eleta, C.            |Historia de una amor                |fotocopia / escrita digitalmente  |        ✓        |
 |Eleta, C.            |Perdónala señor                     |fotocopia / escrita digitalmente  |        ✓        |
-|Fábrega, R.          |Aquella melodía                     |fotocopia / escrita digitalmente  |                 |
+|Fábrega, R.          |Aquella melodía                     |fotocopia / escrita digitalmente  |        ✓        |
 |Fábrega, R.          |Bajo el palmar                      |fotocopia / escrita digitalmente  |                 |
 |Fábrega, R.          |Cuando lejos de ti                  |fotocopia / escrita digitalmente  |                 |
 |Fábrega, R.          |Madrecita                           |fotocopia / escrita digitalmente  |                 |
