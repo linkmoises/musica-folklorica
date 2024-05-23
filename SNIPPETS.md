@@ -16,6 +16,16 @@ asegurar que al escribir acordes, los silencios coincidan.
 	R1*8
 ```
 
+## Etiquetas de texto
+
+Añade una etiqueta de texto sobre el pentagrama, muy útil para
+indicar repeticiones largas o con cambios de posición en la 
+partitura.
+
+```
+	\mark \markup { \small \italic "D.S. a coda" }
+```
+
 ## Posicionar etiquetas de texto
 
 Me ha servido ocasionalmente para colocar etiquetas de texto 
@@ -43,8 +53,3 @@ Coloca el símbolo de coda al inicio del compás.
 ```
 	\mark \markup { \small \musicglyph #"scripts.coda" }
 ```
-
-
-%% texto
-	\mark \markup { \small \italic "D.S. a coda" }
-%% texto
