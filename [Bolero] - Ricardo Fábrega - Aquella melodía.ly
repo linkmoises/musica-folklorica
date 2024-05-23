@@ -42,7 +42,7 @@ melodia = \new Voice \relative c' {
 	}
 	\break
 	\mark \markup { \small \musicglyph #"scripts.coda" }
-	f4. e8 dis e c' r8 | c4 b a2 ~ | a1\fermata | 
+	f4. e8 dis e c' r8 | c4^\markup { \italic rit. } b a2 ~ | a1\fermata | 
 	\bar "|."
 	\cadenzaOn
 		\stopStaff
