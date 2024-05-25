@@ -100,13 +100,14 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Cortez, B.           |Contradanza                         |fotocopia / escrita digitalmente  |        ✓        |
 |Cortez, B.           |Polka                               |fotocopia / escrita a mano        |        ✓        |
 
-### Partituras de puntos (5) ![](https://geps.dev/progress/100)
+### Partituras de puntos (5) ![](https://geps.dev/progress/83)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |Batista, C.          |Socavón del Canajagua               |fotocopia / escrita a mano        |        ✓*       |
 |Batista, C.          |Zapatitos de pana                   |fotografía de baja resolución     |        ✓        |
 |Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente  |        ✓*       |
+|Díaz, A.             |Bajo el cielo de Tonosí             |escrita digitalmente              |                 |
 |Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución |        ✓        |
 |Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
 
