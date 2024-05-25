@@ -100,7 +100,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Cortez, B.           |Contradanza                         |fotocopia / escrita digitalmente  |        ✓        |
 |Cortez, B.           |Polka                               |fotocopia / escrita a mano        |        ✓        |
 
-### Partituras de puntos (5) ![](https://geps.dev/progress/80)
+### Partituras de puntos (5) ![](https://geps.dev/progress/100)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
