@@ -107,7 +107,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Batista, C.          |Socavón del Canajagua               |fotocopia / escrita a mano        |        ✓*       |
 |Batista, C.          |Zapatitos de pana                   |fotografía de baja resolución     |        ✓        |
 |Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente  |        ✓*       |
-|Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución |                 |
+|Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución |        ✓        |
 |Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
 
 ### Partituras de tamboreras (7) ![](https://geps.dev/progress/43)
