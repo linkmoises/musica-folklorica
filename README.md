@@ -64,7 +64,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |Vásquez, M.          |Denesa Tonosí                       |fotocopia / escrita a mano        |        ✓        |
 
-### Partituras de pasillos (24) ![](https://geps.dev/progress/21)
+### Partituras de pasillos (24) ![](https://geps.dev/progress/25)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
@@ -74,7 +74,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Cavalli, V.          |Panamá                              |escrita digitalmente              |                 |
 |Charpentier, E.      |Lindita                             |fotocopia / escrita digitalmente  |                 |
 |Córdova, A.          |Recuerdos de Josefa                 |fotografía de baja resolución     |        ✓        |
-|Estrada, R.          |Horas amargas                       |fotografía de baja resolución     |                 |
+|Estrada, R.          |Horas amargas                       |fotografía de baja resolución     |        ✓        |
 |Galimany, A.         |Amistad                             |escrita digitalmente              |                 |
 |Galimany, A.         |Belisarito                          |escrita digitalmente              |                 |
 |Galimany, A.         |Berta                               |escrita digitalmente              |                 |
