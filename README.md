@@ -12,7 +12,7 @@ Del mismo modo, me mantengo investigando activamente para mejorar las partituras
 
 De algunas partituras hay varias versiones, a veces esto puede responder al hecho que tengo la misma partitura escrita de dos maneras diferentes o en escalas diferentes.
 
-### Partituras de boleros (16) ![](https://geps.dev/progress/38)
+### Partituras de boleros (16) ![](https://geps.dev/progress/44)
 
 |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
@@ -25,7 +25,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |Fábrega, R.          |Madrecita                           |fotocopia / escrita digitalmente  |                 |
 |Fábrega, R.          |Noche tropical                      |fotocopia / escrita digitalmente  |                 |
 |Fábrega, R.          |Panamá                              |fotocopia / escrita digitalmente  |                 |
-|Fábrega, R.          |Panamá Viejo                        |fotocopia / escrita digitalmente  |                 |
+|Fábrega, R.          |Panamá Viejo                        |fotocopia / escrita digitalmente  |        ✓        |
 |Fábrega, R.          |Santa Ana                           |fotocopia / escrita digitalmente  |        ✓        |
 |Fábrega, R.          |Taboga                              |fotocopia / escrita digitalmente  |                 |
 |Hassán, A.           |Mi último bolero                    |fotocopia / escrita digitalmente  |                 |
