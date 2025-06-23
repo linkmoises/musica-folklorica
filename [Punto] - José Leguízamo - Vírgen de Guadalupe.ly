@@ -26,7 +26,25 @@ global = {
 
 melodia = \new Voice \relative c' {
 	d'2. ~ \fermata \startTrillSpan | d \fermata ~ | d \fermata ~ | d \fermata \stopTrillSpan |
-	s2. | s2. | s2. | 
+	
+	% Percusión 1
+	s4 
+	\once \override NoteHead.style = #'cross
+	\once \override NoteHead.staff-position = #0
+	a4. s8 | 
+
+	% Percusión 2
+	s4
+	\once \override NoteHead.style = #'cross
+	\once \override NoteHead.staff-position = #0
+	a4. s8 |
+
+	% Percusión 3
+	s4 
+	\once \override NoteHead.style = #'cross
+	\once \override NoteHead.staff-position = #0
+	a4. s8 |
+
 	r4. r8 d8 e | f8 e4 d8 cis4 |
 	\mark \markup { \small \musicglyph #"scripts.segno" }
 	\repeat volta 2 {
