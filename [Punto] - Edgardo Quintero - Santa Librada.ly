@@ -41,13 +41,28 @@ violinSolo = \new Voice \relative c'' {
 }
 
 melodia = \new Voice \relative c' {
-	%%<< %% este fragmento de código no muestra las notas de percusión
-	%%	\drummode { ss4. r8 r4 | ss4. r8 r4 | ss4. r8 r4 | } 
-	%%>>
 	\set Score.currentBarNumber = #31
-	s2. | s2. | s2. | 
+	
+	% Compás 31
+	s4 
+	\once \override NoteHead.style = #'cross
+	\once \override NoteHead.staff-position = #0
+	a'4. s8 | 
+
+	% Compás 32
+	s4
+	\once \override NoteHead.style = #'cross
+	\once \override NoteHead.staff-position = #0
+	a4. s8 |
+
+	% Compás 33
+	s4 
+	\once \override NoteHead.style = #'cross
+	\once \override NoteHead.staff-position = #0
+	a4. s8 |
+
 	\tempo "Allegro"
-	r4. r8  g'8 \mf b \bar "||" | 
+	r4. r8  g8 \mf b \bar "||" | 
 	\mark \markup { \small \musicglyph #"scripts.segno" }
 	d( cis d) e( d) g( ~ | g d) b ~ b d d |
 	d( e d) g( b,) d( ~ | d c) a ~ a fis a | c( b c) d( c) a'( ~ | a fis) d ~ d a' gis |
