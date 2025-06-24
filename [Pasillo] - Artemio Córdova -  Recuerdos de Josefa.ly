@@ -1,4 +1,5 @@
-\version "2.23.2"
+#(define output-id "PAS07")
+\version "2.24.0"
 \header {
 	title = "Recuerdos de Josefa"
 	subtitle = "Pasillo"

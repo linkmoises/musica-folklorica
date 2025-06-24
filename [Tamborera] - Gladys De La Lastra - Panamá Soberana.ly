@@ -1,4 +1,5 @@
-\version "2.23.2"
+#(define output-id "TAM03")
+\version "2.24.0"
 \header {
 	title = "Panamá Soberana"
 	subtitle = "Tamborera"

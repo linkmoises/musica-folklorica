@@ -1,4 +1,5 @@
-\version "2.23.2"
+#(define output-id "CMB12")
+\version "2.24.0"
 \header {
 	title = "El mogollón"
 	subtitle = "Cumbia Cerrada"

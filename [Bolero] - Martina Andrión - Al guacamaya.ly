@@ -1,4 +1,5 @@
-\version "2.23.2"
+#(define output-id "BOL01")
+\version "2.24.0"
 \header {
 	title = "Al guacamaya"
 	subtitle = "Bolero"

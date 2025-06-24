@@ -1,6 +1,7 @@
-\version "2.23.2"
+#(define output-id "PAS01")
+\version "2.24.0"
 \header {
-	title = "Brisas Mesanas (Isabelita)"
+	title = "Isabel (Brisas Mesanas)"
 	subtitle = "Pasillo"
 	composer = "César Alcedo Alvarado (1890 - 1931)"
 	tagline = ##f

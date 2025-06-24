@@ -1,8 +1,10 @@
-\version "2.23.2"
+#(define output-id "PAS02")
+\version "2.24.0"
 \header {
 	title = "Horas amargas"
 	subtitle = "Pasillo"
-	composer = "R. Estrada"
+	composer = "Clímaco Batista Díaz (1907 - 1978)"
+	arranger = "Transcripción: R. Estrada"
 	tagline = ##f
 }
 

@@ -1,4 +1,5 @@
-\version "2.23.2"
+#(define output-id "PUN03")
+\version "2.24.0"
 \header {
 	title = "Verónica Ruth Quintero"
 	subtitle = "Punto"

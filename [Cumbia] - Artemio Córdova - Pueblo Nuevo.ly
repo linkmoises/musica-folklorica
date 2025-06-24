@@ -1,6 +1,7 @@
-\version "2.23.2"
+#(define output-id "CMB10")
+\version "2.24.0"
 \header {
-	title = "Pueblo Nuevo"
+	title = "Noche Interiorana (Pueblo Nuevo)"
 	subtitle = "Cumbia"
 	composer = "Artemio De Jesús Córdova (1896 - 1988)"
 	tagline = ##f

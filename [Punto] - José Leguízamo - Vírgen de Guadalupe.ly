@@ -1,4 +1,5 @@
-\version "2.23.2"
+#(define output-id "PUN05")
+\version "2.24.0"
 \header {
 	title = "Vírgen de Guadalupe"
 	subtitle = "Punto"

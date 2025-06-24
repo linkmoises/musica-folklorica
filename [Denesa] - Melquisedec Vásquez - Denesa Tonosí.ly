@@ -1,4 +1,5 @@
-\version "2.23.2"
+#(define output-id "DEN01")
+\version "2.24.0"
 \header {
 	title = "Denesa Tonosí"
 	subtitle = "Denesa"

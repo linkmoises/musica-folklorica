@@ -33,7 +33,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |BOL15 |Muñoz, A.            |Irremediablemente solo              |fotocopia / escrita digitalmente  |                 |
 |BOL16 |Muñoz, A.            |Maldición gitana                    |fotocopia / escrita digitalmente  |                 |
 
-### Partituras de CMBbias (20) ![](https://geps.dev/progress/100)
+### Partituras de Cumbias (20) ![](https://geps.dev/progress/100)
 
 |  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
@@ -69,12 +69,12 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |PAS01 |Alcedo, C.           |Isabel (Brisas mesanas)             |escaneado / baja resolución       |        ✓        |
-|PAS02 |Batista, C.          |Piedra                              |escaneado / baja resolución       |        ✓        |
-|PAS03 |Cavalli, V.          |Cantares                            |escrita digitalmente              |                 |
-|PAS04 |Cavalli, V.          |Panamá                              |escrita digitalmente              |                 |
-|PAS05 |Charpentier, E.      |Lindita                             |fotocopia / escrita digitalmente  |                 |
-|PAS06 |Córdova, A.          |Recuerdos de Josefa                 |fotografía de baja resolución     |        ✓        |
-|PAS07 |Estrada, R.          |Horas amargas                       |fotografía de baja resolución     |        ✓        |
+|PAS02 |Batista, C.          |Horas amargas                       |fotografía de baja resolución     |        ✓        |
+|PAS03 |Batista, C.          |Piedra                              |escaneado / baja resolución       |        ✓        |
+|PAS04 |Cavalli, V.          |Cantares                            |escrita digitalmente              |                 |
+|PAS05 |Cavalli, V.          |Panamá                              |escrita digitalmente              |                 |
+|PAS06 |Charpentier, E.      |Lindita                             |fotocopia / escrita digitalmente  |                 |
+|PAS07 |Córdova, A.          |Recuerdos de Josefa                 |fotografía de baja resolución     |        ✓        |
 |PAS08 |Galimany, A.         |Amistad                             |escrita digitalmente              |                 |
 |PAS09 |Galimany, A.         |Belisarito                          |escrita digitalmente              |                 |
 |PAS10 |Galimany, A.         |Berta                               |escrita digitalmente              |                 |

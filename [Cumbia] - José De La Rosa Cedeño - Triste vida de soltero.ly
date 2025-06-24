@@ -1,4 +1,5 @@
-\version "2.23.2"
+#(define output-id "CMB09")
+\version "2.24.0"
 \header {
 	title = "Triste vida de soltero"
 	subtitle = "Danzón Cumbia"
