@@ -2,7 +2,7 @@
 
 ## El proyecto 🚀
 
-Este es un repositorio de música folklórica panameña, en esta colección he digitalizado en formato de lilypond varios puntos, cumbias, pasillos y otros géneros del repertorio musical folklórico panameño.
+Este es un repositorio de música folklórica panameña, en esta colección he digitalizado en formato de lilypond varios puntos, CMBbias, pasillos y otros géneros del repertorio musical folklórico panameño.
 
 Algunas de estás piezas incluyen solamente la parte melódica de las piezas, otras incluyen los acordes para mejoranera o guitarra acompañantes y unas pocas incluyen la letra.
 
@@ -14,152 +14,152 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 
 ### Partituras de boleros (16) ![](https://geps.dev/progress/44)
 
-|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
-|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Andrión, M.          |Al guacamaya                        |fotocopia / escrita digitalmente  |        ✓        |
-|Eleta, C.            |Historia de una amor                |fotocopia / escrita digitalmente  |        ✓        |
-|Eleta, C.            |Perdónala señor                     |fotocopia / escrita digitalmente  |        ✓        |
-|Fábrega, R.          |Aquella melodía                     |fotocopia / escrita digitalmente  |        ✓        |
-|Fábrega, R.          |Bajo el palmar                      |fotocopia / escrita digitalmente  |        ✓        |
-|Fábrega, R.          |Cuando lejos de ti                  |fotocopia / escrita digitalmente  |                 |
-|Fábrega, R.          |Madrecita                           |fotocopia / escrita digitalmente  |                 |
-|Fábrega, R.          |Noche tropical                      |fotocopia / escrita digitalmente  |                 |
-|Fábrega, R.          |Panamá                              |fotocopia / escrita digitalmente  |                 |
-|Fábrega, R.          |Panamá Viejo                        |fotocopia / escrita digitalmente  |        ✓        |
-|Fábrega, R.          |Santa Ana                           |fotocopia / escrita digitalmente  |        ✓        |
-|Fábrega, R.          |Taboga                              |fotocopia / escrita digitalmente  |                 |
-|Hassán, A.           |Mi último bolero                    |fotocopia / escrita digitalmente  |                 |
-|Hassán, A.           |Soñar                               |fotocopia / escrita digitalmente  |                 |
-|Muñoz, A.            |Irremediablemente solo              |fotocopia / escrita digitalmente  |                 |
-|Muñoz, A.            |Maldición gitana                    |fotocopia / escrita digitalmente  |                 |
+|  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|BOL01 |Andrión, M.          |Al guacamaya                        |fotocopia / escrita digitalmente  |        ✓        |
+|BOL02 |Eleta, C.            |Historia de una amor                |fotocopia / escrita digitalmente  |        ✓        |
+|BOL03 |Eleta, C.            |Perdónala señor                     |fotocopia / escrita digitalmente  |        ✓        |
+|BOL04 |Fábrega, R.          |Aquella melodía                     |fotocopia / escrita digitalmente  |        ✓        |
+|BOL05 |Fábrega, R.          |Bajo el palmar                      |fotocopia / escrita digitalmente  |        ✓        |
+|BOL06 |Fábrega, R.          |Cuando lejos de ti                  |fotocopia / escrita digitalmente  |                 |
+|BOL07 |Fábrega, R.          |Madrecita                           |fotocopia / escrita digitalmente  |                 |
+|BOL08 |Fábrega, R.          |Noche tropical                      |fotocopia / escrita digitalmente  |                 |
+|BOL09 |Fábrega, R.          |Panamá                              |fotocopia / escrita digitalmente  |                 |
+|BOL10 |Fábrega, R.          |Panamá Viejo                        |fotocopia / escrita digitalmente  |        ✓        |
+|BOL11 |Fábrega, R.          |Santa Ana                           |fotocopia / escrita digitalmente  |        ✓        |
+|BOL12 |Fábrega, R.          |Taboga                              |fotocopia / escrita digitalmente  |                 |
+|BOL13 |Hassán, A.           |Mi último bolero                    |fotocopia / escrita digitalmente  |                 |
+|BOL14 |Hassán, A.           |Soñar                               |fotocopia / escrita digitalmente  |                 |
+|BOL15 |Muñoz, A.            |Irremediablemente solo              |fotocopia / escrita digitalmente  |                 |
+|BOL16 |Muñoz, A.            |Maldición gitana                    |fotocopia / escrita digitalmente  |                 |
 
-### Partituras de cumbias (20) ![](https://geps.dev/progress/100)
+### Partituras de CMBbias (20) ![](https://geps.dev/progress/100)
 
-|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
-|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Batista, C.          |Nalú                                |fotografía de baja resolución     |        ✓        |
-|Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente  |        ✓        |
-|Cedeño, J.           |Embustera                           |imagen digital poco legible       |        ✓*       |
-|Cedeño, J.           |La realidad                         |fotocopia / escrita a mano        |        ✓        |
-|Cedeño, J.           |La realidad                         |fotocopia / escrita digitalmente  |        ✓        |
-|Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano        |        ✓        |
-|Cedeño, J.           |Por olvidarte                       |fotografía de baja resolución     |        ✓        |
-|Cedeño, J.           |Soledad                             |fotografía de baja resolución     |        ✓*       |
-|Cedeño, J.           |Triste vida de soltero              |fotografía de baja resolución     |        ✓        |
-|Córdova, A.          |Pueblo nuevo                        |fotocopia / escrita a mano        |        ✓*       |
-|Córdoba, R.          |Ráscate                             |fotocopia / escrita digitalmente  |        ✓        |
-|Córdoba, S.          |El mogollón                         |transcripción de audio            |        ✓        |
-|Gómez, V.            |Mamá Eva                            |fotocopia / escrita a mano        |        ✓*       |
-|Ramírez, F.          |Edicta no me quiere                 |fotocopia / escrita a mano        |        ✓*       |
-|Ramírez, F.          |Nunca me desprecies                 |imagen digital de baja resolución |        ✓        |
-|Ramírez, F.          |Sentimientos del alma               |fotocopia / escrita a mano        |        ✓        |
-|Ramírez, F.          |Sentimientos del alma               |fotografía de baja resolución     |        ✓        |
-|Vergara, A.          |La Espina                           |fotocopia / escrita a mano        |        ✓        |
-|Vergara, A.          |La Espina                           |escaneado / baja resolución       |        ✓        |
-|Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente  |        ✓        |
+|  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|CMB01 |Batista, C.          |Nalú                                |fotografía de baja resolución     |        ✓        |
+|CMB02 |Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente  |        ✓        |
+|CMB03 |Cedeño, J.           |Embustera                           |imagen digital poco legible       |        ✓*       |
+|CMB04 |Cedeño, J.           |La realidad                         |fotocopia / escrita a mano        |        ✓        |
+|CMB05 |Cedeño, J.           |La realidad                         |fotocopia / escrita digitalmente  |        ✓        |
+|CMB06 |Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano        |        ✓        |
+|CMB07 |Cedeño, J.           |Por olvidarte                       |fotografía de baja resolución     |        ✓        |
+|CMB08 |Cedeño, J.           |Soledad                             |fotografía de baja resolución     |        ✓*       |
+|CMB09 |Cedeño, J.           |Triste vida de soltero              |fotografía de baja resolución     |        ✓        |
+|CMB10 |Córdova, A.          |Pueblo nuevo                        |fotocopia / escrita a mano        |        ✓*       |
+|CMB11 |Córdoba, R.          |Ráscate                             |fotocopia / escrita digitalmente  |        ✓        |
+|CMB12 |Córdoba, S.          |El mogollón                         |transcripción de audio            |        ✓        |
+|CMB13 |Gómez, V.            |Mamá Eva                            |fotocopia / escrita a mano        |        ✓*       |
+|CMB14 |Ramírez, F.          |Edicta no me quiere                 |fotocopia / escrita a mano        |        ✓*       |
+|CMB15 |Ramírez, F.          |Nunca me desprecies                 |imagen digital de baja resolución |        ✓        |
+|CMB16 |Ramírez, F.          |Sentimientos del alma               |fotocopia / escrita a mano        |        ✓        |
+|CMB17 |Ramírez, F.          |Sentimientos del alma               |fotografía de baja resolución     |        ✓        |
+|CMB18 |Vergara, A.          |La Espina                           |fotocopia / escrita a mano        |        ✓        |
+|CMB19 |Vergara, A.          |La Espina                           |escaneado / baja resolución       |        ✓        |
+|CMB20 |Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente  |        ✓        |
 
 ### Partituras de denesas (1) ![](https://geps.dev/progress/100)
 
-|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
-|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Vásquez, M.          |Denesa Tonosí                       |fotocopia / escrita a mano        |        ✓        |
+|  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|DEN01 |Vásquez, M.          |Denesa Tonosí                       |fotocopia / escrita a mano        |        ✓        |
 
 ### Partituras de pasillos (24) ![](https://geps.dev/progress/25)
 
-|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
-|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Alcedo, C.           |Isabel (Brisas mesanas)             |escaneado / baja resolución       |        ✓        |
-|Batista, C.          |Piedra                              |escaneado / baja resolución       |        ✓        |
-|Cavalli, V.          |Cantares                            |escrita digitalmente              |                 |
-|Cavalli, V.          |Panamá                              |escrita digitalmente              |                 |
-|Charpentier, E.      |Lindita                             |fotocopia / escrita digitalmente  |                 |
-|Córdova, A.          |Recuerdos de Josefa                 |fotografía de baja resolución     |        ✓        |
-|Estrada, R.          |Horas amargas                       |fotografía de baja resolución     |        ✓        |
-|Galimany, A.         |Amistad                             |escrita digitalmente              |                 |
-|Galimany, A.         |Belisarito                          |escrita digitalmente              |                 |
-|Galimany, A.         |Berta                               |escrita digitalmente              |                 |
-|Galimany, A.         |Cecilia                             |escrita digitalmente              |                 |
-|Galimany, A.         |Panamá y Colombia                   |escrita digitalmente              |                 |
-|Galimany, A.         |El ingeniero presidente             |escrita digitalmente              |                 |
-|Galimany, A.         |El vedado                           |escrita digitalmente              |                 |
-|Galimany, A.         |María Esperanza                     |escrita digitalmente              |                 |
-|Galimany, A.         |María Luisa                         |escrita digitalmente              |                 |
-|Gómez, V.            |Alma santeña                        |escrita digitalmente              |                 |
-|Gómez, V.            |Club Danubio                        |fotocopia / escrita a mano        |        ✓        |
-|Gómez, V.            |Desilusión mesana                   |escrita digitalmente              |                 |
-|Gómez, V.            |La alondra chiricana                |escrita digitalmente              |                 |
-|Gómez, V.            |Poeta y aldeano                     |escrita digitalmente              |                 |
-|Gómez, V.            |Sinsonte chiricano                  |escrita digitalmente              |                 |
-|Gómez, V.            |Suspiro de una fea                  |fotocopia / escrita digitalmente  |        ✓        |
-|Jorge, S.            |Dulce hogar                         |escrita digitalmente              |                 |
+|  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|PAS01 |Alcedo, C.           |Isabel (Brisas mesanas)             |escaneado / baja resolución       |        ✓        |
+|PAS02 |Batista, C.          |Piedra                              |escaneado / baja resolución       |        ✓        |
+|PAS03 |Cavalli, V.          |Cantares                            |escrita digitalmente              |                 |
+|PAS04 |Cavalli, V.          |Panamá                              |escrita digitalmente              |                 |
+|PAS05 |Charpentier, E.      |Lindita                             |fotocopia / escrita digitalmente  |                 |
+|PAS06 |Córdova, A.          |Recuerdos de Josefa                 |fotografía de baja resolución     |        ✓        |
+|PAS07 |Estrada, R.          |Horas amargas                       |fotografía de baja resolución     |        ✓        |
+|PAS08 |Galimany, A.         |Amistad                             |escrita digitalmente              |                 |
+|PAS09 |Galimany, A.         |Belisarito                          |escrita digitalmente              |                 |
+|PAS10 |Galimany, A.         |Berta                               |escrita digitalmente              |                 |
+|PAS11 |Galimany, A.         |Cecilia                             |escrita digitalmente              |                 |
+|PAS12 |Galimany, A.         |Panamá y Colombia                   |escrita digitalmente              |                 |
+|PAS13 |Galimany, A.         |El ingeniero presidente             |escrita digitalmente              |                 |
+|PAS14 |Galimany, A.         |El vedado                           |escrita digitalmente              |                 |
+|PAS15 |Galimany, A.         |María Esperanza                     |escrita digitalmente              |                 |
+|PAS16 |Galimany, A.         |María Luisa                         |escrita digitalmente              |                 |
+|PAS17 |Gómez, V.            |Alma santeña                        |escrita digitalmente              |                 |
+|PAS18 |Gómez, V.            |Club Danubio                        |fotocopia / escrita a mano        |        ✓        |
+|PAS19 |Gómez, V.            |Desilusión mesana                   |escrita digitalmente              |                 |
+|PAS20 |Gómez, V.            |La alondra chiricana                |escrita digitalmente              |                 |
+|PAS21 |Gómez, V.            |Poeta y aldeano                     |escrita digitalmente              |                 |
+|PAS22 |Gómez, V.            |Sinsonte chiricano                  |escrita digitalmente              |                 |
+|PAS23 |Gómez, V.            |Suspiro de una fea                  |fotocopia / escrita digitalmente  |        ✓        |
+|PAS24 |Jorge, S.            |Dulce hogar                         |escrita digitalmente              |                 |
 
 ### Partituras de polkas, polkadanzas y contradanzas (2) ![](https://geps.dev/progress/100)
 
-|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
-|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Cortez, B.           |Contradanza                         |fotocopia / escrita digitalmente  |        ✓        |
-|Cortez, B.           |Polka                               |fotocopia / escrita a mano        |        ✓        |
+|  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|POL01 |Cortez, B.           |Contradanza                         |fotocopia / escrita digitalmente  |        ✓        |
+|POL02 |Cortez, B.           |Polka                               |fotocopia / escrita a mano        |        ✓        |
 
 ### Partituras de puntos (5) ![](https://geps.dev/progress/83)
 
-|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
-|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Batista, C.          |Socavón del Canajagua               |fotocopia / escrita a mano        |        ✓*       |
-|Batista, C.          |Zapatitos de pana                   |fotografía de baja resolución     |        ✓        |
-|Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente  |        ✓*       |
-|Díaz, A.             |Bajo el cielo de Tonosí             |escrita digitalmente              |                 |
-|Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución |        ✓        |
-|Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
+|  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|PUN01 |Batista, C.          |Socavón del Canajagua               |fotocopia / escrita a mano        |        ✓*       |
+|PUN02 |Batista, C.          |Zapatitos de pana                   |fotografía de baja resolución     |        ✓        |
+|PUN03 |Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente  |        ✓*       |
+|PUN04 |Díaz, A.             |Bajo el cielo de Tonosí             |escrita digitalmente              |                 |
+|PUN05 |Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución |        ✓        |
+|PUN06 |Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
 
 ### Partituras de tamboreras (7) ![](https://geps.dev/progress/43)
 
-|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
-|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Cavalli, V.          |El hombre aparecido                 |fotocopia / escrita digitalmente  |                 |
-|Cavalli, V.          |La cocaleca                         |fotocopia / escrita digitalmente  |        ✓        |
-|De La Lastra, G.     |Panamá Soberana                     |fotocopia / escrita digitalmente  |        ✓        |
-|De La Lastra, G.     |Tengo, tengo                        |fotocopia / escrita digitalmente  |                 |
-|Fabrega, R.          |Alevántate muchacho                 |imagen digital de baja resolución |                 |
-|Fábrega, R.          |Guararé                             |fotocopia / escrita digitalmente  |        ✓        |
-|Hassán, A.           |La guayabita                        |fotocopia / escrita digitalmente  |                 |
+|  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|TAM01 |Cavalli, V.          |El hombre aparecido                 |fotocopia / escrita digitalmente  |                 |
+|TAM02 |Cavalli, V.          |La cocaleca                         |fotocopia / escrita digitalmente  |        ✓        |
+|TAM03 |De La Lastra, G.     |Panamá Soberana                     |fotocopia / escrita digitalmente  |        ✓        |
+|TAM04 |De La Lastra, G.     |Tengo, tengo                        |fotocopia / escrita digitalmente  |                 |
+|TAM05 |Fabrega, R.          |Alevántate muchacho                 |imagen digital de baja resolución |                 |
+|TAM06 |Fábrega, R.          |Guararé                             |fotocopia / escrita digitalmente  |        ✓        |
+|TAM07 |Hassán, A.           |La guayabita                        |fotocopia / escrita digitalmente  |                 |
 
 ### Partituras de tamboritos y tunas (21) ![](https://geps.dev/progress/0)
 
-|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
-|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Desconocido          |Ajé María Salomé                    |escaneado / baja resolución       |                 |
-|Quintero, E.         |Ajé que me voy                      |fotocopia / escrita digitalmente  |                 |
-|Desconocido          |Camino de Mensabé                   |escaneado / baja resolución       |                 |
-|Desconocido          |Celos tengo yo                      |escaneado / baja resolución       |                 |
-|Desconocido          |Chupando caramelo                   |escaneado / baja resolución       |                 |
-|Desconocido          |Deja que te mate Dios               |escaneado / baja resolución       |                 |
-|Desconocido          |El martes al amanecer               |escaneado / baja resolución       |                 |
-|Lagnón, C.           |El tambor de la alegría             |fotocopia / escrita digitalmente  |                 |
-|Desconocido          |Eso no lo sabía yo                  |escaneado / baja resolución       |                 |
-|Desconocido          |Herejía                             |escaneado / baja resolución       |                 |
-|Desconocido          |Mi moreno se va                     |escaneado / baja resolución       |                 |
-|Desconocido          |Por carida'                         |escaneado / baja resolución       |                 |
-|Desconocido          |Que no la deje ma'                  |escaneado / baja resolución       |                 |
-|Desconocido          |¡Cholito que te parece!             |escaneado / baja resolución       |                 |
-|Desconocido          |Quiero amanecer                     |escaneado / baja resolución       |                 |
-|Desconocido          |Se nos va la vida                   |escaneado / baja resolución       |                 |
-|Desconocido          |Solita me voy                       |escaneado / baja resolución       |                 |
-|Desconocido          |Vaquero                             |escaneado / baja resolución       |                 |
-|Desconocido          |Yo no lloro más                     |escaneado / baja resolución       |                 |
-|Desconocido          |Yo no lo puedo olvidar              |escaneado / baja resolución       |                 |
-|Desconocido          |¡Yo por eso no me doy!              |escaneado / baja resolución       |                 |
+|  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|TMB01 |Desconocido          |Ajé María Salomé                    |escaneado / baja resolución       |                 |
+|TMB02 |Quintero, E.         |Ajé que me voy                      |fotocopia / escrita digitalmente  |                 |
+|TMB03 |Desconocido          |Camino de Mensabé                   |escaneado / baja resolución       |                 |
+|TMB04 |Desconocido          |Celos tengo yo                      |escaneado / baja resolución       |                 |
+|TMB05 |Desconocido          |Chupando caramelo                   |escaneado / baja resolución       |                 |
+|TMB06 |Desconocido          |Deja que te mate Dios               |escaneado / baja resolución       |                 |
+|TMB07 |Desconocido          |El martes al amanecer               |escaneado / baja resolución       |                 |
+|TMB08 |Lagnón, C.           |El tambor de la alegría             |fotocopia / escrita digitalmente  |                 |
+|TMB09 |Desconocido          |Eso no lo sabía yo                  |escaneado / baja resolución       |                 |
+|TMB10 |Desconocido          |Herejía                             |escaneado / baja resolución       |                 |
+|TMB11 |Desconocido          |Mi moreno se va                     |escaneado / baja resolución       |                 |
+|TMB12 |Desconocido          |Por carida'                         |escaneado / baja resolución       |                 |
+|TMB13 |Desconocido          |Que no la deje ma'                  |escaneado / baja resolución       |                 |
+|TMB14 |Desconocido          |¡Cholito que te parece!             |escaneado / baja resolución       |                 |
+|TMB15 |Desconocido          |Quiero amanecer                     |escaneado / baja resolución       |                 |
+|TMB16 |Desconocido          |Se nos va la vida                   |escaneado / baja resolución       |                 |
+|TMB17 |Desconocido          |Solita me voy                       |escaneado / baja resolución       |                 |
+|TMB18 |Desconocido          |Vaquero                             |escaneado / baja resolución       |                 |
+|TMB19 |Desconocido          |Yo no lloro más                     |escaneado / baja resolución       |                 |
+|TMB20 |Desconocido          |Yo no lo puedo olvidar              |escaneado / baja resolución       |                 |
+|TMB21 |Desconocido          |¡Yo por eso no me doy!              |escaneado / baja resolución       |                 |
 
 ### Partituras de torrentes de mejoranera (7) ![](https://geps.dev/progress/0)
 
-|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
-|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Desconocido          |Gallino                             |escaneado / baja resolución       |                 |
-|Desconocido          |Gallino Lamento                     |escaneado / baja resolución       |                 |
-|Desconocido          |Gallino Zárate                      |escaneado / baja resolución       |                 |
-|Desconocido          |Mesano                              |escaneado / baja resolución       |                 |
-|Desconocido          |Mesano transportado                 |escaneado / baja resolución       |                 |
-|Desconocido          |Valdivieso                          |escaneado / baja resolución       |                 |
-|Desconocido          |Zapatero                            |escaneado / baja resolución       |                 |
+|  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
+|TOR01 |Desconocido          |Gallino                             |escaneado / baja resolución       |                 |
+|TOR02 |Desconocido          |Gallino Lamento                     |escaneado / baja resolución       |                 |
+|TOR03 |Desconocido          |Gallino Zárate                      |escaneado / baja resolución       |                 |
+|TOR04 |Desconocido          |Mesano                              |escaneado / baja resolución       |                 |
+|TOR05 |Desconocido          |Mesano transportado                 |escaneado / baja resolución       |                 |
+|TOR06 |Desconocido          |Valdivieso                          |escaneado / baja resolución       |                 |
+|TOR07 |Desconocido          |Zapatero                            |escaneado / baja resolución       |                 |
 
 ## ¿Por qué Lilypond? 🎵
 
@@ -167,7 +167,7 @@ La respuesta a esta pregunta es sencilla. Soy usuario de GNU/Linux y suelo prefe
 
 Me parece también que transcribo más rápido una partitura, viéndola y tecleándola a medida que la leo en lugar de ir haciendo _point and click_. Después de transcribir las partituras, las compilo, verifico y hago las correcciones necesarias.
 
-Lilypond puede parecer atemorizante al principio y más si ven a uno usándolo con vim desde la línea de comandos. No hay una interfaz gráfica como tal, pues solo es necesario el archivo `.ly` y el compilador `lilypond` que hace la magia. Aunque existe la opción de usar `frescobaldi` que le añade una capa gráfica a `lilypond` y permite hacer ciertas cosas adicionales que de otro modo requirirían leer profundamente en la documentación como escribir x o y accidente musical.
+Lilypond puede parecer atemorizante al principio y más si ven a uno usándolo con vim desde la línea de comandos. No hay una interfaz gráfica como tal, pues solo es necesario el archivo `.ly` y el compilador `lilypond` que hace la magia. Aunque existe la opción de usar `frescobaldi` que le añade una capa gráfica a `lilypond` y permite hacer ciertas cosas adicionales que de otro modo requirirían leer profundamente en la doCMBentación como escribir x o y accidente musical.
 
 ## Partituras en PDF 📑
 

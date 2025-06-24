@@ -32,9 +32,27 @@ melodia = \new Voice \relative c' {
 	<a e' a e'>2. ~ \break
 	<a e' a e'>2. ~
 	<a e' a e'>2. \stopTrillSpan 
-	s2. | s2. | s2. 
+	
+	% Percusión 1
+	s4 
+	\once \override NoteHead.style = #'cross
+	\once \override NoteHead.staff-position = #0
+	a'4. s8 | 
+
+	% Percusión 2
+	s4
+	\once \override NoteHead.style = #'cross
+	\once \override NoteHead.staff-position = #0
+	a4. s8 |
+
+	% Percusión 3
+	s4 
+	\once \override NoteHead.style = #'cross
+	\once \override NoteHead.staff-position = #0
+	a4. s8 |
+
 	\break  
-	r4. r8 c'8 b |
+	r4. r8 c8 b |
 	\mark \markup { \small \musicglyph #"scripts.segno" }
 	\repeat volta 3 {
 		a4 e8 c' b a ~ | a8 e4 r8 c'8 b | a4 e8 c' b d, ~ | d4. gis4. b8 r4 r8 d8 c | %% en partitura original ese compás tiene 4 tiempos
