@@ -2,7 +2,7 @@
 \version "2.24.0"
 \header {
 	title = "Ráscate"
-	subtitle = "Cumbia"
+	subtitle = "Cumbia Cerrada"
 	composer = "Rogelio 'Gelo' Córdoba (1911 - 1959)"
 	tagline = ##f
 }

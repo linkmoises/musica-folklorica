@@ -2,7 +2,7 @@
 \version "2.24.0"
 \header {
 	title = "Noche Interiorana (Pueblo Nuevo)"
-	subtitle = "Cumbia"
+	subtitle = "Danzón Cumbia"
 	composer = "Artemio De Jesús Córdova (1896 - 1988)"
 	tagline = ##f
 }
