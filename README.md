@@ -2,7 +2,7 @@
 
 ## El proyecto 🚀
 
-Este es un repositorio de música folklórica panameña, en esta colección he digitalizado en formato de lilypond varios puntos, CMBbias, pasillos y otros géneros del repertorio musical folklórico panameño.
+Este es un repositorio de música folklórica panameña, en esta colección he digitalizado en formato de lilypond varios puntos, cumbias, pasillos y otros géneros del repertorio musical folklórico panameño.
 
 Algunas de estás piezas incluyen solamente la parte melódica de las piezas, otras incluyen los acordes para mejoranera o guitarra acompañantes y unas pocas incluyen la letra.
 
@@ -110,6 +110,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |PUN04 |Díaz, A.             |Bajo el cielo de Tonosí             |escrita digitalmente              |                 |
 |PUN05 |Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución |        ✓        |
 |PUN06 |Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
+|PUN07 |Desconocido          |Punto Ocueño                        |escrita digitalmente              |                 |
 
 ### Partituras de tamboreras (7) ![](https://geps.dev/progress/43)
 
