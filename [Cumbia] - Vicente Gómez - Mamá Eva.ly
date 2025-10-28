@@ -1,7 +1,7 @@
 #(define output-id "CMB13")
 \version "2.24.0"
 \header {
-	title = "Mama Eva"
+	title = "Mamá Eva"
 	subtitle = "Danzón Cumbia"
 	composer = "Vicente Gómez Gudiño (1903 - 1964)"
 	tagline = ##f

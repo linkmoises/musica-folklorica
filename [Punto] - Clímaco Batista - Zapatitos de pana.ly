@@ -1,3 +1,4 @@
+#(define output-id "PUN02")
 \version "2.23.2"
 \header {
 	title = "Zapatitos de pana"
