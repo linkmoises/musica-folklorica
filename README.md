@@ -100,7 +100,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |POL01 |Cortez, B.           |Contradanza                         |fotocopia / escrita digitalmente  |        ✓        |
 |POL02 |Cortez, B.           |Polka                               |fotocopia / escrita a mano        |        ✓        |
 
-### Partituras de puntos (5) ![](https://geps.dev/progress/71)
+### Partituras de puntos (6) ![](https://geps.dev/progress/86)
 
 |  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
@@ -110,7 +110,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |PUN04 |Díaz, A.             |Bajo el cielo de Tonosí             |escrita digitalmente              |                 |
 |PUN05 |Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución |        ✓        |
 |PUN06 |Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
-|PUN07 |Desconocido          |Punto Ocueño                        |escrita digitalmente              |                 |
+|PUN07 |Desconocido          |Punto Ocueño                        |escrita digitalmente              |        ✓        |
 
 ### Partituras de tamboreras (7) ![](https://geps.dev/progress/43)
 

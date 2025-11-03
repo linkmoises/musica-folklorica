@@ -3,7 +3,8 @@
 \header {
 	title = "Punto Ocueño"
 	subtitle = "Punto"
-	composer = "Desconocido"
+	composer = "Autor Desconocido"
+	arranger = "Transcripción: Luis Pedro Quintero C."
 	tagline = ##f
 }
 
@@ -30,6 +31,7 @@ melodia = \new Voice \relative c' {
 	a gis | a c | e c | a' e |
 	e \fermata e | a e | c b | a r8 e'8 f |
 	\mark \markup { \small \musicglyph #"scripts.segno" }
+	\tempo "Allegretto"
 	\repeat volta 2 {
 		g8 g fis g e4 | f8 f4 r8 d8 e | f8 a4 gis8 a4 | e4. r8 e,8 e |
 		e a c f e4 | d8 c b ~ b e, e | e gis b e d4 |
@@ -52,14 +54,35 @@ melodia = \new Voice \relative c' {
 	}
 	\alternative {
 		{ c4. ~ c8 a c | }
-		{ c4. ~ c8 e f | }
+		{ c4. \mark \markup { \small \italic "D.S. al Fine" } ~ c8 e f | }
 	}
+	\bar "||"
+	\break
 	c4. ~ c8 a c | f4. e4. | b2. | e8 e4 f8 gis4 |
-	a2. |
+	a2. \mark \markup { \small \italic "Fine" } |
+	\bar "|."
 }
 
 acordes = \chordmode {
-%% acordes de guitarra / mejorana
+	a2.:m | a2.:m | a2.:m | a2.:m |
+	a2.:m | a2.:m | a2.:m | a2.:m |
+	a2.:m | a2.:m | a2.:m | a2.:m |
+	a2.:7 | d2.:m | g2.:7 | c2. |
+	f2. | e2.:7 | e2.:7 |
+	a2.:m |
+	a2.:m |
+	f2. | e2.:7 | e2.:7 | a2.:m |
+	f2. | e2.:7 | e2.:7 | a2.:m |
+	f2. | e2.:7 | e2.:7 |
+	a2.:m | f2. | e2.:7 | e2.:7 |
+	a2.:m | f2. | e2.:7 | e2.:7 |
+	a2.:m | f2. | e2.:7 | e2.:7 |
+	a2.:m | f2. | e2.:7 | e2.:7 |
+	a2.:m | f2. | e2.:7 | e2.:7 |
+	a2.:m |
+	a2.:m |
+	a2.:m | f2. | e2.:7 | e2.:7 |
+	a2.:m |
 }
 
 \score { %% genera el PDF
