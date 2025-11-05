@@ -33,7 +33,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |BOL15 |Muñoz, A.            |Irremediablemente solo              |fotocopia / escrita digitalmente  |                 |
 |BOL16 |Muñoz, A.            |Maldición gitana                    |fotocopia / escrita digitalmente  |                 |
 
-### Partituras de Cumbias (20) ![](https://geps.dev/progress/100)
+### Partituras de Cumbias (21) ![](https://geps.dev/progress/100)
 
 |  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
@@ -54,6 +54,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |CMB15 |Ramírez, F.          |Nunca me desprecies                 |imagen digital de baja resolución |        ✓        |
 |CMB16 |Ramírez, F.          |Sentimientos del alma               |fotocopia / escrita a mano        |        ✓        |
 |CMB17 |Ramírez, F.          |Sentimientos del alma               |fotografía de baja resolución     |        ✓        |
+|CMB15 |Ramírez, F.          |Velada en El Cañafístulo            |imagen digital de baja resolución |        ✓        |
 |CMB18 |Vergara, A.          |La Espina                           |fotocopia / escrita a mano        |        ✓        |
 |CMB19 |Vergara, A.          |La Espina                           |escaneado / baja resolución       |        ✓        |
 |CMB20 |Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente  |        ✓        |
@@ -100,14 +101,14 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |POL01 |Cortez, B.           |Contradanza                         |fotocopia / escrita digitalmente  |        ✓        |
 |POL02 |Cortez, B.           |Polka                               |fotocopia / escrita a mano        |        ✓        |
 
-### Partituras de puntos (6) ![](https://geps.dev/progress/86)
+### Partituras de puntos (6) ![](https://geps.dev/progress/100)
 
 |  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |PUN01 |Batista, C.          |Socavón del Canajagua               |fotocopia / escrita a mano        |        ✓*       |
 |PUN02 |Batista, C.          |Zapatitos de pana                   |fotografía de baja resolución     |        ✓        |
 |PUN03 |Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente  |        ✓*       |
-|PUN04 |Díaz, A.             |Bajo el cielo de Tonosí             |escrita digitalmente              |                 |
+|PUN04 |Díaz, A.             |Bajo el cielo de Tonosí             |escrita digitalmente              |        ✓        |
 |PUN05 |Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución |        ✓        |
 |PUN06 |Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
 |PUN07 |Desconocido          |Punto Ocueño                        |escrita digitalmente              |        ✓        |

@@ -1,3 +1,4 @@
+#(define output-id "PUN04")
 \version "2.23.2"
 \header {
 	title = "Bajo el cielo de Tonosí (A Clímaco Batista)"
