@@ -8,13 +8,13 @@
 }
 
 \paper {
-	#(set-paper-size "letter")
-	top-margin = 20
-	left-margin = 20
-	right-margin = 20
-	bottom-margin = 25
-	print-page-number = false
-	indent = 0
+  #(set-paper-size "letter")
+  top-margin = 20
+  bottom-margin = 25
+  left-margin = 35
+  right-margin = 20
+  print-page-number = false
+  indent = 0
 }
 
 \markup \vspace #2

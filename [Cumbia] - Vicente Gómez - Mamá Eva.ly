@@ -2,17 +2,17 @@
 \version "2.24.0"
 \header {
 	title = "Mamá Eva"
-	subtitle = "Danzón Cumbia"
+	subtitle = "Danzón"
 	composer = "Vicente Gómez Gudiño (1903 - 1964)"
 	tagline = ##f
 }
 
 \paper {
 	#(set-paper-size "letter")
-	top-margin = 20
-	left-margin = 20
-	right-margin = 20
+	top-margin = 25
 	bottom-margin = 25
+	left-margin = 30
+	right-margin = 30
 	print-page-number = false
 	indent = 0
 }
