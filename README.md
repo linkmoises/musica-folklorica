@@ -33,31 +33,40 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |BOL15 |Muñoz, A.            |Irremediablemente solo              |fotocopia / escrita digitalmente  |                 |
 |BOL16 |Muñoz, A.            |Maldición gitana                    |fotocopia / escrita digitalmente  |                 |
 
-### Partituras de Cumbias (21) ![](https://geps.dev/progress/100)
+### Partituras de Cumbias (30) ![](https://geps.dev/progress/70)
 
 |  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |CMB01 |Batista, C.          |Nalú                                |fotografía de baja resolución     |        ✓        |
-|CMB02 |Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente  |        ✓        |
-|CMB03 |Cedeño, J.           |Embustera                           |imagen digital poco legible       |        ✓*       |
-|CMB04 |Cedeño, J.           |La realidad                         |fotocopia / escrita a mano        |        ✓        |
-|CMB05 |Cedeño, J.           |La realidad                         |fotocopia / escrita digitalmente  |        ✓        |
-|CMB06 |Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano        |        ✓        |
-|CMB07 |Cedeño, J.           |Por olvidarte                       |fotografía de baja resolución     |        ✓        |
-|CMB08 |Cedeño, J.           |Soledad                             |fotografía de baja resolución     |        ✓*       |
-|CMB09 |Cedeño, J.           |Triste vida de soltero              |fotografía de baja resolución     |        ✓        |
-|CMB10 |Córdova, A.          |Pueblo nuevo                        |fotocopia / escrita a mano        |        ✓*       |
-|CMB11 |Córdoba, R.          |Ráscate                             |fotocopia / escrita digitalmente  |        ✓        |
-|CMB12 |Córdoba, S.          |El mogollón                         |transcripción de audio            |        ✓        |
-|CMB13 |Gómez, V.            |Mamá Eva                            |fotocopia / escrita a mano        |        ✓*       |
-|CMB14 |Ramírez, F.          |Edicta no me quiere                 |fotocopia / escrita a mano        |        ✓*       |
-|CMB15 |Ramírez, F.          |Nunca me desprecies                 |imagen digital de baja resolución |        ✓        |
-|CMB16 |Ramírez, F.          |Sentimientos del alma               |fotocopia / escrita a mano        |        ✓        |
-|CMB17 |Ramírez, F.          |Sentimientos del alma               |fotografía de baja resolución     |        ✓        |
-|CMB15 |Ramírez, F.          |Velada en El Cañafístulo            |imagen digital de baja resolución |        ✓        |
-|CMB18 |Vergara, A.          |La Espina                           |fotocopia / escrita a mano        |        ✓        |
-|CMB19 |Vergara, A.          |La Espina                           |escaneado / baja resolución       |        ✓        |
-|CMB20 |Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente  |        ✓        |
+|CMB02 |Batista, C.          |Ojos de Pastora                     |fotocopia / digital               |                 |
+|CMB03 |Batista, C.          |Talanquera                          |fotocopia / digital               |                 |
+|CMB04 |Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente  |        ✓        |
+|CMB05 |Cedeño, J.           |Embustera                           |imagen digital poco legible       |        ✓*       |
+|CMB06 |Cedeño, J.           |La realidad                         |fotocopia / escrita a mano        |        ✓        |
+|CMB07 |Cedeño, J.           |La realidad                         |fotocopia / escrita digitalmente  |        ✓        |
+|CMB08 |Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano        |        ✓        |
+|CMB09 |Cedeño, J.           |Por olvidarte                       |fotografía de baja resolución     |        ✓        |
+|CMB10 |Cedeño, J.           |Recuerdo de La Laguna               |fotocopia / digital               |                 |
+|CMB11 |Cedeño, J.           |Soledad                             |fotografía de baja resolución     |        ✓*       |
+|CMB12 |Cedeño, J.           |Triste vida de soltero              |fotografía de baja resolución     |        ✓        |
+|CMB13 |Córdova, A.          |Pueblo nuevo                        |fotocopia / escrita a mano        |        ✓*       |
+|CMB14 |Córdoba, R.          |Ráscate                             |fotocopia / escrita digitalmente  |        ✓        |
+|CMB15 |Córdoba, S.          |El mogollón                         |transcripción de audio            |        ✓        |
+|CMB16 |Gómez, V.            |Mamá Eva                            |fotocopia / escrita a mano        |        ✓*       |
+|CMB17 |Molina, J.           |La espigadilla                      |fotocopia / digital               |                 |
+|CMB18 |Pimentel, C.         |Carretera a Canajagua               |fotocopia / digital               |                 |
+|CMB19 |Ramírez, F.          |Edicta no me quiere                 |fotocopia / escrita a mano        |        ✓*       |
+|CMB20 |Ramírez, F.          |Las flores del camino               |fotocopia / digital               |                 |
+|CMB21 |Ramírez, F.          |Nunca me desprecies                 |imagen digital de baja resolución |        ✓        |
+|CMB22 |Ramírez, F.          |Sentimientos del alma               |fotocopia / escrita a mano        |        ✓        |
+|CMB23 |Ramírez, F.          |Sentimientos del alma               |fotografía de baja resolución     |        ✓        |
+|CMB24 |Ramírez, F.          |Velada en El Cañafístulo            |imagen digital de baja resolución |        ✓        |
+|CMB25 |Sáez, A.             |La rebujina                         |fotocopia / escrita a mano        |                 |
+|CMB26 |Vergara, A.          |La Espina                           |fotocopia / escrita a mano        |        ✓        |
+|CMB27 |Vergara, A.          |La Espina                           |escaneado / baja resolución       |        ✓        |
+|CMB28 |Vergara, A.          |La Linda Ballesteros                |fotocopia / digital               |                 |
+|CMB29 |Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente  |        ✓        |
+|CMB30 |Vergara, H.          |Recuerdo de La Palma                |fotocopia / digital               |                 |
 
 ### Partituras de denesas (1) ![](https://geps.dev/progress/100)
 
@@ -65,7 +74,7 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |DEN01 |Vásquez, M.          |Denesa Tonosí                       |fotocopia / escrita a mano        |        ✓        |
 
-### Partituras de pasillos (24) ![](https://geps.dev/progress/25)
+### Partituras de pasillos (25) ![](https://geps.dev/progress/25)
 
 |  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
@@ -76,23 +85,24 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |PAS05 |Cavalli, V.          |Panamá                              |escrita digitalmente              |                 |
 |PAS06 |Charpentier, E.      |Lindita                             |fotocopia / escrita digitalmente  |                 |
 |PAS07 |Córdova, A.          |Recuerdos de Josefa                 |fotografía de baja resolución     |        ✓        |
-|PAS08 |Galimany, A.         |Amistad                             |escrita digitalmente              |                 |
-|PAS09 |Galimany, A.         |Belisarito                          |escrita digitalmente              |                 |
-|PAS10 |Galimany, A.         |Berta                               |escrita digitalmente              |                 |
-|PAS11 |Galimany, A.         |Cecilia                             |escrita digitalmente              |                 |
-|PAS12 |Galimany, A.         |Panamá y Colombia                   |escrita digitalmente              |                 |
-|PAS13 |Galimany, A.         |El ingeniero presidente             |escrita digitalmente              |                 |
-|PAS14 |Galimany, A.         |El vedado                           |escrita digitalmente              |                 |
-|PAS15 |Galimany, A.         |María Esperanza                     |escrita digitalmente              |                 |
-|PAS16 |Galimany, A.         |María Luisa                         |escrita digitalmente              |                 |
-|PAS17 |Gómez, V.            |Alma santeña                        |escrita digitalmente              |                 |
-|PAS18 |Gómez, V.            |Club Danubio                        |fotocopia / escrita a mano        |        ✓        |
-|PAS19 |Gómez, V.            |Desilusión mesana                   |escrita digitalmente              |                 |
-|PAS20 |Gómez, V.            |La alondra chiricana                |escrita digitalmente              |                 |
-|PAS21 |Gómez, V.            |Poeta y aldeano                     |escrita digitalmente              |                 |
-|PAS22 |Gómez, V.            |Sinsonte chiricano                  |escrita digitalmente              |                 |
-|PAS23 |Gómez, V.            |Suspiro de una fea                  |fotocopia / escrita digitalmente  |        ✓        |
-|PAS24 |Jorge, S.            |Dulce hogar                         |escrita digitalmente              |                 |
+|PAS08 |Córdova, A.          |Uno a cada lado                     |fotocopia / digital               |                 |
+|PAS09 |Galimany, A.         |Amistad                             |escrita digitalmente              |                 |
+|PAS10 |Galimany, A.         |Belisarito                          |escrita digitalmente              |                 |
+|PAS11 |Galimany, A.         |Berta                               |escrita digitalmente              |                 |
+|PAS12 |Galimany, A.         |Cecilia                             |escrita digitalmente              |                 |
+|PAS13 |Galimany, A.         |Panamá y Colombia                   |escrita digitalmente              |                 |
+|PAS14 |Galimany, A.         |El ingeniero presidente             |escrita digitalmente              |                 |
+|PAS15 |Galimany, A.         |El vedado                           |escrita digitalmente              |                 |
+|PAS16 |Galimany, A.         |María Esperanza                     |escrita digitalmente              |                 |
+|PAS17 |Galimany, A.         |María Luisa                         |escrita digitalmente              |                 |
+|PAS18 |Gómez, V.            |Alma santeña                        |escrita digitalmente              |                 |
+|PAS19 |Gómez, V.            |Club Danubio                        |fotocopia / escrita a mano        |        ✓        |
+|PAS20 |Gómez, V.            |Desilusión mesana                   |escrita digitalmente              |                 |
+|PAS21 |Gómez, V.            |La alondra chiricana                |escrita digitalmente              |                 |
+|PAS22 |Gómez, V.            |Poeta y aldeano                     |escrita digitalmente              |                 |
+|PAS23 |Gómez, V.            |Sinsonte chiricano                  |escrita digitalmente              |                 |
+|PAS24 |Gómez, V.            |Suspiro de una fea                  |fotocopia / escrita digitalmente  |        ✓        |
+|PAS25 |Jorge, S.            |Dulce hogar                         |escrita digitalmente              |                 |
 
 ### Partituras de polkas, polkadanzas y contradanzas (2) ![](https://geps.dev/progress/100)
 
