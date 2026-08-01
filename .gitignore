@@ -9,6 +9,13 @@ pdf/
 final/
 www/
 .vscode/
+web/data/
+web/uploads/
+web/static/
+web/__pycache__/
+*.pyc
+__pycache__/
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof

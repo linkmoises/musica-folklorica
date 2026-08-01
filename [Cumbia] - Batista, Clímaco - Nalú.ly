@@ -9,10 +9,10 @@
 
 \paper {
 	#(set-paper-size "letter")
-	top-margin = 25
-	bottom-margin = 25
-	left-margin = 30
-	right-margin = 30
+	top-margin = 15
+	bottom-margin = 15
+	left-margin = 17
+	right-margin = 17
 	print-page-number = false
 	indent = 0
 }
