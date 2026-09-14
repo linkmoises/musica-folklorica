@@ -3,7 +3,7 @@
 \header {
 	title = "Vírgen de Guadalupe"
 	subtitle = "Punto"
-	composer = "José Miguel Leguízamo (1903 - 1981)"
+	composer = "José Miguel Leguízamo (1903 - 1985)"
 	tagline = ##f
 }
 

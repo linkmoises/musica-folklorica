@@ -4,15 +4,15 @@
 	title = "Nalú"
 	subtitle = "Cumbia Zapateada"
 	composer = "Clímaco Batista Díaz (1907 - 1978)"
-	tagline = ##f
+	tagline = \markup{ \image #X #8 #"extend/logo-musica-panama.eps" }
 }
 
 \paper {
 	#(set-paper-size "letter")
 	top-margin = 15
-	bottom-margin = 15
-	left-margin = 17
-	right-margin = 17
+	bottom-margin = 10
+	left-margin = 15
+	right-margin = 15
 	print-page-number = false
 	indent = 0
 }
@@ -94,5 +94,5 @@ lirica = \lyricmode {
 
 \score { %% genera la muestra MIDI melódica
 	\unfoldRepeats { \melodia }
-	\midi { \tempo 4 = 120 } %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
+	\midi { \tempo 4 = 150 } %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
 }

@@ -9,10 +9,10 @@
 
 \paper {
 	#(set-paper-size "letter")
-	top-margin = 25
-	bottom-margin = 25
-	left-margin = 30
-	right-margin = 30
+	top-margin = 15
+	bottom-margin = 10
+	left-margin = 15
+	right-margin = 15
 	print-page-number = false
 	indent = 0
 }
@@ -47,31 +47,35 @@ melodia = \new Voice \relative c' {
 	}
 	\alternative {
 		{ d4 r16 a'16 b g | }
-		{ d4 r16 a16 b g | }
+		{ d4 r8 a16 a | }
 	}
-	\bar "||"
-	%%% de aquí en adelante se transcribe tal cual esta en la partitura original
-	%%% probablemente este incompleta la transcripción física
-	a4 r8 a16 a |
 	\repeat volta 2 {
-		a16 cis e g b8 r16 d,16 | a4 cis8 d | e g b,8. a'16 | cis,8 a ~ a16 cis e g |
-		a, cis e g b8 r16 cis,16 | a'4 cis,8 d | e8. g16 b,8 fis' | a,4 r8 a16 a |
+		a16 cis e g b8 d,16 fis | a8. cis, d8 | a4 cis8 d | e g b,8. a'16 | 
+		cis,8 a ~ a a16 a | a cis e g b8 d,16 fis | e8. g16 b,8 fis' | a,4 r8 a16 a |
 	}
 	\repeat volta 2 {
 		g8 b d g | e8. cis8. a8 | d8. b8. g8 |
 	}
 	\alternative {
 		{ a4 r8 a16 a | }
-		{ a4 cis8 e | }
+		{ a4 r8 cis16 e | }
 	}
 	\repeat volta 2 {
-		g8 g d d | fis fis cis d | e g b, a |
+		g8 g d d | fis fis cis d |
 	}
 	\alternative {
-		{ cis8 a ~ a cis16 e | }
-		{ cis8 a a16 cis e g | }
+		{ e g b, a | cis8 a ~ a cis16 e | }
+		{ e8 g b,8. b16 | a4 ~ a8 a16 a | }
 	}
-	b8 d,16 fis a4 ~ | a cis,8 d | e8. g16 b8. fis16 | a,4 a16 cis e g |
+	\repeat volta 2 { 
+		d,16 fis a d e, g b e | cis8 a d fis | b, g16 e'8 cis16 b8 |
+	}
+	\alternative {
+		{ a4 ~ a8 a16 a | }
+		{ a8. a16 a8 d16 d | }
+	}
+	d4 r4 |
+	\bar "|."
 }
 
 acordes = \chordmode {
@@ -93,6 +97,9 @@ lirica = \lyricmode {
 		\acordes
 	}
 	\new Staff
+		\with {
+			midiInstrument = #"violin"
+		}
 		<< \global \melodia >>
 	\addlyrics \lirica
 	\override Lyrics.LyricText.font-size = #-0.5
@@ -102,5 +109,8 @@ lirica = \lyricmode {
 
 \score { %% genera la muestra MIDI melódica
 	\unfoldRepeats { \melodia }
-	\midi { \tempo 4 = 90 } %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
+	\midi { 
+		\set Staff.midiInstrument = #"violin"
+		\tempo 4 = 90 
+	} %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
 }
