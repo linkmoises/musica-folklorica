@@ -1,18 +1,19 @@
 #(define output-id "CMB04")
 \version "2.24.0"
 \header {
-	title = "La Realidad (transcripción original)"
+	title = "La Realidad"
 	subtitle = "Danzón Cumbia"
 	composer = "José De La Rosa Cedeño (1907 - 1990)"
-	tagline = ##f
+	arranger = "Transcripción de partitura original"
+	tagline = \markup{ \image #X #8 #"logo-musica-panama.eps" }
 }
 
 \paper {
 	#(set-paper-size "letter")
-	top-margin = 25
-	bottom-margin = 25
-	left-margin = 30
-	right-margin = 30
+	top-margin = 15
+	bottom-margin = 10
+	left-margin = 15
+	right-margin = 15
 	print-page-number = false
 	indent = 0
 }
@@ -112,5 +113,8 @@ lirica = \lyricmode {
 
 \score { %% genera la muestra MIDI melódica
 	\unfoldRepeats { \melodia }
-	\midi { \tempo 4 = 105 }
+	\midi { 
+		\set Staff.midiInstrument = #"violin"
+		\tempo 4 = 95 %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
+	} 
 }
