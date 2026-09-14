@@ -4,15 +4,15 @@
 	title = "Amorcito Lindo"
 	subtitle = "Danzón Cumbia"
 	composer = "José De La Rosa Cedeño (1907 - 1990)"
-	tagline = ##f
+	tagline = \markup{ \image #X #8 #"logo-musica-panama.eps" }
 }
 
 \paper {
 	#(set-paper-size "letter")
-	top-margin = 10
+	top-margin = 15
 	bottom-margin = 10
-	left-margin = 10
-	right-margin = 10
+	left-margin = 15
+	right-margin = 15
 	print-page-number = false
 	indent = 0
 }
@@ -109,5 +109,8 @@ lirica = \lyricmode {
 
 \score { %% genera la muestra MIDI melódica
 	\unfoldRepeats { \melodia }
-	\midi { \tempo 4 = 120 }
+	\midi { 
+		\set Staff.midiInstrument = #"violin"
+		\tempo 4 = 150 %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
+	} 
 }
