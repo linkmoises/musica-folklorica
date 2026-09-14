@@ -1,10 +1,10 @@
 #(define output-id "CMB10")
-\version "2.24.0"
+\version "2.26.0"
 \header {
 	title = "Noche Interiorana (Pueblo Nuevo)"
 	subtitle = "Danzón Cumbia"
 	composer = "Artemio De Jesús Córdova (1896 - 1988)"
-	tagline = ##f
+	tagline = \markup{ \image #X #8 #"logo-musica-panama.eps" }
 }
 
 \paper {
@@ -111,6 +111,6 @@ lirica = \lyricmode {
 	\unfoldRepeats { \melodia }
 	\midi { 
 		\set Staff.midiInstrument = #"violin"
-		\tempo 4 = 90 
-	} %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
+		\tempo 4 = 90 %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
+	} 
 }

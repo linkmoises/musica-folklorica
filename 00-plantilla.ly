@@ -56,5 +56,8 @@ lirica = \lyricmode {
 
 \score { %% genera la muestra MIDI melódica
 	\unfoldRepeats { \melodia }
-	\midi { \tempo 4 = 90 } %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
+	\midi { 
+		\set Staff.midiInstrument = #"violin"
+		\tempo 4 = 90 %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
+	} 
 }
