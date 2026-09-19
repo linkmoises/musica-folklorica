@@ -29,7 +29,10 @@ melodia = \new Voice \relative c' {
 	\partial 4 d16 fis a d |
 	\repeat volta 2 {
 		g,16( b e g) a,( cis e a) | fis d a fis d fis a d | g, b e g a, cis e a | 
-		d,4 r16 a16( b g) |
+	}
+	\alternative {
+		{ d,4 d,16 fis a d |}
+		{ d4 r16 a16( b g) | }
 	}
 	\repeat volta 2 {
 		a16 d fis a e g fis e | d8 a16 d8 fis16 e8 | cis8 a16 g8 b16 a8 | fis8 a ~ a16 a b g |
@@ -50,8 +53,11 @@ melodia = \new Voice \relative c' {
 		{ d4 r8 a16 a | }
 	}
 	\repeat volta 2 {
-		a16 cis e g b8 d,16 fis | a8. cis, d8 | a4 cis8 d | e g b,8. a'16 | 
-		cis,8 a ~ a a16 a | a cis e g b8 d,16 fis | e8. g16 b,8 fis' | a,4 r8 a16 a |
+		a16 cis e g b8 d,16 fis | a8. cis, d8 | %% a4 cis8 d | 
+		e g b,8. a'16 | 
+		cis,8 a ~ a a16 a | a cis e g b8 d,16 fis | e8. g16 b,8 fis' | 
+		e8 g b, b | 
+		a4 r8 a16 a |
 	}
 	\repeat volta 2 {
 		g8 b d g | e8. cis8. a8 | d8. b8. g8 |

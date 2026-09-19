@@ -2,20 +2,54 @@
 
 ## El proyecto 🚀
 
-Este es un repositorio de música folklórica panameña, en esta colección he digitalizado en formato de lilypond varios puntos, cumbias, pasillos y otros géneros del repertorio musical folklórico panameño.
+Este repositorio reúne partituras digitalizadas y transcritas de música folklórica y típica panameña, en formato [LilyPond](https://lilypond.org/). El proyecto nació como un esfuerzo personal para preservar partituras que, en muchos casos, existen únicamente como fotocopias, manuscritos o documentos de baja calidad y cuya disponibilidad en formato digital es limitada.
 
-Algunas de estás piezas incluyen solamente la parte melódica de las piezas, otras incluyen los acordes para mejoranera o guitarra acompañantes y unas pocas incluyen la letra.
+Algunas de estás piezas incluyen solamente la parte melódica de las piezas, otras incluyen los acordes para mejoranera o guitarra acompañantes. Unas pocas incluyen la letra.
 
 Empecé este proyecto con una piezas que me donaron cuando era estudiante de violín hace 20 años atrás, incluso hay fotocopias de fotocopias de fotocopias de algunas piezas escritas a mano que con el tiempo la legibilidad ha disminuido por el deterioro del papel. He hecho mi mejor esfuerzo al tratar de transcribir las partituras para que no se pierdan estas obras.
 
 Del mismo modo, me mantengo investigando activamente para mejorar las partituras una vez transcritas. Si encuentro alguna versión con variaciones significativas, la añadiré además de la original en mi posesión. También incluí en las partituras el año de nacimiento y fallecimiento de los compositores/autores.
 
-De algunas partituras hay varias versiones, a veces esto puede responder al hecho que tengo la misma partitura escrita de dos maneras diferentes o en escalas diferentes.
+Una parte de este repertorio ha sido editada y publicada en los volúmenes de **Música de Panamá**, una antología dedicada a la recuperación, edición y difusión de partituras del repertorio musical panameño. El sitio web [musicadepanama.com](https://musicadepanama.com/) funciona como sitio complementario del proyecto y reúne información sobre las obras, partituras, grabaciones y otros materiales relacionados.
+
+El repositorio contiene además obras que todavía no cuentan con una interpretación conocida o documentada. Estas piezas se conservan como material adicional con el propósito de facilitar su estudio, interpretación y futura recuperación.
+
+
+## Sobre el catálogo
+
+Este repositorio es el espacio de trabajo del proyecto **Música de Panamá**. Las obras llegan primero aquí, como parte del proceso de transcripción, edición y documentación. A medida que una obra puede ser investigada y catalogada con suficiente información, puede pasar al sitio web y formar parte del catálogo público.
+
+La presencia de una pieza en este repositorio no significa necesariamente que forme parte de uno de los libros. Los volúmenes impresos son **selecciones editoriales** del material que ha sido trabajado y documentado. Por esta razón, el repositorio puede contener obras que todavía no han llegado al sitio web, así como otras que, por razones de investigación o derechos de autor, no serán publicadas fuera de él.
+
+La colección editorial está organizada de la siguiente manera:
+
+| Volumen                    | Contenido                                                                  |
+| -------------------------- | -------------------------------------------------------------------------- |
+| **Vol. I** (2026)          | Cumbias, danzas (contradanzas, denesas y polkas) y puntos                  |
+| **Vol. II** (2027)         | Pasillos y boleros                                                         |
+| **Vol. III** (2028)        | Tamboritos, tamboreras, tunas y torrentes de mejoranera                    |
+
+
+### Indicadores del catálogo
+
+**Audio**
+
+* 🎻 Grabación o interpretación documentada con **violín**.
+* 🪗 Grabación o interpretación documentada con **acordeón**.
+* 🎼 No se ha localizado una grabación o interpretación documentada.
+
+**Estado**
+
+* 🏅 Obra **incluida en un libro** de la colección.
+* ✨ **Material adicional** disponible en el sitio web, pero no incluido en los libros.
+* 🔎 Obra **en investigación**; por ahora permanece únicamente en el repositorio.
+
+Estos indicadores describen el estado de cada obra dentro del proyecto y no necesariamente son permanentes: una pieza en investigación puede pasar posteriormente al sitio web y, si reúne las condiciones editoriales, formar parte de una futura edición.
 
 
 ### Partituras de Cumbias (30) ![](https://geps.dev/progress/70)
 
-|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
+|      **Autor**      |             **Título**             |      **Partitura original**      |**Estado**|**Audio**|
 |:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |Batista, C.          |Nalú                                |fotografía de baja resolución     |        ✓        |
 |Batista, C.          |Ojos de Pastora                     |fotocopia / digital               |                 |
@@ -177,6 +211,10 @@ De algunas partituras hay varias versiones, a veces esto puede responder al hech
 |TOR06 |Desconocido          |Valdivieso                          |escaneado / baja resolución       |                 |
 |TOR07 |Desconocido          |Zapatero                            |escaneado / baja resolución       |                 |
 
+### Notas
+
+> Las obras con un * en su título, son partituras que en su documento original contienen algún artefacto que limita la interpretación de la partitura, o está incompleta, por lo que se ha tenido que inferir parte de la partitura.
+
 
 ## ¿Por qué Lilypond? 🎵
 
@@ -184,21 +222,25 @@ La respuesta a esta pregunta es sencilla. Soy usuario de GNU/Linux y suelo prefe
 
 Me parece también que transcribo más rápido una partitura, viéndola y tecleándola a medida que la leo en lugar de ir haciendo _point and click_. Después de transcribir las partituras, las compilo, verifico y hago las correcciones necesarias.
 
-Lilypond puede parecer atemorizante al principio y más si ven a uno usándolo con vim desde la línea de comandos. No hay una interfaz gráfica como tal, pues solo es necesario el archivo `.ly` y el compilador `lilypond` que hace la magia. Aunque existe la opción de usar `frescobaldi` que le añade una capa gráfica a `lilypond` y permite hacer ciertas cosas adicionales que de otro modo requirirían leer profundamente en la doCMBentación como escribir x o y accidente musical.
+Lilypond puede parecer atemorizante al principio y más si ven a uno usándolo con vim desde la línea de comandos. No hay una interfaz gráfica como tal, pues solo es necesario el archivo `.ly` y el compilador `lilypond` que hace la magia. Aunque existe la opción de usar `frescobaldi` que le añade una capa gráfica a `lilypond` y permite hacer ciertas cosas adicionales que de otro modo requirirían leer profundamente en la documentación como escribir x o y accidente musical.
 
 ## Partituras en PDF 📑
 
-Inicialmente estaba añadiendo los originales escaneados y los PDF generados por lilypond; sin embargo, el tamaño del repositorio aumento considerablemente, por lo que luego tomé la decisión de solo colocar las fuentes de archivos `lilypond`. Solo es necesario tenelo instalado para compilarlas.
+Inicialmente estaba añadiendo los originales escaneados y los PDF generados por lilypond; sin embargo, el tamaño del repositorio aumento considerablemente al ser archivos binarios, por lo que luego tomé la decisión de solo colocar las fuentes de archivos `lilypond`. Solo es necesario tenerlo instalado para compilarlas.
 
 Para instalar `lilypond` en Arch Linux:
 
 > pacman -S lilypond
 
+Para instalar `lilypond` en Fedora:
+
+> dnf install lilypond
+
 Para compilar una partitura
 
 > lilypond nombre-partitura.ly
 
-## Música panameña 🎻
+## Música de Panamá 🎻
 
 La música de Panamá, nace de las fusión cultural de las etnia hispana en la época de la conquista, de la música que los negros esclavos trajeron con ellos e incluso negros que se sospecha que ya vivían en el istmo previo a la conquista y de nuestra posición como región de tránsito, donde el confluir de diversas culturas ha ido aportando con el tiempo diversos elementos para este constructo social que conocemos como cultura panameña.
 
@@ -216,7 +258,9 @@ Independientemente del nombre que se le escoja a nuestra música o la forma como
 
 ## Licencia 📄
 
-Estas composiciones son de dominio público. Encontrar una pieza musical de estas a través de los buscadores es extremadamente difícil y la mayor parte del tiempo no se obtienen resultados favorables. Por este motivo, he decidido compartir este repositorio bajo la Licencia Creative Commons CC BY 4.0.
+Los derechos sobre las composiciones musicales pertenecen a sus respectivos autores o titulares cuando corresponda. La disponibilidad de una partitura en este sitio no implica que la composición se encuentre en dominio público, ni que puedan realizarse usos distintos de los permitidos por la legislación aplicable.
+
+Los derechos sobre la edición, transcripción, grabado tipográfico, diseño y organización del contenido original del sitio pertenecen al editor. Este trabajo editorial se ofrece bajo licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es), salvo que se indique expresamente lo contrario en una ficha particular. Esto permite su uso, distribución, adaptación y aprovechamiento comercial, siempre que se otorgue la atribución correspondiente al editor conforme a los términos de dicha licencia.
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
