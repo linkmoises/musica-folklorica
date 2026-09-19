@@ -40,7 +40,7 @@ La colección editorial está organizada de la siguiente manera:
 
 **Estado**
 
-* 🏅 Obra **incluida en un libro** de la colección.
+* 🏅 Obra **incluida o a incluir en uno de los volúmenes** de la antología.
 * ✨ **Material adicional** disponible en el sitio web, pero no incluido en los libros.
 * 🔎 Obra **en investigación**; por ahora permanece únicamente en el repositorio.
 
@@ -49,38 +49,34 @@ Estos indicadores describen el estado de cada obra dentro del proyecto y no nece
 
 ### Partituras de Cumbias (30) ![](https://geps.dev/progress/70)
 
-|      **Autor**      |             **Título**             |      **Partitura original**      |**Estado**|**Audio**|
-|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Batista, C.          |Nalú                                |fotografía de baja resolución     |        ✓        |
-|Batista, C.          |Ojos de Pastora                     |fotocopia / digital               |                 |
-|Batista, C.          |Talanquera                          |fotocopia / digital               |                 |
-|Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente  |        ✓        |
-|Cedeño, J.           |Embustera                           |imagen digital poco legible       |        ✓*       |
-|Cedeño, J.           |La realidad                         |fotocopia / escrita a mano        |        ✓        |
-|Cedeño, J.           |La realidad                         |fotocopia / escrita digitalmente  |        ✓        |
-|Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano        |        ✓        |
-|Cedeño, J.           |Por olvidarte                       |fotografía de baja resolución     |        ✓        |
-|Cedeño, J.           |Recuerdo de La Laguna               |fotocopia / digital               |                 |
-|Cedeño, J.           |Soledad                             |fotografía de baja resolución     |        ✓*       |
-|Cedeño, J.           |Triste vida de soltero              |fotografía de baja resolución     |        ✓        |
-|Córdova, A.          |Pueblo nuevo                        |fotocopia / escrita a mano        |        ✓*       |
-|Córdoba, R.          |Ráscate                             |fotocopia / escrita digitalmente  |        ✓        |
-|Córdoba, S.          |El mogollón                         |transcripción de audio            |        ✓        |
-|Gómez, V.            |Mamá Eva                            |fotocopia / escrita a mano        |        ✓*       |
-|Molina, J.           |La espigadilla                      |fotocopia / digital               |                 |
-|Pimentel, C.         |Carretera a Canajagua               |fotocopia / digital               |                 |
-|Ramírez, F.          |Edicta no me quiere                 |fotocopia / escrita a mano        |        ✓*       |
-|Ramírez, F.          |Las flores del camino               |fotocopia / digital               |                 |
-|Ramírez, F.          |Nunca me desprecies                 |imagen digital de baja resolución |        ✓        |
-|Ramírez, F.          |Sentimientos del alma               |fotocopia / escrita a mano        |        ✓        |
-|Ramírez, F.          |Sentimientos del alma               |fotografía de baja resolución     |        ✓        |
-|Ramírez, F.          |Velada en El Cañafístulo            |imagen digital de baja resolución |        ✓        |
-|Sáez, A.             |La rebujina                         |fotocopia / escrita a mano        |                 |
-|Vergara, A.          |La Espina                           |fotocopia / escrita a mano        |        ✓        |
-|Vergara, A.          |La Espina                           |escaneado / baja resolución       |        ✓        |
-|Vergara, A.          |La Linda Ballesteros                |fotocopia / digital               |                 |
-|Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente  |        ✓        |
-|Vergara, H.          |Recuerdo de La Palma                |fotocopia / digital               |                 |
+|      **Autor**      |             **Título**             |      **Partitura original**               |**Transcripción**|**Estado**|**Audio**|
+|:--------------------|:-----------------------------------|:-----------------------------------------:|:----------------|:--------:|:-------:|
+|Batista, C.          |Nalú                                |fotografía de baja resolución              |        ✅       |    🏅    |    🎻   |
+|Batista, C.          |Ojos de Pastora                     |fotocopia / digital                        |                 |    🏅    |    🎻   |
+|Batista, C.          |Talanquera                          |fotocopia / escrita a mano                 |                 |    🏅    |    🎻   |
+|Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente           |        ✅       |    🏅    |    🎻   |
+|Cedeño, J.           |Embustera *                         |imagen digital poco legible                |        ✅       |    🏅    |    🎻   |
+|Cedeño, J.           |La realidad                         |fotocopia / escrita a mano y digitalmente  |        ✓        |    🏅    |    🎻   |
+|Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano                 |        ✓        |    🏅    |    🎻   |
+|Cedeño, J.           |Por olvidarte                       |fotografía de baja resolución              |        ✓        |    🏅    |    🎻   |
+|Cedeño, J.           |Recuerdo de La Laguna               |fotocopia / digital                        |                 |    🏅    |    🎻   |
+|Cedeño, J.           |Soledad                             |fotografía de baja resolución              |        ✓*       |    🏅    |    🎻   |
+|Cedeño, J.           |Triste vida de soltero              |fotografía de baja resolución              |        ✓        |    🏅    |    🎻   |
+|Córdova, A.          |Pueblo nuevo                        |fotocopia / escrita a mano                 |        ✓*       |    🏅    |    🎻   |
+|Córdoba, R.          |Ráscate                             |fotocopia / escrita digitalmente           |        ✓        |    🏅    |    🎻   |
+|Córdoba, S.          |El mogollón                         |transcripción de audio grabado             |        ✓        |    🏅    |    🎻   |
+|Gómez, V.            |Mamá Eva                            |fotocopia / escrita a mano                 |        ✓*       |    🏅    |    🎻   |
+|Molina, J.           |La espigadilla                      |fotocopia / digital                        |                 |    🏅    |    🎻   |
+|Ramírez, F.          |Edicta no me quiere                 |fotocopia / escrita a mano                 |        ✓*       |    🏅    |    🎻   |
+|Ramírez, F.          |Las flores del camino               |fotocopia / digital                        |                 |    🏅    |    🎻   |
+|Ramírez, F.          |Nunca me desprecies                 |imagen digital de baja resolución          |        ✓        |    🏅    |    🎻   |
+|Ramírez, F.          |Sentimientos del alma +1            |fotocopia / escrita a mano / foto digital  |        ✓        |    🏅    |    🎻   |
+|Ramírez, F.          |Velada en El Cañafístulo            |imagen digital de baja resolución          |        ✓        |    ✨    |    🎼   |
+|Sáez, A.             |La rebujina                         |fotocopia / escrita a mano                 |                 |    🏅    |    🎻   |
+|Vergara, A.          |La Espina +1                        |fotocopia / escrita a mano / escaneado     |        ✓        |    🏅    |    🎻   |
+|Vergara, A.          |La Linda Ballesteros                |fotocopia / digital                        |                 |    🏅    |    🎻   |
+|Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente           |        ✓        |    ✨    |    🎼   |
+|Vergara, H.          |Recuerdo de La Palma                |fotocopia / digital                        |                 |    🏅    |    🎻   |
 
 
 ### Partituras de danzas (4) ![](https://geps.dev/progress/100)
@@ -213,7 +209,9 @@ Estos indicadores describen el estado de cada obra dentro del proyecto y no nece
 
 ### Notas
 
-> Las obras con un * en su título, son partituras que en su documento original contienen algún artefacto que limita la interpretación de la partitura, o está incompleta, por lo que se ha tenido que inferir parte de la partitura.
+> Las obras con un `*` en su título, son partituras que en su documento original contienen algún artefacto que limita la interpretación de la partitura, o está incompleta, por lo que se ha tenido que inferir parte de la partitura.
+
+> Las obras con un `+n` en su título, son partituras que tienen más de una versión o variante. 
 
 
 ## ¿Por qué Lilypond? 🎵
