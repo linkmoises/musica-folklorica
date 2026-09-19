@@ -19,86 +19,73 @@
 
 \markup \vspace #2
 
-global= {
-	\time 2/2
-	\tempo 4 = 90
-	\key f \major
+global = {
+	\time 2/4
+	\tempo "Andantino"
+	\key d \major
 }
 
 melodia = \new Voice \relative c' {
-	\partial 4 c8 f |
+	\partial 8 a16 d |
 	\repeat volta 2 {
 		\mark \markup { \small \musicglyph #"scripts.segno" }
-		a a f a c a f' c | a'4 f r4 f8 g | a a f f d d a a | 
-		c4 g r4 c,8 e | g8 g e g bes g e' c | g'4 e r4 e8 f | 
-		g g c, c e e g, g | bes4 f r4 c8 f | a a f a c a f' c | 
-		a'4 fis r4 d | ees d8 a~ a c d4 | c bes r4 bes8 d | 
-		g d bes bes r8 g' d bes | f' c a a r8 a c d | bes4 c e g |
+		fis fis d fis a fis d' a | fis'8 d r8 d16 e | fis fis d d b b fis fis | 
+		a8 e r8 cis16 e | g16 g e g b b g b | e8 cis r8 a16 cis | 
+		e16 e a, a16 cis cis e, e | %% compás no confirmado
+		g8 fis r8 a,16 d | fis fis d fis a a fis a | 
+		fis'8 dis r8 b8 | cis8 b16 fis8 a16 b8 | a8 g r8 g16 b | e16 b g8 r16 e'16 b g |
+		d'16 a fis8 r16 fis16 a d | 
+		cis8 e a, e' | %% compás no confirmado
+		<d fis,>8 <d fis,>8 <d fis,>8 <d fis,>8 |
 	}
 	\alternative {
-		{ f r4 r4 c,8 f | }
-		{ f'4 f f f | }
+		{ d8 r8 a,16 d | }
+		{ <d' fis,>8 <d fis,>8 <d fis,>8 <d fis,>8 | }
 	}
+	
+	<d fis,>8 r8 fis,8 a |
+	\key d \major
 	\time 6/8
-	\tempo 4. = 80
-	f8 r8 r8 r8 a,8 c |
 	\repeat volta 2 {
-		f8 c a' f a c | bes4 g e8 f | g8 g bes d bes f | a4 c c,,8 f |
-		a8 c f a f d | bes d f bes d, f | e c e g c e, |
+		d8( a fis') d( fis a) | g4 e cis8 d | e8( g b) b( g d) | fis4 a d,,8 fis |
+		fis8( a d) fis8( d b) | %% compás no confirmado
+		g( b d) g( b, d) | cis8( a cis) e( a cis,) |
 	}
 	\alternative {
-		{ f4 r8 r8 a,8 c | }
-		{
-			\time 2/2
-			\tempo 4 = 105
-			f4 f f f |
+		
+		{ 
+			\time 2/4
+			d8 r8 fis,8 a | 
+		}
+		{ 
+			\time 2/4
+			<d fis,>8 <d fis,>8 <d fis,>8 <d fis,>8 | 
 		}
 	}
-	f4 r4 r4 c,8 c |
+	\key d \major
+	\time 2/4
+	d4 r8 a,8 |
 	\repeat volta 2 {
-		f4 a8 c8~ c8 f a4 | c c a f | bes bes g c, | a' f r4 c,8 c |
-		f4 a8 c~ c f d4 | bes g' e c
+		d8 fis16 a8 d16 fis8 | a8 a fis d | g g e a, | 
+		fis'8 d r8 d8 | %% compás no confirmado
+		d,8 fis16 a8 d16 b8 | g e cis' a | e cis' a a' | 
 	}
 	\alternative {
-		{ g4 e' c c' | f, r4 r4 c,8 c | }
-		{ c''8 d bes c a bes g a | }
+		{ d,8 r8 a,8 | }
+		{ d'4 r8 d16 d | }
 	}
-	f4 r4 r4 f8 f | f4 f,8 a~ a c bes4 |
-	\bar ".|:"
-	d g c, c'8 c | c4 f,,8 a~ a c bes4 | d c e g,8 g | f4 f8 a~ a c bes4
-	\bar ":|.|:"
-	\repeat volta 2 {
-		d4 g c, c'8 c |
-		c4 f,,8 a~ a c bes4 \bar "||"
-		\mark \markup { \small \musicglyph #"scripts.coda" }
+	d8 d,16 fis8 a16 g8 | 
+	\repeat volta 4 {
+		b8 e a, a'16 a | a8 d,,16 fis8 a16 g8 | b8 a cis e,16 e |
+		
 	}
+	%% compases a discreción de quien transcribe
 	\alternative {
-		{ d4 c e g,8 g | f4 f8 a~ a c bes4 | }
-		{ d4 c e g,8 g }
+		{ d8 d16 fis8 a16 g8 | }
+		{ d16 e fis g a8 d16 d | } 
 	}
-	f4 r4 r4 c8 f
-	\mark \markup { \small \musicglyph #"scripts.segno" }
-	\bar "||"
-	\cadenzaOn
-		\stopStaff
-			\repeat unfold 1 {
-				s1
-				\bar ""
-			}
-		\startStaff
-	\cadenzaOff
-	\break
-	\mark \markup { \small \musicglyph #"scripts.coda" }
-	d'4 c d e | <f, a c f>1 ~ | <f a c f>4 r4 r2
+	d2 |
 	\bar "|."
-	\cadenzaOn
-		\stopStaff
-			\repeat unfold 1 {
-				s1
-				\bar ""
-			}
-		\startStaff
-	\cadenzaOff
 }
 
 acordes = \chordmode {
@@ -129,5 +116,8 @@ lirica = \lyricmode {
 
 \score { %% genera la muestra MIDI melódica
 	\unfoldRepeats { \melodia }
-	\midi { \tempo 4 = 90 }
+	\midi { 
+		\set Staff.midiInstrument = #"violin"
+		\tempo 4 = 75 %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
+	} 
 }
