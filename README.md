@@ -50,56 +50,60 @@ Estos indicadores describen el estado de cada obra dentro del proyecto y no nece
 ### Partituras de Cumbias (30) ![](https://geps.dev/progress/70)
 
 |      **Autor**      |             **Título**             |      **Partitura original**               |**Transcripción**|**Estado**|**Audio**|
-|:--------------------|:-----------------------------------|:-----------------------------------------:|:----------------|:--------:|:-------:|
+|:--------------------|:-----------------------------------|:-----------------------------------------:|:---------------:|:--------:|:-------:|
 |Batista, C.          |Nalú                                |fotografía de baja resolución              |        ✅       |    🏅    |    🎻   |
 |Batista, C.          |Ojos de Pastora                     |fotocopia / digital                        |                 |    🏅    |    🎻   |
 |Batista, C.          |Talanquera                          |fotocopia / escrita a mano                 |                 |    🏅    |    🎻   |
 |Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente           |        ✅       |    🏅    |    🎻   |
 |Cedeño, J.           |Embustera *                         |imagen digital poco legible                |        ✅       |    🏅    |    🎻   |
-|Cedeño, J.           |La realidad                         |fotocopia / escrita a mano y digitalmente  |        ✓        |    🏅    |    🎻   |
-|Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano                 |        ✓        |    🏅    |    🎻   |
-|Cedeño, J.           |Por olvidarte                       |fotografía de baja resolución              |        ✓        |    🏅    |    🎻   |
+|Cedeño, J.           |La realidad                         |fotocopia / escrita a mano y digitalmente  |        ✅       |    🏅    |    🎻   |
+|Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano                 |        ✅       |    🏅    |    🎻   |
+|Cedeño, J.           |Por olvidarte                       |fotografía de baja resolución              |        ✅       |    🏅    |    🎻   |
 |Cedeño, J.           |Recuerdo de La Laguna               |fotocopia / digital                        |                 |    🏅    |    🎻   |
-|Cedeño, J.           |Soledad                             |fotografía de baja resolución              |        ✓*       |    🏅    |    🎻   |
-|Cedeño, J.           |Triste vida de soltero              |fotografía de baja resolución              |        ✓        |    🏅    |    🎻   |
-|Córdova, A.          |Pueblo nuevo                        |fotocopia / escrita a mano                 |        ✓*       |    🏅    |    🎻   |
-|Córdoba, R.          |Ráscate                             |fotocopia / escrita digitalmente           |        ✓        |    🏅    |    🎻   |
-|Córdoba, S.          |El mogollón                         |transcripción de audio grabado             |        ✓        |    🏅    |    🎻   |
-|Gómez, V.            |Mamá Eva                            |fotocopia / escrita a mano                 |        ✓*       |    🏅    |    🎻   |
+|Cedeño, J.           |Soledad *                           |fotografía de baja resolución              |        ✅       |    🏅    |    🎻   |
+|Cedeño, J.           |Triste vida de soltero              |fotografía de baja resolución              |        ✅       |    🏅    |    🎻   |
+|Córdova, A.          |Pueblo nuevo *                      |fotocopia / escrita a mano                 |        ✅       |    🏅    |    🎻   |
+|Córdoba, R.          |Ráscate                             |fotocopia / escrita digitalmente           |        ✅       |    🏅    |    🎻   |
+|Córdoba, S.          |El mogollón *                       |transcripción de audio grabado             |        ✅       |    🏅    |    🎻   |
+|Gómez, V.            |Mamá Eva *                          |fotocopia / escrita a mano                 |        ✅       |    🏅    |    🎻   |
 |Molina, J.           |La espigadilla                      |fotocopia / digital                        |                 |    🏅    |    🎻   |
-|Ramírez, F.          |Edicta no me quiere                 |fotocopia / escrita a mano                 |        ✓*       |    🏅    |    🎻   |
+|Ramírez, F.          |Edicta no me quiere *               |fotocopia / escrita a mano                 |        ✅       |    🏅    |    🎻   |
 |Ramírez, F.          |Las flores del camino               |fotocopia / digital                        |                 |    🏅    |    🎻   |
-|Ramírez, F.          |Nunca me desprecies                 |imagen digital de baja resolución          |        ✓        |    🏅    |    🎻   |
-|Ramírez, F.          |Sentimientos del alma +1            |fotocopia / escrita a mano / foto digital  |        ✓        |    🏅    |    🎻   |
-|Ramírez, F.          |Velada en El Cañafístulo            |imagen digital de baja resolución          |        ✓        |    ✨    |    🎼   |
+|Ramírez, F.          |LLegando a Paraíso                  |fotocopia / escrita digitalmente           |                 |    🔎    |    🎼   |
+|Ramírez, F.          |Nunca me desprecies                 |imagen digital de baja resolución          |        ✅       |    🏅    |    🎻   |
+|Ramírez, F.          |Sentimientos del alma +1            |fotocopia / escrita a mano / foto digital  |        ✅       |    🏅    |    🎻   |
+|Ramírez, F.          |Te amaré toda la vida               |fotocopia / escrita a mano                 |                 |    🔎    |    🎼   |
+|Ramírez, F.          |Velada en El Cañafístulo            |imagen digital de baja resolución          |        ✅       |    ✨    |    🎼   |
 |Sáez, A.             |La rebujina                         |fotocopia / escrita a mano                 |                 |    🏅    |    🎻   |
-|Vergara, A.          |La Espina +1                        |fotocopia / escrita a mano / escaneado     |        ✓        |    🏅    |    🎻   |
+|Vergara, A.          |La Espina +1                        |fotocopia / escrita a mano / escaneado     |        ✅       |    🏅    |    🎻   |
 |Vergara, A.          |La Linda Ballesteros                |fotocopia / digital                        |                 |    🏅    |    🎻   |
-|Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente           |        ✓        |    ✨    |    🎼   |
+|Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente           |        ✅       |    ✨    |    🎼   |
 |Vergara, H.          |Recuerdo de La Palma                |fotocopia / digital                        |                 |    🏅    |    🎻   |
 
 
 ### Partituras de danzas (4) ![](https://geps.dev/progress/100)
 
-|      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
-|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|Cortez, B.           |Contradanza                         |fotocopia / escrita digitalmente  |        ✓        |
-|Cortez, B.           |Polka                               |fotocopia / escrita a mano        |        ✓        |
-|Leguízamo, J.        |El gallo canelo                     |fotocopia / escrita digitalmente  |        ✓        |
-|Vásquez, M.          |Denesa Tonosí                       |fotocopia / escrita a mano        |        ✓        |
+|      **Autor**      |             **Título**             |      **Partitura original**               |**Transcripción**|**Estado**|**Audio**|
+|:--------------------|:-----------------------------------|:-----------------------------------------:|:---------------:|:--------:|:-------:|
+|Cortez, B.           |Contradanza +1                      |fotocopia / escrita a mano y digitalmente  |        ✅       |    🏅    |    🪗   |
+|Cortez, B.           |Polka                               |fotocopia / escrita a mano                 |        ✅       |    🏅    |    🪗   |
+|Cortez, O.           |Verónica Ruth                       |fotocopia / escrita digitalmente           |                 |    ✨    |    🎼   |
+|Leguízamo, J.        |El gallo canelo                     |fotocopia / escrita digitalmente           |        ✅       |    🏅    |    🎻   |
+|Vásquez, M.          |Denesa Tonosí                       |fotocopia / escrita a mano                 |        ✅       |    🏅    |    🪗   |
 
 
 ### Partituras de puntos (6) ![](https://geps.dev/progress/100)
 
-|  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
-|------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|PUN01 |Batista, C.          |Socavón del Canajagua               |fotocopia / escrita a mano        |        ✓*       |
-|PUN02 |Batista, C.          |Zapatitos de pana                   |fotografía de baja resolución     |        ✓        |
-|PUN03 |Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente  |        ✓*       |
-|PUN04 |Díaz, A.             |Bajo el cielo de Tonosí             |escrita digitalmente              |        ✓        |
-|PUN05 |Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución |        ✓        |
-|PUN06 |Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente  |        ✓        |
-|PUN07 |Desconocido          |Punto Ocueño                        |escrita digitalmente              |        ✓        |
+|      **Autor**      |             **Título**             |      **Partitura original**               |**Transcripción**|**Estado**|**Audio**|
+|:--------------------|:-----------------------------------|:-----------------------------------------:|:---------------:|:--------:|:-------:|
+|Batista, C.          |Margarita Lozano                    |fotocopia / escrita digitalmente           |                 |    ✨    |    🎼   |
+|Batista, C.          |Socavón del Canajagua *             |fotocopia / escrita a mano                 |        ✓*       |          |         |
+|Batista, C.          |Zapatitos de pana                   |fotografía de baja resolución              |        ✓        |          |         |
+|Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente           |                 |    ✨    |    🎼   |
+|Díaz, A.             |Bajo el cielo de Tonosí             |escrita digitalmente                       |        ✓        |          |         |
+|Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución          |        ✓        |          |         |
+|Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente           |        ✅       |    🏅    |    🎻   |
+|Desconocido          |Punto Ocueño                        |escrita digitalmente                       |        ✓        |          |         |
 
 
 ### Partituras de boleros (16) ![](https://geps.dev/progress/44)
