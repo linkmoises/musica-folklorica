@@ -36,11 +36,12 @@ La colección editorial está organizada de la siguiente manera:
 
 * 🎻 Grabación o interpretación documentada con **violín**.
 * 🪗 Grabación o interpretación documentada con **acordeón**.
+* 🔴 Grabación o interpretación documentadad o en vivo en Youtube.
 * 🎼 No se ha localizado una grabación o interpretación documentada.
 
 **Estado**
 
-* 🏅 Obra **incluida o a incluir en uno de los volúmenes** de la antología.
+* 📖 Obra **incluida o a incluir en uno de los volúmenes** de la antología.
 * ✨ **Material adicional** disponible en el sitio web, pero no incluido en los libros.
 * 🔎 Obra **en investigación**; por ahora permanece únicamente en el repositorio.
 
@@ -51,76 +52,76 @@ Estos indicadores describen el estado de cada obra dentro del proyecto y no nece
 
 |      **Autor**      |             **Título**             |      **Partitura original**               |**Transcripción**|**Estado**|**Audio**|
 |:--------------------|:-----------------------------------|:-----------------------------------------:|:---------------:|:--------:|:-------:|
-|Batista, C.          |Nalú                                |fotografía de baja resolución              |        ✅       |    🏅    |    🎻   |
-|Batista, C.          |Ojos de Pastora                     |fotocopia / digital                        |                 |    🏅    |    🎻   |
-|Batista, C.          |Talanquera                          |fotocopia / escrita a mano                 |                 |    🏅    |    🎻   |
-|Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente           |        ✅       |    🏅    |    🎻   |
-|Cedeño, J.           |Embustera *                         |imagen digital poco legible                |        ✅       |    🏅    |    🎻   |
-|Cedeño, J.           |La realidad                         |fotocopia / escrita a mano y digitalmente  |        ✅       |    🏅    |    🎻   |
-|Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano                 |        ✅       |    🏅    |    🎻   |
-|Cedeño, J.           |Por olvidarte                       |fotografía de baja resolución              |        ✅       |    🏅    |    🎻   |
-|Cedeño, J.           |Recuerdo de La Laguna               |fotocopia / digital                        |                 |    🏅    |    🎻   |
-|Cedeño, J.           |Soledad *                           |fotografía de baja resolución              |        ✅       |    🏅    |    🎻   |
-|Cedeño, J.           |Triste vida de soltero              |fotografía de baja resolución              |        ✅       |    🏅    |    🎻   |
-|Córdova, A.          |Pueblo nuevo *                      |fotocopia / escrita a mano                 |        ✅       |    🏅    |    🎻   |
-|Córdoba, R.          |Ráscate                             |fotocopia / escrita digitalmente           |        ✅       |    🏅    |    🎻   |
-|Córdoba, S.          |El mogollón *                       |transcripción de audio grabado             |        ✅       |    🏅    |    🎻   |
-|Gómez, V.            |Mamá Eva *                          |fotocopia / escrita a mano                 |        ✅       |    🏅    |    🎻   |
-|Molina, J.           |La espigadilla                      |fotocopia / digital                        |                 |    🏅    |    🎻   |
-|Ramírez, F.          |Edicta no me quiere *               |fotocopia / escrita a mano                 |        ✅       |    🏅    |    🎻   |
-|Ramírez, F.          |Las flores del camino               |fotocopia / digital                        |                 |    🏅    |    🎻   |
+|Batista, C.          |Nalú                                |fotografía de baja resolución              |        ✅       |    📖    |    🎻   |
+|Batista, C.          |Ojos de Pastora                     |fotocopia / digital                        |                 |    📖    |    🎻   |
+|Batista, C.          |Talanquera                          |fotocopia / escrita a mano                 |                 |    📖    |    🎻   |
+|Cedeño, J.           |Amorcito lindo                      |fotocopia / escrita digitalmente           |        ✅       |    📖    |    🎻   |
+|Cedeño, J.           |Embustera *                         |imagen digital poco legible                |        ✅       |    📖    |    🎻   |
+|Cedeño, J.           |La realidad                         |fotocopia / escrita a mano y digitalmente  |        ✅       |    📖    |    🎻   |
+|Cedeño, J.           |Mal de amor                         |fotocopia / escrita a mano                 |        ✅       |    📖    |    🎻   |
+|Cedeño, J.           |Por olvidarte                       |fotografía de baja resolución              |        ✅       |    📖    |    🎻   |
+|Cedeño, J.           |Recuerdo de La Laguna               |fotocopia / digital                        |                 |    📖    |    🎻   |
+|Cedeño, J.           |Soledad *                           |fotografía de baja resolución              |        ✅       |    📖    |    🎻   |
+|Cedeño, J.           |Triste vida de soltero              |fotografía de baja resolución              |        ✅       |    📖    |    🎻   |
+|Córdova, A.          |Pueblo nuevo *                      |fotocopia / escrita a mano                 |        ✅       |    📖    |    🎻   |
+|Córdoba, R.          |Ráscate                             |fotocopia / escrita digitalmente           |        ✅       |    📖    |    🎻   |
+|Córdoba, S.          |El mogollón *                       |transcripción de audio grabado             |        ✅       |    📖    |    🎻   |
+|Gómez, V.            |Mamá Eva *                          |fotocopia / escrita a mano                 |        ✅       |    📖    |    🎻   |
+|Molina, J.           |La espigadilla                      |fotocopia / digital                        |                 |    📖    |    🎻   |
+|Ramírez, F.          |Edicta no me quiere *               |fotocopia / escrita a mano                 |        ✅       |    📖    |    🎻   |
+|Ramírez, F.          |Las flores del camino               |fotocopia / digital                        |                 |    📖    |    🎻   |
 |Ramírez, F.          |LLegando a Paraíso                  |fotocopia / escrita digitalmente           |                 |    🔎    |    🎼   |
-|Ramírez, F.          |Nunca me desprecies                 |imagen digital de baja resolución          |        ✅       |    🏅    |    🎻   |
-|Ramírez, F.          |Sentimientos del alma +1            |fotocopia / escrita a mano / foto digital  |        ✅       |    🏅    |    🎻   |
+|Ramírez, F.          |Nunca me desprecies                 |imagen digital de baja resolución          |        ✅       |    📖    |    🎻   |
+|Ramírez, F.          |Sentimientos del alma +1            |fotocopia / escrita a mano / foto digital  |        ✅       |    📖    |    🎻   |
 |Ramírez, F.          |Te amaré toda la vida               |fotocopia / escrita a mano                 |                 |    🔎    |    🎼   |
 |Ramírez, F.          |Velada en El Cañafístulo            |imagen digital de baja resolución          |        ✅       |    ✨    |    🎼   |
-|Sáez, A.             |La rebujina                         |fotocopia / escrita a mano                 |                 |    🏅    |    🎻   |
-|Vergara, A.          |La Espina +1                        |fotocopia / escrita a mano / escaneado     |        ✅       |    🏅    |    🎻   |
-|Vergara, A.          |La Linda Ballesteros                |fotocopia / digital                        |                 |    🏅    |    🎻   |
+|Sáez, A.             |La rebujina                         |fotocopia / escrita a mano                 |                 |    📖    |    🎻   |
+|Vergara, A.          |La Espina +1                        |fotocopia / escrita a mano / escaneado     |        ✅       |    📖    |    🎻   |
+|Vergara, A.          |La Linda Ballesteros                |fotocopia / digital                        |                 |    📖    |    🎻   |
 |Vergara, H.          |Margarita Vargas                    |fotocopia / escrita digitalmente           |        ✅       |    ✨    |    🎼   |
-|Vergara, H.          |Recuerdo de La Palma                |fotocopia / digital                        |                 |    🏅    |    🎻   |
+|Vergara, H.          |Recuerdo de La Palma                |fotocopia / digital                        |                 |    📖    |    🎻   |
 
 
-### Partituras de danzas (4) ![](https://geps.dev/progress/100)
+### Partituras de danzas (5) ![](https://geps.dev/progress/100)
 
 |      **Autor**      |             **Título**             |      **Partitura original**               |**Transcripción**|**Estado**|**Audio**|
 |:--------------------|:-----------------------------------|:-----------------------------------------:|:---------------:|:--------:|:-------:|
-|Cortez, B.           |Contradanza +1                      |fotocopia / escrita a mano y digitalmente  |        ✅       |    🏅    |    🪗   |
-|Cortez, B.           |Polka                               |fotocopia / escrita a mano                 |        ✅       |    🏅    |    🪗   |
-|Cortez, O.           |Verónica Ruth                       |fotocopia / escrita digitalmente           |                 |    ✨    |    🎼   |
-|Leguízamo, J.        |El gallo canelo                     |fotocopia / escrita digitalmente           |        ✅       |    🏅    |    🎻   |
-|Vásquez, M.          |Denesa Tonosí                       |fotocopia / escrita a mano                 |        ✅       |    🏅    |    🪗   |
+|Cortez, B.           |Contradanza +1                      |fotocopia / escrita a mano y digitalmente  |        ✅       |    📖    |    🪗   |
+|Cortez, B.           |Polka                               |fotocopia / escrita a mano                 |        ✅       |    📖    |    🪗   |
+|Cortez, O.           |Verónica Ruth                       |fotocopia / escrita digitalmente           |        ✅       |    📖    |    🔴   |
+|Leguízamo, J.        |El gallo canelo                     |fotocopia / escrita digitalmente           |        ✅       |    📖    |    🎻   |
+|Vásquez, M.          |Denesa Tonosí                       |fotocopia / escrita a mano                 |        ✅       |    📖    |    🪗   |
 
 
-### Partituras de puntos (6) ![](https://geps.dev/progress/100)
+### Partituras de puntos (8) ![](https://geps.dev/progress/100)
 
 |      **Autor**      |             **Título**             |      **Partitura original**               |**Transcripción**|**Estado**|**Audio**|
 |:--------------------|:-----------------------------------|:-----------------------------------------:|:---------------:|:--------:|:-------:|
 |Batista, C.          |Margarita Lozano                    |fotocopia / escrita digitalmente           |                 |    ✨    |    🎼   |
-|Batista, C.          |Socavón del Canajagua *             |fotocopia / escrita a mano                 |        ✓*       |          |         |
-|Batista, C.          |Zapatitos de pana                   |fotografía de baja resolución              |        ✓        |          |         |
+|Batista, C.          |Socavón del Canajagua *             |fotocopia / escrita a mano                 |        ✅       |          |         |
+|Batista, C.          |Zapatitos de pana                   |fotografía de baja resolución              |        ✅       |          |         |
 |Cortez, O.           |Verónica Ruth Quintero              |fotocopia / escrita digitalmente           |                 |    ✨    |    🎼   |
-|Díaz, A.             |Bajo el cielo de Tonosí             |escrita digitalmente                       |        ✓        |          |         |
-|Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución          |        ✓        |          |         |
-|Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente           |        ✅       |    🏅    |    🎻   |
-|Desconocido          |Punto Ocueño                        |escrita digitalmente                       |        ✓        |          |         |
+|Díaz, A.             |Bajo el cielo de Tonosí             |escrita digitalmente                       |        ✅       |          |         |
+|Leguízamo, M.        |Vírgen de Guadalupe                 |imagen digital de baja resolución          |        ✅       |          |         |
+|Quintero, E.         |Santa Librada                       |fotocopia / escrita digitalmente           |        ✅       |    📖    |    🎻   |
+|Desconocido          |Punto Ocueño                        |escrita digitalmente                       |        ✅       |          |         |
 
 
 ### Partituras de boleros (16) ![](https://geps.dev/progress/44)
 
 |  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|BOL01 |Andrión, M.          |Al guacamaya                        |fotocopia / escrita digitalmente  |        ✓        |
-|BOL02 |Eleta, C.            |Historia de una amor                |fotocopia / escrita digitalmente  |        ✓        |
-|BOL03 |Eleta, C.            |Perdónala señor                     |fotocopia / escrita digitalmente  |        ✓        |
-|BOL04 |Fábrega, R.          |Aquella melodía                     |fotocopia / escrita digitalmente  |        ✓        |
-|BOL05 |Fábrega, R.          |Bajo el palmar                      |fotocopia / escrita digitalmente  |        ✓        |
+|BOL01 |Andrión, M.          |Al guacamaya                        |fotocopia / escrita digitalmente  |        ✅       |
+|BOL02 |Eleta, C.            |Historia de una amor                |fotocopia / escrita digitalmente  |        ✅       |
+|BOL03 |Eleta, C.            |Perdónala señor                     |fotocopia / escrita digitalmente  |        ✅       |
+|BOL04 |Fábrega, R.          |Aquella melodía                     |fotocopia / escrita digitalmente  |        ✅       |
+|BOL05 |Fábrega, R.          |Bajo el palmar                      |fotocopia / escrita digitalmente  |        ✅       |
 |BOL06 |Fábrega, R.          |Cuando lejos de ti                  |fotocopia / escrita digitalmente  |                 |
 |BOL07 |Fábrega, R.          |Madrecita                           |fotocopia / escrita digitalmente  |                 |
 |BOL08 |Fábrega, R.          |Noche tropical                      |fotocopia / escrita digitalmente  |                 |
 |BOL09 |Fábrega, R.          |Panamá                              |fotocopia / escrita digitalmente  |                 |
-|BOL10 |Fábrega, R.          |Panamá Viejo                        |fotocopia / escrita digitalmente  |        ✓        |
-|BOL11 |Fábrega, R.          |Santa Ana                           |fotocopia / escrita digitalmente  |        ✓        |
+|BOL10 |Fábrega, R.          |Panamá Viejo                        |fotocopia / escrita digitalmente  |        ✅       |
+|BOL11 |Fábrega, R.          |Santa Ana                           |fotocopia / escrita digitalmente  |        ✅       |
 |BOL12 |Fábrega, R.          |Taboga                              |fotocopia / escrita digitalmente  |                 |
 |BOL13 |Hassán, A.           |Mi último bolero                    |fotocopia / escrita digitalmente  |                 |
 |BOL14 |Hassán, A.           |Soñar                               |fotocopia / escrita digitalmente  |                 |
@@ -132,13 +133,13 @@ Estos indicadores describen el estado de cada obra dentro del proyecto y no nece
 
 |  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
-|PAS01 |Alcedo, C.           |Isabel (Brisas mesanas)             |escaneado / baja resolución       |        ✓        |
-|PAS02 |Batista, C.          |Horas amargas                       |fotografía de baja resolución     |        ✓        |
-|PAS03 |Batista, C.          |Piedra                              |escaneado / baja resolución       |        ✓        |
+|PAS01 |Alcedo, C.           |Isabel (Brisas mesanas)             |escaneado / baja resolución       |        ✅       |
+|PAS02 |Batista, C.          |Horas amargas                       |fotografía de baja resolución     |        ✅       |
+|PAS03 |Batista, C.          |Piedra                              |escaneado / baja resolución       |        ✅       |
 |PAS04 |Cavalli, V.          |Cantares                            |escrita digitalmente              |                 |
 |PAS05 |Cavalli, V.          |Panamá                              |escrita digitalmente              |                 |
 |PAS06 |Charpentier, E.      |Lindita                             |fotocopia / escrita digitalmente  |                 |
-|PAS07 |Córdova, A.          |Recuerdos de Josefa                 |fotografía de baja resolución     |        ✓        |
+|PAS07 |Córdova, A.          |Recuerdos de Josefa                 |fotografía de baja resolución     |        ✅       |
 |PAS08 |Córdova, A.          |Uno a cada lado                     |fotocopia / digital               |                 |
 |PAS09 |Galimany, A.         |Amistad                             |escrita digitalmente              |                 |
 |PAS10 |Galimany, A.         |Belisarito                          |escrita digitalmente              |                 |
@@ -150,12 +151,12 @@ Estos indicadores describen el estado de cada obra dentro del proyecto y no nece
 |PAS16 |Galimany, A.         |María Esperanza                     |escrita digitalmente              |                 |
 |PAS17 |Galimany, A.         |María Luisa                         |escrita digitalmente              |                 |
 |PAS18 |Gómez, V.            |Alma santeña                        |escrita digitalmente              |                 |
-|PAS19 |Gómez, V.            |Club Danubio                        |fotocopia / escrita a mano        |        ✓        |
+|PAS19 |Gómez, V.            |Club Danubio                        |fotocopia / escrita a mano        |        ✅       |
 |PAS20 |Gómez, V.            |Desilusión mesana                   |escrita digitalmente              |                 |
 |PAS21 |Gómez, V.            |La alondra chiricana                |escrita digitalmente              |                 |
 |PAS22 |Gómez, V.            |Poeta y aldeano                     |escrita digitalmente              |                 |
 |PAS23 |Gómez, V.            |Sinsonte chiricano                  |escrita digitalmente              |                 |
-|PAS24 |Gómez, V.            |Suspiro de una fea                  |fotocopia / escrita digitalmente  |        ✓        |
+|PAS24 |Gómez, V.            |Suspiro de una fea                  |fotocopia / escrita digitalmente  |        ✅       |
 |PAS25 |Jorge, S.            |Dulce hogar                         |escrita digitalmente              |                 |
 
 
@@ -164,11 +165,11 @@ Estos indicadores describen el estado de cada obra dentro del proyecto y no nece
 |  ID  |      **Autor**      |             **Título**             |      **Partitura original**      |**Transcripción**|
 |------|:--------------------|:-----------------------------------|:--------------------------------:|:---------------:|
 |TAM01 |Cavalli, V.          |El hombre aparecido                 |fotocopia / escrita digitalmente  |                 |
-|TAM02 |Cavalli, V.          |La cocaleca                         |fotocopia / escrita digitalmente  |        ✓        |
-|TAM03 |De La Lastra, G.     |Panamá Soberana                     |fotocopia / escrita digitalmente  |        ✓        |
+|TAM02 |Cavalli, V.          |La cocaleca                         |fotocopia / escrita digitalmente  |        ✅       |
+|TAM03 |De La Lastra, G.     |Panamá Soberana                     |fotocopia / escrita digitalmente  |        ✅       |
 |TAM04 |De La Lastra, G.     |Tengo, tengo                        |fotocopia / escrita digitalmente  |                 |
 |TAM05 |Fabrega, R.          |Alevántate muchacho                 |imagen digital de baja resolución |                 |
-|TAM06 |Fábrega, R.          |Guararé                             |fotocopia / escrita digitalmente  |        ✓        |
+|TAM06 |Fábrega, R.          |Guararé                             |fotocopia / escrita digitalmente  |        ✅       |
 |TAM07 |Hassán, A.           |La guayabita                        |fotocopia / escrita digitalmente  |                 |
 
 

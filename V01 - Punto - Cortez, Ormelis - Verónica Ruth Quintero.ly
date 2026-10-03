@@ -4,15 +4,15 @@
 	title = "Verónica Ruth Quintero"
 	subtitle = "Punto"
 	composer = "Ormelis Cortez (1953 - presente)"
-	tagline = ##f
+	tagline = \markup{ \image #X #8 #"extend/logo-musica-panama.eps" }
 }
 
 \paper {
 	#(set-paper-size "letter")
-	top-margin = 25
-	bottom-margin = 25
-	left-margin = 30
-	right-margin = 30
+	top-margin = 15
+	bottom-margin = 10
+	left-margin = 15
+	right-margin = 15
 	print-page-number = false
 	indent = 0
 }
@@ -22,7 +22,7 @@
 global = {
 	\time 6/8
 	\tempo 4 = 90
-	\key c \major
+	\key a \minor
 }
 
 melodia = \new Voice \relative c' {
@@ -140,5 +140,8 @@ lirica = \lyricmode {
 
 \score { %% genera la muestra MIDI melódica
 	\unfoldRepeats { \melodia }
-	\midi { \tempo 4 = 90 } %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
+	\midi { 
+		\set Staff.midiInstrument = #"violin"
+		\tempo 4 = 100 %% colocar tempo numérico para que se exporte a velocidad adecuada, por defecto está en 4 = 90
+	} 
 }
